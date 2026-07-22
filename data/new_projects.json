@@ -1,5 +1,38 @@
 {
-  "scraped_at": "2026-07-22T22:28:50+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-07-22T23:31:47+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3222734,
+      "title": "Исправить код в тильде",
+      "url": "https://kwork.ru/projects/3222734",
+      "description": "Есть моб меню, зашито в зеро блок, его надо \"вытащить\" оттуда в отдельный блок и привязать ссылки к блокам.",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "kissedlemon",
+      "buyer_projects": 9,
+      "hire_rate": 67,
+      "offers": 0,
+      "time_left": "23 ч. 41 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3222728,
+      "title": "Перебить песню из суно",
+      "url": "https://kwork.ru/projects/3222728",
+      "description": "Добрый день надо перебить песню из суноОтдать мультитреком \nДлительность 3:20\nСпасибо спасибо спасибо",
+      "price": 5000,
+      "max_budget": null,
+      "buyer": "Dandy12344",
+      "buyer_projects": 70,
+      "hire_rate": 57,
+      "offers": 1,
+      "time_left": "1 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
