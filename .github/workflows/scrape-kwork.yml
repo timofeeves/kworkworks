@@ -43,7 +43,11 @@ jobs:
         shell: bash
         run: |
           PAGES="${{ inputs.pages }}"
-          if [ -z "$PAGES" ]; then PAGES="3"; fi
+          if [ -z "$PAGES" ] && [ -f trigger.txt ]; then
+            PAGES="$(head -n 1 trigger.txt | tr -cd '0-9')"
+          fi
+          if ! [[ "$PAGES" =~ ^[1-9][0-9]?$ ]]; then PAGES="3"; fi
+          if [ "$PAGES" -gt 10 ]; then PAGES="10"; fi
           echo "Scanning first $PAGES page(s)"
           KWORK_PAGES="$PAGES" python scraper.py
 
