@@ -1,0 +1,1 @@
+Initial trigger placeholder. Update this file to start the scraper from ChatGPT.
