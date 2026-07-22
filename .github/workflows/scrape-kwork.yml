@@ -60,7 +60,7 @@ jobs:
           fi
 
           if ! [[ "$PAGES" =~ ^[1-9][0-9]?$ ]]; then PAGES="3"; fi
-          if [ "$PAGES" -gt 10 ]; then PAGES="10"; fi
+          if [ "$PAGES" -gt 50 ]; then PAGES="50"; fi
 
           echo "Scanning first $PAGES page(s)"
           KWORK_PAGES="$PAGES" python scraper.py
