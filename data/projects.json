@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-07-22T21:18:23+00:00",
+  "scraped_at": "2026-07-22T22:11:40+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 43,
+  "reported_total_pages": 42,
   "scanned_pages": 1,
   "page_summaries": [
     {
@@ -23,8 +23,8 @@
       "buyer": "arktika17",
       "buyer_projects": 104,
       "hire_rate": 37,
-      "offers": 3,
-      "time_left": "2 д. 23 ч.",
+      "offers": 11,
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [
         "https://docs.google.com/document/d/190Mcti3zNYHiMEFKgacod-25J-fiBfraN7IwCxtFUZw/edit?tab=t.0"
@@ -41,8 +41,8 @@
       "buyer": "komsomolecdonbassa",
       "buyer_projects": 200,
       "hire_rate": 43,
-      "offers": 12,
-      "time_left": "23 ч. 27 мин.",
+      "offers": 17,
+      "time_left": "22 ч. 33 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -57,8 +57,8 @@
       "buyer": "gsmboom",
       "buyer_projects": 81,
       "hire_rate": 73,
-      "offers": 1,
-      "time_left": "23 ч. 21 мин.",
+      "offers": 3,
+      "time_left": "22 ч. 28 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -73,8 +73,8 @@
       "buyer": "alinavik0",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 23,
-      "time_left": "23 ч. 6 мин.",
+      "offers": 42,
+      "time_left": "22 ч. 13 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -90,7 +90,7 @@
       "buyer_projects": 25,
       "hire_rate": 62,
       "offers": 1,
-      "time_left": "23 ч. 6 мин.",
+      "time_left": "22 ч. 13 мин.",
       "files": [
         "Ролик-Аниме.docx"
       ],
@@ -108,7 +108,7 @@
       "buyer_projects": 2,
       "hire_rate": null,
       "offers": 0,
-      "time_left": "22 ч. 35 мин.",
+      "time_left": "21 ч. 42 мин.",
       "files": [],
       "external_links": [
         "https://lepestok.by/"
@@ -125,8 +125,8 @@
       "buyer": "dobro131",
       "buyer_projects": 170,
       "hire_rate": 67,
-      "offers": 1,
-      "time_left": "23 ч. 32 мин.",
+      "offers": 5,
+      "time_left": "22 ч. 39 мин.",
       "files": [],
       "external_links": [
         "https://drive.google.com/drive/folders/1hro6i3rNxDpObu9eoHd9L1IGZ9j-4ymX?usp=drive_link",
@@ -145,7 +145,7 @@
       "buyer_projects": 3,
       "hire_rate": 0,
       "offers": 1,
-      "time_left": "22 ч. 43 мин.",
+      "time_left": "21 ч. 50 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -161,7 +161,7 @@
       "buyer_projects": 3,
       "hire_rate": 0,
       "offers": 2,
-      "time_left": "22 ч. 44 мин.",
+      "time_left": "21 ч. 50 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -177,7 +177,7 @@
       "buyer_projects": 40,
       "hire_rate": 68,
       "offers": 3,
-      "time_left": "23 ч. 5 мин.",
+      "time_left": "22 ч. 12 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -193,7 +193,7 @@
       "buyer_projects": 14,
       "hire_rate": 33,
       "offers": 0,
-      "time_left": "23 ч. 46 мин.",
+      "time_left": "22 ч. 52 мин.",
       "files": [
         "15.jpg"
       ],
@@ -210,8 +210,8 @@
       "buyer": "site-chemax",
       "buyer_projects": 84,
       "hire_rate": 37,
-      "offers": 14,
-      "time_left": "1 д. 23 ч.",
+      "offers": 16,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
