@@ -1,0 +1,34 @@
+name: Rank Kwork Projects
+
+on:
+  push:
+    paths:
+      - "rank_trigger.txt"
+
+permissions:
+  contents: write
+
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rank projects
+        run: python rank_projects.py
+      - name: Commit ranking
+        shell: bash
+        run: |
+          git config user.name "kworkworks-bot"
+          git config user.email "kworkworks-bot@users.noreply.github.com"
+          git add data/ranking.json
+          if git diff --cached --quiet; then
+            echo "No ranking changes"
+            exit 0
+          fi
+          git commit -m "Update Kwork ranking"
+          git push
