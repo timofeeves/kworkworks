@@ -10,6 +10,11 @@ on:
   push:
     paths:
       - "trigger.txt"
+  schedule:
+    # Fast scan: first page every 10 minutes.
+    - cron: "3,13,23,33,43,53 * * * *"
+    # Deep scan: first five pages once per hour.
+    - cron: "7 * * * *"
 
 permissions:
   contents: write
@@ -43,11 +48,20 @@ jobs:
         shell: bash
         run: |
           PAGES="${{ inputs.pages }}"
-          if [ -z "$PAGES" ] && [ -f trigger.txt ]; then
+
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "${{ github.event.schedule }}" = "7 * * * *" ]; then
+              PAGES="5"
+            else
+              PAGES="1"
+            fi
+          elif [ -z "$PAGES" ] && [ -f trigger.txt ]; then
             PAGES="$(head -n 1 trigger.txt | tr -cd '0-9')"
           fi
+
           if ! [[ "$PAGES" =~ ^[1-9][0-9]?$ ]]; then PAGES="3"; fi
           if [ "$PAGES" -gt 10 ]; then PAGES="10"; fi
+
           echo "Scanning first $PAGES page(s)"
           KWORK_PAGES="$PAGES" python scraper.py
 
