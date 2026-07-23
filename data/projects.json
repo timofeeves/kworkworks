@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T21:48:58+00:00",
+  "scraped_at": "2026-07-23T22:42:30+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 43,
@@ -8,117 +8,76 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 2650412
+      "first_project_id": 2900419
     }
   ],
   "count": 12,
   "projects": [
     {
-      "id": 3223386,
-      "title": "Проект вентиляции в модульной бане",
-      "url": "https://kwork.ru/projects/3223386",
-      "description": "Нужно сделать проект по вентиляции для модульной бани. Присылайте сразу примеры работВытяжка нужна в парилке, душевой и сан узле",
-      "price": 5000,
-      "max_budget": 15000,
-      "buyer": "0010012y",
-      "buyer_projects": 18,
-      "hire_rate": 53,
-      "offers": 1,
-      "time_left": "2 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3223385,
-      "title": "Помочь настроить рацию моторолла",
-      "url": "https://kwork.ru/projects/3223385",
-      "description": "Помочь настроить рацию моторолла вот эту https://ozon.ru/t/v0B3ekq удаленно, есть универсальнфй провод, не могу понять какое ПО нужно и что делать когда ПО установлю, смогу дать удаленный доступ к КП",
+      "id": 3223406,
+      "title": "Создать картинку -афишу",
+      "url": "https://kwork.ru/projects/3223406",
+      "description": "Создать картинку -афишу, образец  прилагается. Создать с использованием фотошопа ии др.аналогичной програмы. Фото людей создавать не через ИИ.",
       "price": 500,
-      "max_budget": 1500,
-      "buyer": "santons",
-      "buyer_projects": 146,
+      "max_budget": null,
+      "buyer": "natapochta2014",
+      "buyer_projects": 9,
       "hire_rate": 83,
-      "offers": 1,
-      "time_left": "2 д. 23 ч.",
-      "files": [],
-      "external_links": [
-        "https://ozon.ru/t/v0B3ekq"
-      ],
-      "source_page": 1
-    },
-    {
-      "id": 3209422,
-      "title": "Сделать проект разводки электрики в бане",
-      "url": "https://kwork.ru/projects/3209422",
-      "description": "Нужно сделать схему разводки электрики на основе плана-чертежа планировки. Пример во вложении. Срок готовности - 3 июля 20,00 или по договоренности",
-      "price": 6000,
-      "max_budget": 18000,
-      "buyer": "0010012y",
-      "buyer_projects": 18,
-      "hire_rate": 53,
-      "offers": 1,
-      "time_left": "2 д. 23 ч.",
-      "files": [
-        "Снимок экрана&nbsp;&mdash; 2026-07-02 в&nbsp;15.04.56.png",
-        "Снимок экрана&nbsp;&mdash; 2026-07-02 в&nbsp;15.04.51.png",
-        "Снимок экрана&nbsp;&mdash; 2026-07-02 в&nbsp;15.04.45.png"
-      ],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3196186,
-      "title": "Видео для сервиса wibes",
-      "url": "https://kwork.ru/projects/3196186",
-      "description": "Разработать видеоролик с озвучкой  для товара. Туторы детские голеностопные (2 шт - левый и правый ) Ortobrace ТО-25premium https://ozon.ru/t/zMV8eXz",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "rvsbiz",
-      "buyer_projects": 50,
-      "hire_rate": 57,
-      "offers": 1,
-      "time_left": "2 д. 23 ч.",
-      "files": [],
-      "external_links": [
-        "https://ozon.ru/t/zMV8eXz"
-      ],
-      "source_page": 1
-    },
-    {
-      "id": 3196173,
-      "title": "Видеоролик для Wibes",
-      "url": "https://kwork.ru/projects/3196173",
-      "description": "Видеоролик на платформе WibesСоздать видеоролик для Wibes по товару. Бионический экзоскелет для кисти exoglove XPG01 после инсульта\nhttps://ozon.ru/t/VacZT4V\nФормат: вертикальный видеоряд (9:16), MP4, разрешение — FullHD (1920×1080).",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "rvsbiz",
-      "buyer_projects": 50,
-      "hire_rate": 57,
       "offers": 0,
       "time_left": "2 д. 23 ч.",
       "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3223403,
+      "title": "Икс 5 отказывается предоставлять адрес магазина",
+      "url": "https://kwork.ru/projects/3223403",
+      "description": "Хочу знать откуда мне везут заказ(доставку продуктов), поскольку я хочу оставить претензию на этот магазин. Поддержка на гор линии отказывается, ссылаясь на конфиденциальность. Является ли это нарушением ЗоПП?",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "Darya_97",
+      "buyer_projects": 32,
+      "hire_rate": 19,
+      "offers": 0,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3223401,
+      "title": "Доработать страницы сайта учебного центра на Друпал",
+      "url": "https://kwork.ru/projects/3223401",
+      "description": "Добрый вечер.Есть два идентичных независимых сайта двух филиалов образовательного центра. \nCMS Drupal.\nНеобходимо доработать страницы сайтов https://odintsovo.on-5.ru/ и https://moskva.on-5.ru/.\nПодробное ТЗ во вложении.\nПрошу откликнуться только специалистов, имеющих опыт работы с CMS Drupal.\nЖду Ваших предложений по стоимости.\nСрок исполнения 3 дня.",
+      "price": 3000,
+      "max_budget": 9000,
+      "buyer": "on-5",
+      "buyer_projects": 52,
+      "hire_rate": 83,
+      "offers": 6,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
       "external_links": [
-        "https://ozon.ru/t/VacZT4V"
+        "https://odintsovo.on-5.ru/",
+        "https://moskva.on-5.ru/"
       ],
       "source_page": 1
     },
     {
-      "id": 3196161,
-      "title": "Видеоролик на платформе Wibes",
-      "url": "https://kwork.ru/projects/3196161",
-      "description": "Создать видеоролик для Wibes по товару. Вакуумный колокол при воронкообразной деформации грудной клетки KLOBE pectus excavatum KPE-3https://ozon.ru/t/ofrw97L\nХронометраж: до 90секунд.\nФормат: вертикальный видеоряд (9:16), MP4, разрешение — FullHD (1920×1080).\nТребования:\n* показать товар в первые 2–3секунды;\n* продемонстрировать ключевые преимущества и использование;\n* обеспечить яркое, динамичное изображение без тряски и затемнений;\n* добавить профессиональную озвучку на русском языке (закадровый голос);\n* включить ненавязчивую музыку без нарушения авторских прав;\n* по возможности добавить субтитры;\n* завершить ролик логотипом бренда и призывом к действию.",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "rvsbiz",
-      "buyer_projects": 50,
-      "hire_rate": 57,
-      "offers": 1,
+      "id": 3223400,
+      "title": "Ищем UI/UX-дизайнера (Figma) для мобильного приложения",
+      "url": "https://kwork.ru/projects/3223400",
+      "description": "Разрабатываем мобильное приложение с картой, чатом и системой встреч. Ищем дизайнера, который сможет собрать полноценный дизайн-проект в Figma и подготовить его к разработке.Что предстоит сделать:\nперенести готовые референсы экранов в Figma;\nпривести все экраны к единому современному стилю;\nвыполнить редизайн части экранов существующего приложения;\nсоздать полноценную дизайн-систему (компоненты, стили, Auto Layout, Variants);\nподготовить светлую и тёмную темы;\nоформить все необходимые состояния экранов и элементов;\nподготовить макеты для передачи разработчикам.\nБольшая часть логики приложения уже продумана, есть готовые референсы основных экранов и описание функционала. Детальное техническое задание будет отправлено кандидатам после ознакомления с портфолио.\nВ отклике, пожалуйста, укажите:\nстоимость работы;\nориентировочные сроки;\nпортфолио мобильных приложений (желательно с дизайн-системами);\nопыт подготовки макетов к разработке.",
+      "price": 100000,
+      "max_budget": 200000,
+      "buyer": "juliestyle5467",
+      "buyer_projects": 3,
+      "hire_rate": 50,
+      "offers": 4,
       "time_left": "2 д. 23 ч.",
       "files": [],
-      "external_links": [
-        "https://ozon.ru/t/ofrw97L"
-      ],
+      "external_links": [],
       "source_page": 1
     },
     {
@@ -132,7 +91,7 @@
       "buyer_projects": 50,
       "hire_rate": 57,
       "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "time_left": "2 д. 22 ч.",
       "files": [
         "1768921386183-1781467792.jpg",
         "Каталог.pdf",
@@ -160,8 +119,8 @@
       "buyer": "rvsbiz",
       "buyer_projects": 50,
       "hire_rate": 57,
-      "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "offers": 2,
+      "time_left": "2 д. 22 ч.",
       "files": [
         "1761383667456-82119325.jpg",
         "1756443485965--906172298.jpg",
@@ -182,8 +141,8 @@
       "buyer": "rvsbiz",
       "buyer_projects": 50,
       "hire_rate": 57,
-      "offers": 1,
-      "time_left": "2 д. 23 ч.",
+      "offers": 4,
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [
         "https://ozon.ru/s/ortez36"
@@ -201,7 +160,7 @@
       "buyer_projects": 50,
       "hire_rate": 57,
       "offers": 1,
-      "time_left": "2 д. 23 ч.",
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [
         "https://ozon.ru/s/ortez36"
@@ -218,11 +177,43 @@
       "buyer": "rvsbiz",
       "buyer_projects": 50,
       "hire_rate": 57,
-      "offers": 1,
-      "time_left": "2 д. 23 ч.",
+      "offers": 3,
+      "time_left": "2 д. 22 ч.",
       "files": [
         "mmexport1766830111993.jpg"
       ],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 2994129,
+      "title": "Работа с персоналом, поиск сотрудников маркетплейс",
+      "url": "https://kwork.ru/projects/2994129",
+      "description": "Пример задачи:1 поиск исполнителя\n2 консультирование по задачам маркетплейса\nЕсли вы уже ведете деятельность на маркетплейсах, или хотите начать работу в направлении-статус ип, самз, или обязательно возможность открытия, указывайте-рассмотрим ваш отклик",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "andreidmitriev17647",
+      "buyer_projects": 37,
+      "hire_rate": 60,
+      "offers": 0,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 2900419,
+      "title": "Маркетплейс карточки рутинная работа wildberries",
+      "url": "https://kwork.ru/projects/2900419",
+      "description": "Добавлять карточки,Кворк-500р-100 карточек\nСреднее время на выполнение карточки 5 мин, рисовать не требуется. \nКопировать-менять названия-изображения-простые задачи. Навыки фотошопа базовые.",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "andreidmitriev17647",
+      "buyer_projects": 37,
+      "hire_rate": 60,
+      "offers": 3,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
       "external_links": [],
       "source_page": 1
     },
@@ -236,8 +227,8 @@
       "buyer": "rvsbiz",
       "buyer_projects": 50,
       "hire_rate": 57,
-      "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "offers": 3,
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [
         "https://www.avito.ru/brands/i159374994"
