@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T01:05:52+00:00",
+  "scraped_at": "2026-07-23T03:08:20+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 42,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3222738
+      "first_project_id": 3222758
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3222758,
+      "title": "Настройка Яндекс метрики в inSales и установка целей",
+      "url": "https://kwork.ru/projects/3222758",
+      "description": "Установить счетчик  и 3 целевых действия Корзина(оформление заказа) \nСоц сети - две(переход) \nИ звонок(клик по номеру телефона)",
+      "price": 1000,
+      "max_budget": null,
+      "buyer": "skvortsov_devops",
+      "buyer_projects": 2,
+      "hire_rate": null,
+      "offers": 0,
+      "time_left": "23 ч. 57 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3222738,
       "title": "Менеджер проекта",
@@ -24,7 +40,7 @@
       "buyer_projects": 323,
       "hire_rate": 63,
       "offers": 0,
-      "time_left": "1 д. 22 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +55,8 @@
       "buyer": "www08",
       "buyer_projects": 90,
       "hire_rate": 70,
-      "offers": 2,
-      "time_left": "22 ч. 33 мин.",
+      "offers": 3,
+      "time_left": "20 ч. 30 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -56,7 +72,7 @@
       "buyer_projects": 9,
       "hire_rate": 67,
       "offers": 11,
-      "time_left": "22 ч. 7 мин.",
+      "time_left": "20 ч. 5 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -71,8 +87,8 @@
       "buyer": "Dandy12344",
       "buyer_projects": 70,
       "hire_rate": 57,
-      "offers": 2,
-      "time_left": "1 д. 21 ч.",
+      "offers": 3,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -87,30 +103,11 @@
       "buyer": "arktika17",
       "buyer_projects": 104,
       "hire_rate": 37,
-      "offers": 13,
-      "time_left": "2 д. 20 ч.",
+      "offers": 14,
+      "time_left": "2 д. 17 ч.",
       "files": [],
       "external_links": [
         "https://docs.google.com/document/d/190Mcti3zNYHiMEFKgacod-25J-fiBfraN7IwCxtFUZw/edit?tab=t.0"
-      ],
-      "source_page": 1
-    },
-    {
-      "id": 3222662,
-      "title": "Генерация презентации в изоброжениях",
-      "url": "https://kwork.ru/projects/3222662",
-      "description": "Необходимо сгенерировать перезнтационные изображения. 20 слайдов подробно расписаны в ТЗ для исполнения в файле. Потребуется использовать реальные фотографии и логотипы. На информации не должно быть видно дефектов по тексту или ии генераций с ляпами в картинках. Единая структура размера каждого слайда, текстовых заголовков и в целом единые шрифты, цветовая гамма и габаритные размеры текстовые. https://drive.google.com/drive/folders/1hro6i3rNxDpObu9eoHd9L1IGZ9j-4ymX?usp=drive_link\nhttps://drive.google.com/drive/folders/15mLVn8JnlxuY9IzrnM4Jdb8Vs-3vXMY_?dmr=1&ec=wgc-drive-hero-goto",
-      "price": 1500,
-      "max_budget": 4500,
-      "buyer": "dobro131",
-      "buyer_projects": 170,
-      "hire_rate": 67,
-      "offers": 7,
-      "time_left": "19 ч. 44 мин.",
-      "files": [],
-      "external_links": [
-        "https://drive.google.com/drive/folders/1hro6i3rNxDpObu9eoHd9L1IGZ9j-4ymX?usp=drive_link",
-        "https://drive.google.com/drive/folders/15mLVn8JnlxuY9IzrnM4Jdb8Vs-3vXMY_?dmr=1&ec=wgc-drive-hero-goto"
       ],
       "source_page": 1
     },
@@ -125,7 +122,7 @@
       "buyer_projects": 30,
       "hire_rate": 53,
       "offers": 3,
-      "time_left": "21 ч. 35 мин.",
+      "time_left": "19 ч. 33 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -140,8 +137,8 @@
       "buyer": "ivacademy",
       "buyer_projects": 30,
       "hire_rate": 53,
-      "offers": 0,
-      "time_left": "21 ч. 35 мин.",
+      "offers": 2,
+      "time_left": "19 ч. 33 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -157,7 +154,7 @@
       "buyer_projects": 30,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "21 ч. 35 мин.",
+      "time_left": "19 ч. 33 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -173,7 +170,7 @@
       "buyer_projects": 30,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "21 ч. 35 мин.",
+      "time_left": "19 ч. 33 мин.",
       "files": [],
       "external_links": [
         "https://www.litres.ru/book/nikolae-kyrpale/rus-svyata-72768673/chitat-onlayn/"
@@ -191,7 +188,7 @@
       "buyer_projects": 30,
       "hire_rate": 53,
       "offers": 3,
-      "time_left": "21 ч. 35 мин.",
+      "time_left": "19 ч. 33 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -207,7 +204,7 @@
       "buyer_projects": 14,
       "hire_rate": 33,
       "offers": 0,
-      "time_left": "19 ч. 58 мин.",
+      "time_left": "17 ч. 56 мин.",
       "files": [
         "15.jpg"
       ],

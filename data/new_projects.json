@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-07-23T01:05:52+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-07-23T03:08:20+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3222758,
+      "title": "Настройка Яндекс метрики в inSales и установка целей",
+      "url": "https://kwork.ru/projects/3222758",
+      "description": "Установить счетчик  и 3 целевых действия Корзина(оформление заказа) \nСоц сети - две(переход) \nИ звонок(клик по номеру телефона)",
+      "price": 1000,
+      "max_budget": null,
+      "buyer": "skvortsov_devops",
+      "buyer_projects": 2,
+      "hire_rate": null,
+      "offers": 0,
+      "time_left": "23 ч. 57 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
