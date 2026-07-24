@@ -1,5 +1,38 @@
 {
-  "scraped_at": "2026-07-23T23:40:25+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-07-24T01:08:06+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3223425,
+      "title": "Создание кабинета на АВИТО",
+      "url": "https://kwork.ru/projects/3223425",
+      "description": "Создание РК и ее запуск (по образцу), создание обьявлений(+100шт), умение пользоваться ИИ для редактирования картинок и текстов, работа \"под ключ\".",
+      "price": 5000,
+      "max_budget": 15000,
+      "buyer": "pulsar197",
+      "buyer_projects": 52,
+      "hire_rate": 60,
+      "offers": 0,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3215755,
+      "title": "Привлечение пользователей",
+      "url": "https://kwork.ru/projects/3215755",
+      "description": "Необходимо организовать привлечение живых людей для участия в конкурсе на форуме AuT BuG в кол-ве не менее 100 человек.Условия конкурса на форуме AuT BuG в разделе \"Конкурсы\"",
+      "price": 3000,
+      "max_budget": 9000,
+      "buyer": "AuTBuG",
+      "buyer_projects": 29,
+      "hire_rate": 57,
+      "offers": 1,
+      "time_left": "2 д. 22 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
