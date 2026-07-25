@@ -1,5 +1,38 @@
 {
-  "scraped_at": "2026-07-24T23:48:31+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-07-25T01:15:42+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3224118,
+      "title": "Главный инженер проекта",
+      "url": "https://kwork.ru/projects/3224118",
+      "description": "Главный инженер проекта состоящий на приз для проверки и подписания проектной документации коммерческих объектов",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "denis-c2006",
+      "buyer_projects": 34,
+      "hire_rate": 24,
+      "offers": 0,
+      "time_left": "2 д. 19 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 2950981,
+      "title": "Ведение кабинета wildberries",
+      "url": "https://kwork.ru/projects/2950981",
+      "description": "Задача:Ведение кабинета wildberries. \nСдавать отчеты\nТребование : \n-Активный - неактивный кабинет на wildberries,",
+      "price": 1000,
+      "max_budget": null,
+      "buyer": "andreidmitriev17647",
+      "buyer_projects": 37,
+      "hire_rate": 60,
+      "offers": 1,
+      "time_left": "2 д. 19 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
