@@ -1,5 +1,38 @@
 {
-  "scraped_at": "2026-07-25T22:35:13+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-07-25T23:41:01+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3224585,
+      "title": "Нарисовать мангу по тексту",
+      "url": "https://kwork.ru/projects/3224585",
+      "description": "Есть текст книги по нему нужно нарисовать мангу. Начать нужно с 1й главы. Манга в японском стиле, чб.",
+      "price": 5000,
+      "max_budget": 15000,
+      "buyer": "tatianakhronusova",
+      "buyer_projects": 8,
+      "hire_rate": 67,
+      "offers": 1,
+      "time_left": "1 д. 22 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3224472,
+      "title": "Перенос парсинг карточек",
+      "url": "https://kwork.ru/projects/3224472",
+      "description": "Перенос парсинг карточек wildberriesВ карточке изображения и текстовая информация\nЕсть excel файл\nВарианты переноса",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "andreidmitriev17647",
+      "buyer_projects": 38,
+      "hire_rate": 60,
+      "offers": 2,
+      "time_left": "1 д. 21 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
