@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26T22:40:54+00:00",
+  "scraped_at": "2026-07-26T23:41:22+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 52,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3224961
+      "first_project_id": 3224968
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3224968,
+      "title": "HR на удаленке",
+      "url": "https://kwork.ru/projects/3224968",
+      "description": "Добрый день, ищу человека на подработку, который поможет найти в команду сотрудника с нужными характеристиками.В данный момент нужен маркетолог.\nОбычно я ищу в регионе, одаренных людей, просто нет работы у них на месте, выходит за небольшие деньги получаем классного сотрудника. Студенты последних курсов тоже хорошо себя показывают. Из минусов, это из 60 человек один нам подойдет, мы намываем золото себе, работа кропотливая и не быстрая.\nПредлагаю по 2-3 часа в день выделять, в будни.",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "s7s13",
+      "buyer_projects": 396,
+      "hire_rate": 20,
+      "offers": 0,
+      "time_left": "23 ч. 6 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3224961,
       "title": "SEO корректировки по ТЗ",
@@ -23,8 +39,8 @@
       "buyer": "bestmu",
       "buyer_projects": 139,
       "hire_rate": 43,
-      "offers": 1,
-      "time_left": "23 ч. 36 мин.",
+      "offers": 4,
+      "time_left": "22 ч. 36 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +55,8 @@
       "buyer": "irasachek",
       "buyer_projects": 390,
       "hire_rate": 93,
-      "offers": 5,
-      "time_left": "22 ч. 22 мин.",
+      "offers": 6,
+      "time_left": "21 ч. 22 мин.",
       "files": [
         "Малоценные страницы.pptx"
       ],
@@ -57,8 +73,8 @@
       "buyer": "79219381937",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 49,
-      "time_left": "2 д. 22 ч.",
+      "offers": 55,
+      "time_left": "2 д. 21 ч.",
       "files": [
         "26-07-2026_23-46-28.zip"
       ],
@@ -75,8 +91,8 @@
       "buyer": "Ivan_zakaz1",
       "buyer_projects": 5,
       "hire_rate": 75,
-      "offers": 2,
-      "time_left": "22 ч. 19 мин.",
+      "offers": 3,
+      "time_left": "21 ч. 19 мин.",
       "files": [
         "IMG_6925.png"
       ],
@@ -93,8 +109,8 @@
       "buyer": "geomarketing",
       "buyer_projects": 48,
       "hire_rate": 53,
-      "offers": 0,
-      "time_left": "22 ч. 19 мин.",
+      "offers": 1,
+      "time_left": "21 ч. 18 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -109,8 +125,8 @@
       "buyer": "Vladislav-",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 11,
-      "time_left": "22 ч. 19 мин.",
+      "offers": 12,
+      "time_left": "21 ч. 19 мин.",
       "files": [
         "Техническое задание на дизайн гарантийной.docx",
         "IMG_1318.heic",
@@ -129,8 +145,8 @@
       "buyer": "61rostov",
       "buyer_projects": 1091,
       "hire_rate": 57,
-      "offers": 16,
-      "time_left": "22 ч. 19 мин.",
+      "offers": 18,
+      "time_left": "21 ч. 19 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -145,8 +161,8 @@
       "buyer": "Konstantin-47",
       "buyer_projects": 11,
       "hire_rate": 56,
-      "offers": 10,
-      "time_left": "1 д. 21 ч.",
+      "offers": 11,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [
         "https://yandex.ru/profile/112351642494",
@@ -155,24 +171,6 @@
         "https://yandex.ru/profile/47546936950",
         "https://yandex.ru/profile/2515014089",
         "https://yandex.ru/profile/1154300109"
-      ],
-      "source_page": 1
-    },
-    {
-      "id": 3224522,
-      "title": "Продвижение Твитч",
-      "url": "https://kwork.ru/projects/3224522",
-      "description": "Добрый день, требуется продвижение начального Твитч канала, игровой стрим. Требуются специалист, кто привлечёт живых активных зрителей и подписчиков. Ну или специалиста кто сможет на постоянной основе продвигать канал. Ссылка на канал : Я веду прямую трансляцию на Twitch, присоединяйтесь к веселью! https://www.twitch.tv/mrfodimax?sr=a",
-      "price": 5000,
-      "max_budget": 15000,
-      "buyer": "MAXMAN1",
-      "buyer_projects": 26,
-      "hire_rate": 18,
-      "offers": 8,
-      "time_left": "22 ч. 19 мин.",
-      "files": [],
-      "external_links": [
-        "https://www.twitch.tv/mrfodimax?sr=a"
       ],
       "source_page": 1
     },
@@ -186,8 +184,8 @@
       "buyer": "Saldafon-",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 36,
-      "time_left": "2 д. 22 ч.",
+      "offers": 37,
+      "time_left": "2 д. 21 ч.",
       "files": [
         "ТЗ WMS FBS.docx",
         "ТЗ WMS FBS_v2.0.docx"
@@ -206,7 +204,7 @@
       "buyer_projects": 50,
       "hire_rate": 57,
       "offers": 6,
-      "time_left": "1 д. 22 ч.",
+      "time_left": "1 д. 21 ч.",
       "files": [
         "Доп.png",
         "1761383667456-82119325.jpg",
@@ -233,7 +231,7 @@
       "buyer_projects": 14,
       "hire_rate": 33,
       "offers": 0,
-      "time_left": "22 ч. 19 мин.",
+      "time_left": "21 ч. 18 мин.",
       "files": [
         "15.jpg"
       ],
