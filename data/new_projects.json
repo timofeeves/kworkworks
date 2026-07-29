@@ -1,38 +1,5 @@
 {
-  "scraped_at": "2026-07-29T21:09:30+00:00",
-  "count": 2,
-  "projects": [
-    {
-      "id": 3226940,
-      "title": "Ар дома 90 кВ м",
-      "url": "https://kwork.ru/projects/3226940",
-      "description": "Требуется разработать раздел архитектурные решения для частного жилого дома примерную планировку и фото предоставим",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "denis-c2006",
-      "buyer_projects": 35,
-      "hire_rate": 24,
-      "offers": 0,
-      "time_left": "23 ч. 39 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3226937,
-      "title": "Переписывать субтитры с роликов youtube",
-      "url": "https://kwork.ru/projects/3226937",
-      "description": "Переписывать субтитры с роликов youtube и не только.только для голых анкет, без рейтинга, помогаем развиваться)",
-      "price": 15000,
-      "max_budget": 45000,
-      "buyer": "gfggh788",
-      "buyer_projects": 3,
-      "hire_rate": 0,
-      "offers": 18,
-      "time_left": "1 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-07-29T21:34:19+00:00",
+  "count": 0,
+  "projects": []
 }
