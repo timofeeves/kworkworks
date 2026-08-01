@@ -1,38 +1,5 @@
 {
-  "scraped_at": "2026-08-01T06:38:43+00:00",
-  "count": 2,
-  "projects": [
-    {
-      "id": 3228190,
-      "title": "Составить договор купли продажи",
-      "url": "https://kwork.ru/projects/3228190",
-      "description": "Необходимо составить дкп для ипотеки, банк Сбер. Часть жилого дома и земельный участок. Оплата ипотека и первоначальный взнос.",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "mr-bestop",
-      "buyer_projects": 67,
-      "hire_rate": 15,
-      "offers": 2,
-      "time_left": "2 д. 14 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3228189,
-      "title": "Настроить рекламу мобильного приложения",
-      "url": "https://kwork.ru/projects/3228189",
-      "description": "Нужно настроить рекламу мобильного приложения таксиРегион - Крым\nВ отклике просьба указать предполагаемые бюджеты, а также варианты и предложения по настройке которые буду использованы",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "61rostov",
-      "buyer_projects": 1094,
-      "hire_rate": 47,
-      "offers": 0,
-      "time_left": "2 д. 14 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-01T07:16:14+00:00",
+  "count": 0,
+  "projects": []
 }
