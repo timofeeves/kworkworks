@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-05T23:38:48+00:00",
+  "scraped_at": "2026-08-06T01:04:39+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 38,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3230931
+      "first_project_id": 3230935
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3230935,
+      "title": "Оператор контент каталога",
+      "url": "https://kwork.ru/projects/3230935",
+      "description": "Оператор контент-каталогаИщем внимательного специалиста для долгосрочной работы с образовательным контентом.\nНеобходимо переносить материалы в единый контент-каталог, работать с Google Sheets и Google Docs, добавлять ссылки, категории, теги и метаданные, а также проверять корректность транскрибаций.\nЗанятость: 5–6 часов в день. Возможно долгосрочное сотрудничество.\nЧто нужно делать\n• переносить материалы в контент-каталог по инструкции;\n• работать с Google Sheets и Google Docs;\n• оформлять книги, аудиокниги, видео, мультфильмы и отзывы;\n• добавлять ссылки, категории, теги и метаданные;\n• проверять и при необходимости исправлять транскрибации;\n• готовить ежедневный отчет о выполненной работе;\n• отмечать спорные моменты для проверки.\nТребования\n• уверенное владение Google Sheets и Google Docs;\n• внимательность и аккуратность;\n• умение работать по подробным инструкциям (SOP);\n• ответственность и соблюдение сроков;\n• готовность работать 5–6 часов в день.\nБудет преимуществом:\n• опыт работы с каталогами, базами данных или большими объемами информации;\n• знание английского или немецкого языка.",
+      "price": 8000,
+      "max_budget": 24000,
+      "buyer": "levprojects2019",
+      "buyer_projects": 11,
+      "hire_rate": 60,
+      "offers": 3,
+      "time_left": "1 д. 22 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3230931,
       "title": "Продвинуть новый сервис",
@@ -23,8 +39,8 @@
       "buyer": "anfas_vital",
       "buyer_projects": 11,
       "hire_rate": 50,
-      "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "offers": 3,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [
         "https://umnoemenu.ru/"
@@ -42,7 +58,7 @@
       "buyer_projects": 16,
       "hire_rate": 77,
       "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -57,8 +73,8 @@
       "buyer": "hotventby",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 1,
-      "time_left": "23 ч. 3 мин.",
+      "offers": 4,
+      "time_left": "21 ч. 37 мин.",
       "files": [
         "photo_2026-07-23_23-27-10.jpg"
       ],
@@ -76,7 +92,7 @@
       "buyer_projects": 86,
       "hire_rate": 68,
       "offers": 5,
-      "time_left": "22 ч. 26 мин.",
+      "time_left": "21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -91,8 +107,8 @@
       "buyer": "INTETIX",
       "buyer_projects": 11,
       "hire_rate": 100,
-      "offers": 11,
-      "time_left": "2 д. 22 ч.",
+      "offers": 14,
+      "time_left": "2 д. 20 ч.",
       "files": [
         "референс 2 - трицератопс.png",
         "референс 1 - тираннозавр.png",
@@ -111,8 +127,8 @@
       "buyer": "vsyakoetakoe95",
       "buyer_projects": 70,
       "hire_rate": 53,
-      "offers": 10,
-      "time_left": "21 ч. 56 мин.",
+      "offers": 12,
+      "time_left": "20 ч. 30 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -128,7 +144,7 @@
       "buyer_projects": 22,
       "hire_rate": 58,
       "offers": 1,
-      "time_left": "2 д. 21 ч.",
+      "time_left": "2 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -143,8 +159,8 @@
       "buyer": "DXB-1",
       "buyer_projects": 22,
       "hire_rate": 58,
-      "offers": 1,
-      "time_left": "2 д. 21 ч.",
+      "offers": 2,
+      "time_left": "2 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -160,7 +176,7 @@
       "buyer_projects": 22,
       "hire_rate": 58,
       "offers": 0,
-      "time_left": "2 д. 21 ч.",
+      "time_left": "2 д. 20 ч.",
       "files": [
         "ЛОГО.png"
       ],
@@ -178,7 +194,7 @@
       "buyer_projects": 8,
       "hire_rate": 17,
       "offers": 0,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -194,26 +210,8 @@
       "buyer_projects": 22,
       "hire_rate": 58,
       "offers": 0,
-      "time_left": "2 д. 21 ч.",
+      "time_left": "2 д. 20 ч.",
       "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 2973475,
-      "title": "Квал лиды для брокера по недвижимости в Дубаи",
-      "url": "https://kwork.ru/projects/2973475",
-      "description": "На постоянной основе ищу человека кто бы предоставлял Квал лиды для брокера по недвижимости в Дубаи.  Работать буду только с профи у кого уже есть достаточно кейсов за плечами. Просьба новичков меня не беспокоить. Оплата строго здесь через кворк. Ни каких предоплат на первом этапе знакомства.\nПросьба сразу указать коротко стратегию привлечения лидов. \nТак же обязательно стоимость за горячий квал лид и за простой.\nИсполнителя буду выбирать естественно по цене.\nПо этому работа через кворк даст гарантию что я получу именно то за что плачу. Ну а дальше будет видно.\nМНЕ НЕ НУЖНЫ НИ КАКИЕ услуги ! НЕ предлагайте НЕ тратьте ВРЕМЯ ! Я покупаю только готовые квалифицированные ЛИДЫ !",
-      "price": 200000,
-      "max_budget": null,
-      "buyer": "DXB-1",
-      "buyer_projects": 22,
-      "hire_rate": 58,
-      "offers": 0,
-      "time_left": "2 д. 21 ч.",
-      "files": [
-        "ЛОГО.png"
-      ],
       "external_links": [],
       "source_page": 1
     }
