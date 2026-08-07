@@ -1,53 +1,18 @@
 {
-  "scraped_at": "2026-08-07T22:58:48+00:00",
+  "scraped_at": "2026-08-07T23:37:20+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 38,
+  "reported_total_pages": 37,
   "scanned_pages": 1,
   "page_summaries": [
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3232210
+      "first_project_id": 3211356
     }
   ],
   "count": 12,
   "projects": [
-    {
-      "id": 3232210,
-      "title": "Парсинг компаний",
-      "url": "https://kwork.ru/projects/3232210",
-      "description": "Необходимо спарсить телефоны, телеграмы, вотсапы всех тату и пирсинг студий в Москве и МО без дублей",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "kloz9",
-      "buyer_projects": 24,
-      "hire_rate": 28,
-      "offers": 0,
-      "time_left": "2 д. 22 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3232173,
-      "title": "Нужно из 2 видио собрать ролик креативный",
-      "url": "https://kwork.ru/projects/3232173",
-      "description": "Я в свободное время иногда Ищу правды где надо и где не надо снимаю это все на видио и завел канал, недавно мне попался торговец арбузами разводивший грязь и торговавший незаконно я написал жалобу в добродел и снял ролик https://vkvideo.ru/video-239788996_456239029\nи далее его от туда попросили ( администрация ) и это видио Выезд администрации https://disk.yandex.ru/d/bnnSuf5yidLmeQь  он так и не уехали и продолжил торговать и второе видио там жа в мапке диска\nнужно запилить ролик для вк (если нужно то цензурировать и дзена \nможно покреативить",
-      "price": 3000,
-      "max_budget": 9000,
-      "buyer": "ID-2384401",
-      "buyer_projects": 12,
-      "hire_rate": 40,
-      "offers": 7,
-      "time_left": "2 д. 20 ч.",
-      "files": [],
-      "external_links": [
-        "https://vkvideo.ru/video-239788996_456239029",
-        "https://disk.yandex.ru/d/bnnSuf5yidLmeQ%D1%8C"
-      ],
-      "source_page": 1
-    },
     {
       "id": 3232145,
       "title": "Отрисовать серию простых иллюстраций в векторе",
@@ -58,8 +23,8 @@
       "buyer": "Rina_Maria",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 11,
-      "time_left": "2 д. 21 ч.",
+      "offers": 12,
+      "time_left": "2 д. 20 ч.",
       "files": [
         "Художник.png"
       ],
@@ -77,7 +42,7 @@
       "buyer_projects": 11,
       "hire_rate": 22,
       "offers": 3,
-      "time_left": "2 д. 21 ч.",
+      "time_left": "2 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -92,7 +57,7 @@
       "buyer": "workplace_1",
       "buyer_projects": 90,
       "hire_rate": 23,
-      "offers": 15,
+      "offers": 16,
       "time_left": "2 д. 17 ч.",
       "files": [],
       "external_links": [],
@@ -109,7 +74,7 @@
       "buyer_projects": 24,
       "hire_rate": 77,
       "offers": 3,
-      "time_left": "2 д. 20 ч.",
+      "time_left": "2 д. 19 ч.",
       "files": [
         "ШАБЛОН__Предложение_исполнителя__v1.0__260806.md",
         "ПРИЛОЖЕНИЕ__Рабочая_папка_документирование_и_AI__v1.0__260806.md",
@@ -129,7 +94,7 @@
       "buyer_projects": 12,
       "hire_rate": 55,
       "offers": 4,
-      "time_left": "2 д. 22 ч.",
+      "time_left": "2 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -146,6 +111,38 @@
       "hire_rate": 53,
       "offers": 1,
       "time_left": "2 д. 20 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3211356,
+      "title": "Продающий вовлекающий дизайн",
+      "url": "https://kwork.ru/projects/3211356",
+      "description": "Ищу специалиста,который делает продающий,цепляющий людей дизайн в социальных сетях преимущественно ВК,побуждающий к оформлению карт и покупке курсов.Обязательно присылайте ссылки на своё портфолио или сами работы прикрепляйте к отклику.Если вы умеете делать что-то например вести социальные сети,занимаетесь продвижением,продающим контентом и т.д.,то пожалуйста дайте знать,сразу с конкретной  суммой.",
+      "price": 5000,
+      "max_budget": 15000,
+      "buyer": "sergey_sharabanov_93",
+      "buyer_projects": 4,
+      "hire_rate": 0,
+      "offers": 0,
+      "time_left": "2 д. 21 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3210329,
+      "title": "Трафик и конверсии",
+      "url": "https://kwork.ru/projects/3210329",
+      "description": "Ищу специалиста,который умеет делать трафик в различных проектах: миллион го,свой в альфа и Т-банк и ДР.Если вы уже работали с данными проектами или в них,дайте знать.Хочется хотя бы за неделю увидеть результаты,а не просто вкладывать деньги впустую  на протяжении месяца.Оплата раз или два  в неделю,возможно и на каждодневной основе.Предоплаты не рассматриваю.",
+      "price": 10000,
+      "max_budget": 30000,
+      "buyer": "sergey_sharabanov_93",
+      "buyer_projects": 4,
+      "hire_rate": 0,
+      "offers": 0,
+      "time_left": "2 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -192,8 +189,8 @@
       "buyer": "yakodyako",
       "buyer_projects": 8,
       "hire_rate": 0,
-      "offers": 0,
-      "time_left": "2 д. 21 ч.",
+      "offers": 1,
+      "time_left": "2 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
