@@ -1,38 +1,5 @@
 {
-  "scraped_at": "2026-08-08T07:09:22+00:00",
-  "count": 2,
-  "projects": [
-    {
-      "id": 3232259,
-      "title": "After Effects 2026",
-      "url": "https://kwork.ru/projects/3232259",
-      "description": "Добрый день.Нужен человек с After Effects 2026 последней версии, есть проект, который сам не могу открыть, оттуда нужно будет отдельно отрендерить пару материалов, работа максимально простая и срочная, если будет много откликов не тратьте кредиты, буду работать с первым у кого откроется файл.",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "M-Motion",
-      "buyer_projects": 2,
-      "hire_rate": null,
-      "offers": 0,
-      "time_left": "2 д. 13 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3232253,
-      "title": "Грубый мужской голос Адская песня на английском",
-      "url": "https://kwork.ru/projects/3232253",
-      "description": "Грубый мужской голос Песня на английском.в предложения прикладывайте ваши образцы.\nИИ голос не нужен",
-      "price": 6000,
-      "max_budget": 18000,
-      "buyer": "Noy72",
-      "buyer_projects": 27,
-      "hire_rate": 55,
-      "offers": 0,
-      "time_left": "2 д. 13 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-08T07:11:44+00:00",
+  "count": 0,
+  "projects": []
 }
