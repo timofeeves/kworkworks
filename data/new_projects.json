@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-08-08T09:50:13+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-08T10:01:27+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3232328,
+      "title": "Проблема со спамом на ворд пресс",
+      "url": "https://kwork.ru/projects/3232328",
+      "description": "Решить проблему с сайтом на вордпресс со спамом Буду ожидать предложения хочу решить быстрее вопрос \nВыберу сразу\nОт 10 отзывов на кворк",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "Hr_pro",
+      "buyer_projects": 1779,
+      "hire_rate": 63,
+      "offers": 0,
+      "time_left": "2 д. 10 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
