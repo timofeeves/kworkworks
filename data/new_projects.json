@@ -1,23 +1,21 @@
 {
-  "scraped_at": "2026-08-08T19:42:51+00:00",
+  "scraped_at": "2026-08-08T20:03:18+00:00",
   "count": 1,
   "projects": [
     {
-      "id": 3232562,
-      "title": "Корректировка раздела ЭОМ",
-      "url": "https://kwork.ru/projects/3232562",
-      "description": "Нужно откорректировать раздел ЭОМ по списку замечаний. Замечания, ред. формат и смежные разделы по ссылке \nhttps://disk.yandex.ru/d/z3dLs7eL7I4wLQ",
-      "price": 10000,
-      "max_budget": 30000,
-      "buyer": "Radim_Safiev",
-      "buyer_projects": 74,
-      "hire_rate": 73,
+      "id": 3232567,
+      "title": "Настроить MCP Playwright для тестирования",
+      "url": "https://kwork.ru/projects/3232567",
+      "description": "Важно! Откликайтесь только те, у кого есть опыт в настройке MCP Playwright для тестирования. Чтобы не тратить времяЧто входит в заказ:\n1 ) Настройка MCP Playwright для тестирования, запуска, прохождения, написания\n2) Настройка по MCP Playwright для QA, который будет сам проходить шаги, и чтобы MCP Playwright запоминал, и в дальнейшем уже использовал сама в рамках автотестов\n3 ) Объяснение по настройке MCP Playwright",
+      "price": 1500,
+      "max_budget": 4500,
+      "buyer": "KeyKQ",
+      "buyer_projects": 124,
+      "hire_rate": 57,
       "offers": 0,
-      "time_left": "2 д. 1 ч.",
+      "time_left": "2 д.",
       "files": [],
-      "external_links": [
-        "https://disk.yandex.ru/d/z3dLs7eL7I4wLQ"
-      ],
+      "external_links": [],
       "source_page": 1
     }
   ]
