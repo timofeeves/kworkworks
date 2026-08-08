@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-08-08T04:17:55+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3232227,
-      "title": "Разработка евро буклета А4(2 стороны)",
-      "url": "https://kwork.ru/projects/3232227",
-      "description": "Необходимо разработать рекламный евробуклет а4 двухсторонний основываясь на сайте bio-stone.ruЦель буклета:\nПоказать что мы продаем и почему это нужно купить.",
-      "price": 2000,
-      "max_budget": 6000,
-      "buyer": "w101313",
-      "buyer_projects": 5,
-      "hire_rate": 25,
-      "offers": 2,
-      "time_left": "2 д. 16 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-08T04:42:24+00:00",
+  "count": 0,
+  "projects": []
 }
