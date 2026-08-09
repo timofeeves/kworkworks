@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-08-09T22:54:08+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-09T23:34:53+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3233079,
+      "title": "Помощь с публикацией без тестирования в Google Play",
+      "url": "https://kwork.ru/projects/3233079",
+      "description": "Нужен человек у которого есть аккаунт созданный до 2023 года где есть возможность опубликоваться без тестирования на google play. Пишите обязательно если строго под эти условия подходите.",
+      "price": 10000,
+      "max_budget": 30000,
+      "buyer": "milena_kvin",
+      "buyer_projects": 103,
+      "hire_rate": 60,
+      "offers": 0,
+      "time_left": "1 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
