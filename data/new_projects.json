@@ -1,21 +1,80 @@
 {
-  "scraped_at": "2026-08-09T07:10:28+00:00",
-  "count": 1,
+  "scraped_at": "2026-08-09T08:00:21+00:00",
+  "count": 4,
   "projects": [
     {
-      "id": 3232661,
-      "title": "Разработка, верстка и наполнение справочника wordpress",
-      "url": "https://kwork.ru/projects/3232661",
-      "description": "Сверстать и создать справочник для сайта autbug.ru. C точным разделением, для фильтрации и возможностью выгрузки в excel и возможностью вставлять ссылки к карточкам товаров на магазины где можно приобрести. Сделать калькулятор, который будет рассчитывать расход препарата в зависимости от выбранного насекомого, оборудования и т.п. SEO-слой с адресами вида /catalog/ot-klopov/dlya-kvartiry/ и страницами вредителей. Автоматическая перелинковка: страница вредителя содержит ссылки на все связанные с ним препараты и оборудование. Автоматическая генерация sitemap.xml с включением всех страниц.Плюс мобильная версия. Полный дизайн под сайт и ПК версия, и мобильная версия.",
-      "price": 10000,
-      "max_budget": 30000,
-      "buyer": "AuTBuG",
-      "buyer_projects": 30,
-      "hire_rate": 61,
-      "offers": 12,
-      "time_left": "1 д. 23 ч.",
+      "id": 3232689,
+      "title": "Настроить рекламу в ВК",
+      "url": "https://kwork.ru/projects/3232689",
+      "description": "Настроить рекламу ВК на приложение агрегатора такси МЕТРО КРЫМА-на группу в ВК https://vk.ru/metrokryma \n-на сайт метро-крыма.рф\n-на само приложение https://www.rustore.ru/catalog/app/com.metrokryma.app \nБудем смотреть как что работает\nИтоговая цель - скачивание приложений\nКреативов нет. Нужно будет сделать при помощи ИИ. \nМотиватор - промокод на 500 руб за установку приложения",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "61rostov",
+      "buyer_projects": 1109,
+      "hire_rate": 57,
+      "offers": 1,
+      "time_left": "1 д. 12 ч.",
       "files": [],
-      "external_links": [],
+      "external_links": [
+        "https://vk.ru/metrokryma",
+        "https://www.rustore.ru/catalog/app/com.metrokryma.app"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": 3232680,
+      "title": "Видеобзор сервиса",
+      "url": "https://kwork.ru/projects/3232680",
+      "description": "Жду предложений по видео обзор сервиса https://teoplan.ru/finansovaya-model-online/Как это будет, время стоимость. Как вариант на экране обзор и в углу человек рассказывает о функционал как сотрудник сайта. Примеры, предложения, портфолио.",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "Teoplan",
+      "buyer_projects": 38,
+      "hire_rate": 82,
+      "offers": 0,
+      "time_left": "1 д. 13 ч.",
+      "files": [],
+      "external_links": [
+        "https://teoplan.ru/finansovaya-model-online/"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": 3232675,
+      "title": "Статьи на форумах с размещением",
+      "url": "https://kwork.ru/projects/3232675",
+      "description": "Необходимо размещение статей на форумах, новостных и тематических сайтах с высоким икс. Размещение статей о сервисе онлайн конструкторе финансовой модели https://teoplan.ru/finansovaya-model-online/Как вариант исходная статья для основы https://teoplan.ru/finansovaya-model/kak-sdelat-finansovuyu-model-online/\nПредложения направляйте со списком сайтов, форумов где будет размещение и цена. Ваши предложения.",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "Teoplan",
+      "buyer_projects": 38,
+      "hire_rate": 82,
+      "offers": 0,
+      "time_left": "1 д. 13 ч.",
+      "files": [],
+      "external_links": [
+        "https://teoplan.ru/finansovaya-model-online/",
+        "https://teoplan.ru/finansovaya-model/kak-sdelat-finansovuyu-model-online/"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": 3232672,
+      "title": "Монтаж видео",
+      "url": "https://kwork.ru/projects/3232672",
+      "description": "Добрый день! Ищу специалиста по монтажу, работа регулярная (2-6 видео в мес, иногда больше)Референсы:\nhttps://youtu.be/ui7oJZzfVLQ?is=iz3aX3dmyCS10rmp\nhttps://youtu.be/B8OvnZCJWXY?is=mx69wD5Y_oqG7i5J\nВидео снято на хромакей\nДлительность 5-12 мин \nНужно добавлять текст, сгенерированные вами видео по теме, фото по смыслу\nОриентир по цене 2000-2500 тыс за видео\nПрисылайте, пожалуйста, примеры своих работ\nВажно: ответственность (чтобы мы с вами изначально договаривались о реальных сроках и вы их выдерживали), умение работать с удержанием (чтобы видео, особенно в начале,было динамичным), грамотность (отсуствие большого количества ошибок к тексте на видео)",
+      "price": 2500,
+      "max_budget": 7500,
+      "buyer": "serpent_89",
+      "buyer_projects": 22,
+      "hire_rate": 61,
+      "offers": 2,
+      "time_left": "1 д. 13 ч.",
+      "files": [],
+      "external_links": [
+        "https://youtu.be/ui7oJZzfVLQ?is=iz3aX3dmyCS10rmp",
+        "https://youtu.be/B8OvnZCJWXY?is=mx69wD5Y_oqG7i5J"
+      ],
       "source_page": 1
     }
   ]
