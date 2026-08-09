@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T23:45:26+00:00",
+  "scraped_at": "2026-08-09T00:37:02+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 44,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3232609
+      "first_project_id": 3232612
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3232612,
+      "title": "SMM для нескольких видеопродакшенов в США",
+      "url": "https://kwork.ru/projects/3232612",
+      "description": "Ищу SMM-специалиста или небольшую команду для долгосрочного ведения нескольких аккаунтов разных видеопродакшенов в визуальной соцсети. Я нахожусь в Калифорнии, США, поэтому контент часто нужен на естественном английском языке для американской аудитории. Задачи: контент-план, тексты, истории, идеи и монтаж коротких вертикальных видео, публикация и аналитика. Каждый аккаунт — отдельный бренд. В отклике пришлите примеры аккаунтов и англоязычных текстов, текущую загрузку и стоимость ведения 1, 3 и 5 аккаунтов. Предлагаю начать с оплачиваемого тестового месяца на одном проекте. Накрутка не нужна. Таргетированную рекламу считать отдельно.",
+      "price": 30000,
+      "max_budget": 90000,
+      "buyer": "cloudagencymg",
+      "buyer_projects": 3,
+      "hire_rate": 50,
+      "offers": 0,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3232609,
       "title": "Нужны HR-ассистенты для поиска AI-видеоспециалистов",
@@ -24,7 +40,7 @@
       "buyer_projects": 547,
       "hire_rate": 80,
       "offers": 0,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -40,7 +56,7 @@
       "buyer_projects": 8,
       "hire_rate": 100,
       "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -55,8 +71,8 @@
       "buyer": "Consult-ING",
       "buyer_projects": 115,
       "hire_rate": 87,
-      "offers": 7,
-      "time_left": "1 д. 21 ч.",
+      "offers": 8,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -71,8 +87,8 @@
       "buyer": "matvejtvt",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 15,
-      "time_left": "1 д. 21 ч.",
+      "offers": 16,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -87,8 +103,8 @@
       "buyer": "mainplaybox",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 5,
-      "time_left": "1 д. 21 ч.",
+      "offers": 7,
+      "time_left": "1 д. 20 ч.",
       "files": [
         "Airbrush-IMAGE-ENHANCER-1786226868453-1786226868453.jpg",
         "Airbrush-IMAGE-ENHANCER-1786226878257-1786226878257.jpg",
@@ -113,7 +129,7 @@
       "buyer_projects": 6,
       "hire_rate": 67,
       "offers": 6,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [
         "image.png",
         "image.png"
@@ -132,27 +148,9 @@
       "buyer_projects": 90,
       "hire_rate": 68,
       "offers": 6,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3232584,
-      "title": "Парсер сайта provent",
-      "url": "https://kwork.ru/projects/3232584",
-      "description": "Нужен парсер https://provent.ru/ventustanovki-alpha/\nНа выходе все разбито по колонкам \nНазвание , артикул , цена , описание , характеристика 1, характеристика 2 и так далее все что есть. Все фото , причем фото качать и переименовывать как , артикул_1, артикул_2 и так далее. \nВидео качать и так же переименовывать тоже . \nВ общем все что возможно \nВсе парсить по товарам \nОтдельно в папку , документы , внутри папки с артикулами , и туда закачивать все что есть в вкладке загрузки . \nВсе это в 3 режима \n1. Скачать все \n2. Упрощенный (качает все кроме видео, и документов. \n3. Супер просто (качает все , кроме фоток , видео, и документов)",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "olegtaban",
-      "buyer_projects": 386,
-      "hire_rate": 70,
-      "offers": 25,
-      "time_left": "1 д. 21 ч.",
-      "files": [],
-      "external_links": [
-        "https://provent.ru/ventustanovki-alpha/"
-      ],
       "source_page": 1
     },
     {
@@ -165,8 +163,8 @@
       "buyer": "bel31shil",
       "buyer_projects": 7,
       "hire_rate": 50,
-      "offers": 9,
-      "time_left": "1 д. 21 ч.",
+      "offers": 10,
+      "time_left": "1 д. 20 ч.",
       "files": [
         "Оборона Москвы.docx"
       ],
@@ -184,7 +182,7 @@
       "buyer_projects": 1,
       "hire_rate": null,
       "offers": 0,
-      "time_left": "1 д. 22 ч.",
+      "time_left": "1 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -200,7 +198,7 @@
       "buyer_projects": 12,
       "hire_rate": 55,
       "offers": 1,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -216,7 +214,7 @@
       "buyer_projects": 156,
       "hire_rate": 30,
       "offers": 1,
-      "time_left": "2 д. 20 ч.",
+      "time_left": "2 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
