@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-08-10T23:47:19+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3233760,
-      "title": "Разместить статью или ссылку на HABR",
-      "url": "https://kwork.ru/projects/3233760",
-      "description": "Разместить статью или ссылку на HABRна сайт yooni.pro \nтематика - маркетплейс Wildberries\nпомогаем селлерам продавать товары га Wildberries",
-      "price": 2000,
-      "max_budget": 6000,
-      "buyer": "kmras",
-      "buyer_projects": 85,
-      "hire_rate": 70,
-      "offers": 0,
-      "time_left": "23 ч. 47 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-10T23:54:42+00:00",
+  "count": 0,
+  "projects": []
 }
