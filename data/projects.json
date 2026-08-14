@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T20:43:31+00:00",
+  "scraped_at": "2026-08-14T21:03:27+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 38,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3236535
+      "first_project_id": 3236541
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3236541,
+      "title": "Музыкальный клип",
+      "url": "https://kwork.ru/projects/3236541",
+      "description": "Нужно создать и наложить клип на существующую песню с помощью ИИ. Продолжительность видео 2 мин. 54 сек.Клип должен быть максимально реалистичным и стильным.\nСценарий клипа будет предоставлен с тех.заданием.",
+      "price": 10000,
+      "max_budget": 30000,
+      "buyer": "miran100500",
+      "buyer_projects": 96,
+      "hire_rate": 73,
+      "offers": 1,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3236535,
       "title": "SEO- Стратегия по ссылочному продвижению",
@@ -23,7 +39,7 @@
       "buyer": "ulten58",
       "buyer_projects": 54,
       "hire_rate": 50,
-      "offers": 0,
+      "offers": 1,
       "time_left": "2 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -39,7 +55,7 @@
       "buyer": "ekaterina_k07",
       "buyer_projects": 3,
       "hire_rate": 100,
-      "offers": 0,
+      "offers": 1,
       "time_left": "2 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -55,7 +71,7 @@
       "buyer": "loginovagalinaanna",
       "buyer_projects": 3,
       "hire_rate": 100,
-      "offers": 1,
+      "offers": 4,
       "time_left": "2 д. 23 ч.",
       "files": [
         "KjYniEDHpSQ7lXOyf1kDts46o6I45JerDJuDg8U-8u3E2HT-5DCFbeeBLOWQCMQ53DNWcmP3C8c-c74A_x5TtAty.jpg"
@@ -73,7 +89,7 @@
       "buyer": "weblogos",
       "buyer_projects": 7,
       "hire_rate": 83,
-      "offers": 1,
+      "offers": 3,
       "time_left": "2 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -89,32 +105,11 @@
       "buyer": "BKRT_INC",
       "buyer_projects": 15,
       "hire_rate": 77,
-      "offers": 1,
+      "offers": 3,
       "time_left": "2 д. 23 ч.",
       "files": [
         "рамен .png",
         "рамен грудь.png"
-      ],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3236520,
-      "title": "Корректировки в буклет",
-      "url": "https://kwork.ru/projects/3236520",
-      "description": "В готовом макете каталога нужно:1. на странице 2 поменять 2 цифры (см превью в джипеге)\n2. заменить страницу 39 на часть страницы про эффекты от внедрения из другого буклета (см превью в джипеге)\nМакет предоставить так же в пдф",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "andrej-pr",
-      "buyer_projects": 174,
-      "hire_rate": 13,
-      "offers": 4,
-      "time_left": "2 д. 22 ч.",
-      "files": [
-        "EHS_2 preview3.pdf",
-        "ПБЭ_буклет 205х205_print.pdf",
-        "mGDOi1wj.jpg",
-        "YCXvZePN.jpg"
       ],
       "external_links": [],
       "source_page": 1
@@ -129,11 +124,27 @@
       "buyer": "kosmetika877",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 21,
+      "offers": 22,
       "time_left": "2 д. 19 ч.",
       "files": [
         "tehnicheskoe_opisanie_avtobiddera_wb.pdf"
       ],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3235565,
+      "title": "АВИТО",
+      "url": "https://kwork.ru/projects/3235565",
+      "description": "1 неделя- переписка НА АВИТО. Время выполнения работы указано с запасом, желательно получить результат быстрее.  Текст, предаставим свой . Готовы к перепискам на площадке (взаимодействие с вами или вашим помощникам). С вас разные аккаунты. \nГотов рассмотреть ваши условия !",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "Nik-111",
+      "buyer_projects": 53,
+      "hire_rate": 81,
+      "offers": 0,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
       "external_links": [],
       "source_page": 1
     },
@@ -167,7 +178,7 @@
       "buyer_projects": 11,
       "hire_rate": 50,
       "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -183,7 +194,7 @@
       "buyer_projects": 11,
       "hire_rate": 50,
       "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -199,23 +210,7 @@
       "buyer_projects": 11,
       "hire_rate": 50,
       "offers": 0,
-      "time_left": "2 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3224332,
-      "title": "Поиск крупных заказов на покос травы, чистку территорий",
-      "url": "https://kwork.ru/projects/3224332",
-      "description": "Ищу исполнителя для поиска крупных заказов на покос травы и расчистку территории в Выборгском районе Ленобласти. Сумма заказа от 200 000 руб. Найти клиента (организацию или частное лицо), заинтересованного в услуге, передать контакт мне. Вознаграждение 20 000 руб. за каждого приведённого клиента. Оплата только через Кворк. После того как я выполнялю заказ и получу свои деньги, вы получите свои 20 тыс руб",
-      "price": 20000,
-      "max_budget": 60000,
-      "buyer": "lavrinenkoroman220",
-      "buyer_projects": 11,
-      "hire_rate": 50,
-      "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
