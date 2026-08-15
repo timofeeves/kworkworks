@@ -1,5 +1,60 @@
 {
-  "scraped_at": "2026-08-15T17:55:19+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-15T18:34:14+00:00",
+  "count": 3,
+  "projects": [
+    {
+      "id": 3236859,
+      "title": "Сделать WebView приложения из сайта",
+      "url": "https://kwork.ru/projects/3236859",
+      "description": "Здравствуйте, нужно сделать WebView приложение из сайта с уведомлениями, адаптивный под все устройства.",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "jzxsotka",
+      "buyer_projects": 4,
+      "hire_rate": 100,
+      "offers": 1,
+      "time_left": "2 д. 2 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3236858,
+      "title": "Место на хостинге рег ру",
+      "url": "https://kwork.ru/projects/3236858",
+      "description": "От рег ру пришло письмо о месте на хостинге и блокировке.Необходимо сделать так, что бы хостинг работал без повышения тарифа. (перераспределить место/либо подобные проч. действия. \nПисьмо ниже:\nЗдравствуйте!\nВас приветствует Регистратор доменных имён Рег.ру!\nВы являетесь владельцем услуги хостинга u0328359 (Reg.Host-1 для msksale.group).\nУведомляем вас, что на аккаунте u0328359 превышен лимит использования ресурсов центрального процессора в 7% для тарифного плана Host-1.\nВ случае сохранения высокой нагрузки на CPU ваш аккаунт будет заблокирован.\nПодробная информация о технических ограничениях хостинга приводится на странице:\nhttps://www.reg.ru/hosting/restrictions\nДля обеспечения бесперебойной работы сайтов предлагаем вам разместить сайты на нескольких услугах виртуального хостинга или рассмотреть переход на:\n- VIP-тариф https://www.reg.ru/hosting/#vip\n- VPS-сервер: https://www.reg.ru/vps/\n- Выделенный сервер: https://www.reg.ru/dedicated/\nПодробные рекомендации по снижению нагрузки приводятся в нашей справке:\nhttps://www.reg.ru/support/hosting-i-servery/hosting-sajtov/na-moey-usluge-ustanovleno-ogranichenie/prevyshen-limit-na-ispolzovanie-cpu",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "german639",
+      "buyer_projects": 298,
+      "hire_rate": 40,
+      "offers": 3,
+      "time_left": "2 д. 2 ч.",
+      "files": [],
+      "external_links": [
+        "https://www.reg.ru/hosting/restrictions",
+        "https://www.reg.ru/hosting/#vip",
+        "https://www.reg.ru/vps/",
+        "https://www.reg.ru/dedicated/",
+        "https://www.reg.ru/support/hosting-i-servery/hosting-sajtov/na-moey-usluge-ustanovleno-ogranichenie/prevyshen-limit-na-ispolzovanie-cpu"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": 3236841,
+      "title": "Рассылка в личку Макс",
+      "url": "https://kwork.ru/projects/3236841",
+      "description": "По инструкции, 1 раз в день в удобное время в промежутке 8-20ч по МСК, делать рассылку сообщения потенциальному клиенту по нашей базе из своего Макс-аккаунта с компьютера (иногда с почты) на 10-15 номеров в день (уходит до 15 мин в день).В случае его заинтересованности - передавать лид мне.\nПлачу по 100 руб за каждый лид.",
+      "price": 1000,
+      "max_budget": null,
+      "buyer": "kompleksnyjmarketing",
+      "buyer_projects": 4,
+      "hire_rate": 67,
+      "offers": 3,
+      "time_left": "2 д. 2 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
