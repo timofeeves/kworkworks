@@ -1,24 +1,5 @@
 {
-  "scraped_at": "2026-08-15T17:33:42+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3236831,
-      "title": "Силового электрооборудования под танц. Студию",
-      "url": "https://kwork.ru/projects/3236831",
-      "description": "Приветствую! Мне нужно нанести розетки и силовые выводы на готовый архитектурный план танцевальной студии (формат PDF). На выходе нужен PDF и исходник в DWG. Возьметесь за работу? Сколько это займет по времени?",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "Frolovskayaaaa3589",
-      "buyer_projects": 1,
-      "hire_rate": null,
-      "offers": 0,
-      "time_left": "2 д. 3 ч.",
-      "files": [
-        "&laquo;Разбойники&raquo; с ТОЧКИ  2.pdf"
-      ],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-15T17:55:19+00:00",
+  "count": 0,
+  "projects": []
 }

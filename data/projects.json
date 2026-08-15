@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T17:33:42+00:00",
+  "scraped_at": "2026-08-15T17:55:19+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 40,
@@ -8,7 +8,7 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3236831
+      "first_project_id": 3221144
     }
   ],
   "count": 12,
@@ -23,7 +23,7 @@
       "buyer": "Frolovskayaaaa3589",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 0,
+      "offers": 1,
       "time_left": "2 д. 3 ч.",
       "files": [
         "&laquo;Разбойники&raquo; с ТОЧКИ  2.pdf"
@@ -41,7 +41,7 @@
       "buyer": "ilya_gromow",
       "buyer_projects": 11,
       "hire_rate": 0,
-      "offers": 0,
+      "offers": 2,
       "time_left": "2 д. 3 ч.",
       "files": [],
       "external_links": [],
@@ -57,7 +57,7 @@
       "buyer": "Salute",
       "buyer_projects": 16,
       "hire_rate": 73,
-      "offers": 1,
+      "offers": 3,
       "time_left": "2 д. 3 ч.",
       "files": [],
       "external_links": [],
@@ -73,7 +73,7 @@
       "buyer": "Euggene",
       "buyer_projects": 3,
       "hire_rate": 0,
-      "offers": 6,
+      "offers": 8,
       "time_left": "2 д. 3 ч.",
       "files": [],
       "external_links": [],
@@ -89,7 +89,7 @@
       "buyer": "alena_sent",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 0,
+      "offers": 5,
       "time_left": "2 д. 3 ч.",
       "files": [
         "01-spisok-obzvonov.png",
@@ -114,7 +114,7 @@
       "buyer": "penshina",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 0,
+      "offers": 1,
       "time_left": "2 д. 3 ч.",
       "files": [
         "photo_2026-08-15_20-59-10.jpg"
@@ -132,7 +132,7 @@
       "buyer": "Oleggleb",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 1,
+      "offers": 2,
       "time_left": "2 д. 3 ч.",
       "files": [],
       "external_links": [],
@@ -172,7 +172,7 @@
       "buyer": "Mickhailhromov",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 17,
+      "offers": 30,
       "time_left": "2 д. 3 ч.",
       "files": [],
       "external_links": [],
@@ -195,22 +195,6 @@
       "source_page": 1
     },
     {
-      "id": 3236801,
-      "title": "Разработка премиум-визиток в стиле минимализма",
-      "url": "https://kwork.ru/projects/3236801",
-      "description": "Требуется разработать дизайн двусторонних бизнес-визиток премиум-класса для двух сооснователей международной компании.Главная задача — строгое следование стилю «швейцарский корпоративный минимализм». Визуальный акцент строится на выравнивании текста и искусстве «оставления свободного пространства».Что необходимо сделать:Изучить стиль нашего сайта (ссылку предоставлю выбранному исполнителю) и взять оттуда точные корпоративные цвета.Разработать дизайн двусторонней визитки: Сторона А — полностью на английском, Сторона В — на китайском (упрощенном) с размещением небольшого QR-кода.Подготовить макеты для двух человек (текстовые данные предоставлю).Каждый макет нужно сдать в двух цветовых решениях:Вариант 1 : Матовый белый фон, темно-синий шрифт.Вариант 2 : Темно-синий фон, шрифт цвета платинового серебра.Технические параметры:Размер: 90 мм × 50 мм + вылеты под обрез (припуски) по 1.5–2 мм с каждой стороны.Шрифты: Строго без засечек (Sans-serif), например, Helvetica Neue / Inter / Montserrat для английского и PingFang SC / Source Han Sans для китайского.Что мы ждем на выходе:Полностью готовые к печати в типографии файлы:Исходники в формате AI или EPS (все шрифты обязательно переведены в кривые / Create Outlines).Высококачественные PDF/X-1a, 300 DPI, цветовой профиль строго CMYK.В отклике, пожалуйста, покажите примеры ваших работ в стиле минимализма или строгой корпоративной полиграфии. Полное текстовое ТЗ со всеми контактами отправлю исполнителю в чат. Сроки: 2 дня.",
-      "price": 5000,
-      "max_budget": null,
-      "buyer": "vinter19",
-      "buyer_projects": 2,
-      "hire_rate": null,
-      "offers": 1,
-      "time_left": "2 д. 3 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
       "id": 3236779,
       "title": "Создать таблицу в Google Sheets",
       "url": "https://kwork.ru/projects/3236779",
@@ -220,12 +204,28 @@
       "buyer": "bananadasha777",
       "buyer_projects": 12,
       "hire_rate": 40,
-      "offers": 1,
+      "offers": 2,
       "time_left": "2 д. 3 ч.",
       "files": [
         "SEfaZKjrOBz_81R7yMOTTR7--Yi1B2WH2n-EVRkTg8ZrrM9IDANow9hvtEvtGENupqe8tLKo8pjAmHk6CIFrCy2x.jpg",
         "J90oiUkDL9lAeZwhUCHCxunDrbOqod5borAYKbyQM1exZlL8W9y8e5dpLpQ6bcwxJAzijoEip6Y4zRZP5ozCjHZq.jpg"
       ],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3221144,
+      "title": "Перенос готового бота в mini app",
+      "url": "https://kwork.ru/projects/3221144",
+      "description": "Есть готовый Telegram-бот. Нужно превратить его в полноценный Telegram Mini App, сохранив рабочую логику и backend там, где это возможно.Что сделать:\n1. Сначала изучить текущий код, backend, БД, API, парсер и логику бота. Определить, что можно переиспользовать, а что нужно доработать.\n2. Сделать Mini App с нормальным мобильным интерфейсом: главная, поиск, результаты, карточка товара, избранное, профиль/настройки.\n3. Подключить Mini App к существующему backend через API. К БД напрямую frontend не подключать.\n4. Авторизация — через Telegram Mini App. initData обязательно проверять на backend.\n5. Из бота должна быть кнопка « Открыть приложение», которая запускает Mini App.\n6. Сохранить работу существующего бота и его функций.\n7. Если используется текущий парсер, подключить его к Mini App. Для товара выводить: название, цену, кешбэк/баллы, ссылку и изображение, если есть.\n8. Если ничего не найдено — показывать понятное сообщение. При зависании запроса — таймаут и ошибка, никаких бесконечных загрузок.\n9. Сделать HTTPS, хранить токены и ключи только на сервере.\n10. Проверить работу на iOS и Android, включая ошибки, медленный интернет и пустые результаты.\nГотовый Mini App, полностью работающий внутри Telegram и связанный с текущим ботом/backend.\nПосле работы передать весь исходный код, настройки и инструкцию по запуску/обновлению.\nВ отклике обязательно напиши про опыт работы(примеры работ будут преимуществом),иначе он будет проигнорирован!",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "TOP_RABITODATEL",
+      "buyer_projects": 55,
+      "hire_rate": 87,
+      "offers": 0,
+      "time_left": "2 д. 3 ч.",
+      "files": [],
       "external_links": [],
       "source_page": 1
     }
