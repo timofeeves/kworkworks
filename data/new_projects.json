@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-08-15T21:31:34+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3236906,
-      "title": "Сборщик писем email",
-      "url": "https://kwork.ru/projects/3236906",
-      "description": "Софт email. 10 почтовых ящиков, для каждого 10 дополнительных . Надо чтобы понятно удобно и без риска для почтового ящика все было в 1 утилите Т.е видно все что приходит в почты по 1-2 кликам, предварительно рассматрим варианты визуально",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "Ckizomba56",
-      "buyer_projects": 25,
-      "hire_rate": 17,
-      "offers": 2,
-      "time_left": "1 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-15T21:33:47+00:00",
+  "count": 0,
+  "projects": []
 }
