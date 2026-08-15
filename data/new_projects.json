@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-08-15T15:10:46+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3236798,
-      "title": "Пресс релиз Задним числом",
-      "url": "https://kwork.ru/projects/3236798",
-      "description": "Задача: Опубликовать пресс релиз На сильном СМИ не ниже класса АА задним числом. Необходимая дата публикации новости - апрель 2025. Рубрика - новости спорта. Пауэрлифитинг",
-      "price": 6000,
-      "max_budget": 18000,
-      "buyer": "moonflowerman",
-      "buyer_projects": 19,
-      "hire_rate": 100,
-      "offers": 0,
-      "time_left": "2 д. 5 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-15T15:31:04+00:00",
+  "count": 0,
+  "projects": []
 }
