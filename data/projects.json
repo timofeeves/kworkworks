@@ -1,18 +1,38 @@
 {
-  "scraped_at": "2026-08-15T08:44:20+00:00",
+  "scraped_at": "2026-08-15T09:11:58+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 38,
+  "reported_total_pages": 37,
   "scanned_pages": 1,
   "page_summaries": [
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3236664
+      "first_project_id": 3236665
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3236665,
+      "title": "Заказ по отрисовке картинок",
+      "url": "https://kwork.ru/projects/3236665",
+      "description": "Заказ по отрисовке картинок. Я пробовал увеличивать разрешение с помощбю ИИ - не особо удачно. Фото- так-сяк, а текст придется перенабрать. Иконки или трассировать или похожие. Не обязательно один в один, но, похоже.",
+      "price": 1500,
+      "max_budget": 4500,
+      "buyer": "eco_design",
+      "buyer_projects": 8,
+      "hire_rate": 80,
+      "offers": 9,
+      "time_left": "2 д. 11 ч.",
+      "files": [
+        "i (1).webp",
+        "i (2).webp",
+        "i.webp"
+      ],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3236664,
       "title": "Сделать анимированные эмодзи в телеграм",
@@ -23,8 +43,8 @@
       "buyer": "eldarismailov",
       "buyer_projects": 6,
       "hire_rate": 40,
-      "offers": 0,
-      "time_left": "2 д. 12 ч.",
+      "offers": 3,
+      "time_left": "2 д. 11 ч.",
       "files": [
         "Comp 1_1.mov"
       ],
@@ -41,8 +61,8 @@
       "buyer": "meinerfolg",
       "buyer_projects": 6,
       "hire_rate": 50,
-      "offers": 1,
-      "time_left": "2 д. 12 ч.",
+      "offers": 3,
+      "time_left": "2 д. 11 ч.",
       "files": [
         "photo_5201688120175299929_y.jpg"
       ],
@@ -60,7 +80,7 @@
       "buyer_projects": 67,
       "hire_rate": 60,
       "offers": 1,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [
         "IMG_4013.WEBP",
         "IMG_4014.WEBP"
@@ -79,7 +99,7 @@
       "buyer_projects": 16,
       "hire_rate": 17,
       "offers": 1,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -94,8 +114,8 @@
       "buyer": "achistyakova0",
       "buyer_projects": 5,
       "hire_rate": 25,
-      "offers": 11,
-      "time_left": "2 д. 12 ч.",
+      "offers": 16,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [
         "https://disk.360.yandex.ru/d/pV3O0H3UKxc_qQ"
@@ -112,24 +132,8 @@
       "buyer": "gorki128",
       "buyer_projects": 85,
       "hire_rate": 40,
-      "offers": 7,
-      "time_left": "2 д. 12 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3233618,
-      "title": "Программа рассылки сообщений В ФОРМУ обратной СВЯЗИ",
-      "url": "https://kwork.ru/projects/3233618",
-      "description": "Собираю программу в которой одна из функции отправка сообщений В ФОРМУ обратной СВЯЗИТребуется программа/код программы на питоне, что бы интегрировать ее в свою программу\nФункционал программы\nФункция отправки сообщений в формы обратной связи на сайты, по загруженному в программу ексель файлу, столбец сайт.\n- Текст сообщения берется из загруженного в программу ексель файла, столбец текст для обратно связи. Функция рандомизации текста взятого из Ексель.\n- После отправки текста бот помечает в таблице дату, текст, отправки в форму обратной связи\n-Список сайтов берет из ексель файла, столбец Сайт, в ячейке может содержаться несколько сайтов, рассылка во все сайта где есть форма обратной связи.",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "Admika",
-      "buyer_projects": 62,
-      "hire_rate": 60,
-      "offers": 3,
-      "time_left": "2 д. 12 ч.",
+      "offers": 9,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -144,8 +148,8 @@
       "buyer": "Admika",
       "buyer_projects": 62,
       "hire_rate": 60,
-      "offers": 4,
-      "time_left": "2 д. 12 ч.",
+      "offers": 5,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -161,7 +165,7 @@
       "buyer_projects": 62,
       "hire_rate": 60,
       "offers": 4,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -177,7 +181,7 @@
       "buyer_projects": 62,
       "hire_rate": 60,
       "offers": 5,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -192,8 +196,8 @@
       "buyer": "botvinoff",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 0,
-      "time_left": "2 д. 12 ч.",
+      "offers": 1,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -208,8 +212,8 @@
       "buyer": "yoricktomson",
       "buyer_projects": 3,
       "hire_rate": 33,
-      "offers": 1,
-      "time_left": "2 д. 12 ч.",
+      "offers": 2,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
