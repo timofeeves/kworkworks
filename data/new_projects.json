@@ -1,5 +1,56 @@
 {
-  "scraped_at": "2026-08-15T09:41:05+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-15T09:58:46+00:00",
+  "count": 3,
+  "projects": [
+    {
+      "id": 3236689,
+      "title": "Перенос кода авторизации в отдельное решение react.ts",
+      "url": "https://kwork.ru/projects/3236689",
+      "description": "Есть код авторизации и регистрации в React.ts в общем коде сервиса такси и к нему готовая серверная часть. Необходимо выделить этот функционал в отдельное решение, которое можно применять и развивать как в такси так и в других приложениях. Мой ИИ готов выступить архитектором, создавать ТЗ и проводить ревью ваших PR. Работа в рамках отлаживаемого пайплайна на гитхаб копилот.",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "valpotapov",
+      "buyer_projects": 315,
+      "hire_rate": 33,
+      "offers": 1,
+      "time_left": "2 д. 11 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3236687,
+      "title": "Сделать верстку с адаптивом 3х страниц",
+      "url": "https://kwork.ru/projects/3236687",
+      "description": "Сделать верстку с адаптивом 3х страницСрочно\nКаталог\nКарточка\nИ главная\nПосадка будет на мод х \nСделать до пн",
+      "price": 6000,
+      "max_budget": 18000,
+      "buyer": "Hr_pro",
+      "buyer_projects": 1787,
+      "hire_rate": 63,
+      "offers": 2,
+      "time_left": "2 д. 11 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3236686,
+      "title": "Спарсить товары с сайта",
+      "url": "https://kwork.ru/projects/3236686",
+      "description": "Добрый день.Необходимо спарсить все товар с сайта https://magdistar.ru/catalog\nНеобходимо отдать все в формате excel\nСпарсить надо всю информацию и разбить их по колонкам. \nВсе фотки в виде ссылок",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "av_banner",
+      "buyer_projects": 12,
+      "hire_rate": 100,
+      "offers": 8,
+      "time_left": "2 д. 11 ч.",
+      "files": [],
+      "external_links": [
+        "https://magdistar.ru/catalog"
+      ],
+      "source_page": 1
+    }
+  ]
 }
