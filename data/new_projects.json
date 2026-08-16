@@ -1,37 +1,23 @@
 {
-  "scraped_at": "2026-08-16T10:31:08+00:00",
-  "count": 2,
+  "scraped_at": "2026-08-16T10:34:53+00:00",
+  "count": 1,
   "projects": [
     {
-      "id": 3236995,
-      "title": "Автопостинг в соцсети",
-      "url": "https://kwork.ru/projects/3236995",
-      "description": "Бот в телеграмме, туда грузишь материал (видео/фото/описание)Далее бот закидывается в соцсети:\n-Вотсап (группы/каналы)\n-Телеграм (каналы)\n-Запрещенная соцсеть от Meta оранжевая (личный профиль в ленту/сториз)\n-Тикток",
+      "id": 3236998,
+      "title": "Найит готовые модули апп для телеграм",
+      "url": "https://kwork.ru/projects/3236998",
+      "description": "Здравствуйте, требуется найти готовые модули приложений в телеграмм. Колесо-фортуны, которое имеет анимация колеса в который можно заложить разные подарки промокоды для розыгрыша по своей базе в телеграмм. пример https://bothelp.io/ru/templates/koleso-fortuny но чтобы картинка была с анимацией крутящегося колеса",
       "price": 2000,
       "max_budget": 6000,
-      "buyer": "Amegaamigo",
-      "buyer_projects": 8,
-      "hire_rate": 83,
-      "offers": 9,
-      "time_left": "1 д. 10 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3236993,
-      "title": "Привести 60 человек на мой курс",
-      "url": "https://kwork.ru/projects/3236993",
-      "description": "Нужно привести людей на мой курс,человек считается приведенным если он купил курс!!!за дополнительно приведенных людей бонус",
-      "price": 4000,
-      "max_budget": 12000,
-      "buyer": "kskosi12-",
-      "buyer_projects": 7,
-      "hire_rate": 0,
+      "buyer": "valera5003",
+      "buyer_projects": 13,
+      "hire_rate": 91,
       "offers": 1,
       "time_left": "1 д. 10 ч.",
       "files": [],
-      "external_links": [],
+      "external_links": [
+        "https://bothelp.io/ru/templates/koleso-fortuny"
+      ],
       "source_page": 1
     }
   ]
