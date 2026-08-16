@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T19:45:49+00:00",
+  "scraped_at": "2026-08-16T20:00:13+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 50,
@@ -8,7 +8,7 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3232529
+      "first_project_id": 3090809
     }
   ],
   "count": 12,
@@ -23,7 +23,7 @@
       "buyer": "asdmoscow",
       "buyer_projects": 30,
       "hire_rate": 40,
-      "offers": 0,
+      "offers": 3,
       "time_left": "2 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -39,7 +39,7 @@
       "buyer": "onebee",
       "buyer_projects": 11,
       "hire_rate": 100,
-      "offers": 17,
+      "offers": 19,
       "time_left": "1 д. 1 ч.",
       "files": [],
       "external_links": [],
@@ -87,8 +87,8 @@
       "buyer": "Evgeniy_V1",
       "buyer_projects": 140,
       "hire_rate": 53,
-      "offers": 12,
-      "time_left": "1 д. 1 ч.",
+      "offers": 16,
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -103,8 +103,8 @@
       "buyer": "MarkDoroshko",
       "buyer_projects": 6,
       "hire_rate": 67,
-      "offers": 39,
-      "time_left": "1 д. 1 ч.",
+      "offers": 40,
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -156,7 +156,7 @@
       "buyer_projects": 43,
       "hire_rate": 60,
       "offers": 3,
-      "time_left": "1 д. 1 ч.",
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -172,7 +172,7 @@
       "buyer_projects": 43,
       "hire_rate": 60,
       "offers": 2,
-      "time_left": "1 д. 1 ч.",
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -187,25 +187,27 @@
       "buyer": "andreidmitriev17647",
       "buyer_projects": 43,
       "hire_rate": 60,
-      "offers": 6,
-      "time_left": "1 д. 1 ч.",
+      "offers": 7,
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
     },
     {
-      "id": 3046822,
-      "title": "Продвижение групп телеграм",
-      "url": "https://kwork.ru/projects/3046822",
-      "description": "Требуется специалист по инвайту с опытом работы в группах телеграм с «0», а также со спам блоком, который хорошо знает специфику инвайта! Новички, школьники мимо! Цена на инвайт должна быть адекватной! Регулярный инвайт!",
-      "price": 10000,
-      "max_budget": 30000,
-      "buyer": "bvi977",
-      "buyer_projects": 11,
-      "hire_rate": 27,
-      "offers": 1,
-      "time_left": "1 д. 22 ч.",
-      "files": [],
+      "id": 3090809,
+      "title": "Директ. Поиск причин 5.3, 15",
+      "url": "https://kwork.ru/projects/3090809",
+      "description": "Я работаю с Директ более 10 лет.  заблокировали 19 аккаунтов у кого есть опыт по чему ?\nтематика услуги. не чего плохого любую рекламу делаешь блочат.\nии советчики не пишите .\nболее 2 лет делаю блочат также проверяют в потдержке и они делают все компании,  не я а потом модератор блочит тематика разная и все догатки не при чем просто знают инн и блочат  инн и все остальное менять не надо советовать. а так же советовать писать в поддержку 2 года пишу не говорят говорят 5.3 или 15. не надо советовать все сменить могу сменить на тебя ????\n также не надо сайты просить не надо компании еще раз они сами мне делают я редактирую и блочат не чего нету у меня.\nЕЩЕ РАЗ НЕ НАДО советы платные  ЕЩЕ РАЗ НЕ НАДО просить посмотреть кабинет ВСЕ ИХ блочат НЕ ВАЖНО ЧТО рекламирую.",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "ujgu1251",
+      "buyer_projects": 2,
+      "hire_rate": null,
+      "offers": 0,
+      "time_left": "21 ч. 30 мин.",
+      "files": [
+        "2026-08-03_13-14-20.png"
+      ],
       "external_links": [],
       "source_page": 1
     }
