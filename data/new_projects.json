@@ -1,5 +1,40 @@
 {
-  "scraped_at": "2026-08-16T20:00:13+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-16T20:31:47+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3237207,
+      "title": "Доработка сайта. Добавить иконку, растянуть текст",
+      "url": "https://kwork.ru/projects/3237207",
+      "description": "ТЗ : https://docs.google.com/document/d/1PlwlarjbOapt5E8XxrKrQ_vXiDhscD-LRVXaG6K8WA0/edit?usp=sharing1. заголовок растянуть на ширину экрана (моб. версия) - чтобы хорошо смотрелось\n2. сместить иконку макс ближе к телеграму и добавить еще иконку почты (когда нажимаешь. то она показывается).\nПорядок работы!!\nДелаете себе в гите (Гитверс) ветку от прода (мэйна).\nДелаете свою работу в ней.\nЗапускаете чтобы показать (деплой)\nМы проверяем\nЕсли все хорошо, то пул реквест.\nМы устанавливаем на прод, ещё раз проверяем.\nОтправляем оплату\nЗадачу закрываем.",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "chernov1000",
+      "buyer_projects": 151,
+      "hire_rate": 67,
+      "offers": 9,
+      "time_left": "1 д.",
+      "files": [],
+      "external_links": [
+        "https://docs.google.com/document/d/1PlwlarjbOapt5E8XxrKrQ_vXiDhscD-LRVXaG6K8WA0/edit?usp=sharing"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": 3237204,
+      "title": "Восстановить удаленные с бд данные и проверить доступы",
+      "url": "https://kwork.ru/projects/3237204",
+      "description": "Добрый вечер! нужна срочно помощь. Каким-то образом кто-то удалил с бд данные пользователей. Доступа нет ни у кого. или может я не понимаю ничего.",
+      "price": 3000,
+      "max_budget": 9000,
+      "buyer": "Denis2255",
+      "buyer_projects": 7,
+      "hire_rate": 33,
+      "offers": 9,
+      "time_left": "1 д.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
