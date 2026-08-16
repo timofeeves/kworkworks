@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T07:49:41+00:00",
+  "scraped_at": "2026-08-16T08:12:20+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 40,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3236951
+      "first_project_id": 3236962
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3236962,
+      "title": "Выполнить задачи ассистента (рабочие и личные)",
+      "url": "https://kwork.ru/projects/3236962",
+      "description": "Есть задачи и инструкции полные к ним. Нужно подключиться к моему компьютеру через anydesk и выполнить их. Список задач:1) Передать показания и счета кварплат по 2 квартирам.\n2) Ответить в 10 группах и 4 профилях ВК - около 15 сообщений, по шаблону всем ответить.\n3) Добавить всех в друзья в 4 профилях ВК этих тем кто подал заявку - около 15 заявок.\n4) Проверить нет ли перерасходов по симкам мегафон. В одном личном кабинете около 20 симкарт.\n5) Проверить 2 профиля авито нет ли сообщений там и в целом продлить обьявления которые висят\nПо времени 3 часа займет где-то.",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "azatbrat",
+      "buyer_projects": 72,
+      "hire_rate": 6,
+      "offers": 0,
+      "time_left": "1 д. 12 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3236951,
       "title": "Размещение подкаста на площадках",
@@ -24,7 +40,7 @@
       "buyer_projects": 84,
       "hire_rate": 30,
       "offers": 0,
-      "time_left": "1 д. 13 ч.",
+      "time_left": "1 д. 12 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +55,8 @@
       "buyer": "Volkovkosta",
       "buyer_projects": 421,
       "hire_rate": 70,
-      "offers": 3,
-      "time_left": "1 д. 13 ч.",
+      "offers": 5,
+      "time_left": "1 д. 12 ч.",
       "files": [
         "fonovaya-muzyika-napolnennaya-tehnologichnyim-zvukovyim-oformleniem-i-nauchno-fantasticheskimi-elementami.mp3"
       ],
@@ -57,8 +73,8 @@
       "buyer": "cccontact008",
       "buyer_projects": 15,
       "hire_rate": 93,
-      "offers": 2,
-      "time_left": "1 д. 13 ч.",
+      "offers": 3,
+      "time_left": "1 д. 12 ч.",
       "files": [
         "18944063179452.mp4"
       ],
@@ -75,8 +91,8 @@
       "buyer": "Alex801",
       "buyer_projects": 27,
       "hire_rate": 63,
-      "offers": 7,
-      "time_left": "1 д. 22 ч.",
+      "offers": 8,
+      "time_left": "1 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -91,8 +107,8 @@
       "buyer": "rostik27",
       "buyer_projects": 56,
       "hire_rate": 85,
-      "offers": 25,
-      "time_left": "2 д. 22 ч.",
+      "offers": 28,
+      "time_left": "2 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -108,23 +124,7 @@
       "buyer_projects": 6,
       "hire_rate": 20,
       "offers": 1,
-      "time_left": "1 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3218140,
-      "title": "Помощь по поиску партнеров",
-      "url": "https://kwork.ru/projects/3218140",
-      "description": "Волшебного Найти 50 грантов.\nПроверить требования.\nСобрать 100 официальных ссылок.\nПодготовить 100 заявок через ИИ.\nЗаполнить формы подачи.\nПодготовить отчет.",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "wiiw",
-      "buyer_projects": 524,
-      "hire_rate": 70,
-      "offers": 0,
-      "time_left": "1 д. 13 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -140,7 +140,7 @@
       "buyer_projects": 524,
       "hire_rate": 70,
       "offers": 0,
-      "time_left": "1 д. 13 ч.",
+      "time_left": "1 д. 12 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -156,7 +156,7 @@
       "buyer_projects": 524,
       "hire_rate": 70,
       "offers": 1,
-      "time_left": "1 д. 13 ч.",
+      "time_left": "1 д. 12 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -172,7 +172,7 @@
       "buyer_projects": 524,
       "hire_rate": 70,
       "offers": 1,
-      "time_left": "1 д. 13 ч.",
+      "time_left": "1 д. 12 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -188,7 +188,7 @@
       "buyer_projects": 524,
       "hire_rate": 70,
       "offers": 5,
-      "time_left": "1 д. 13 ч.",
+      "time_left": "1 д. 12 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
