@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-08-15T23:47:59+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 2697274,
-      "title": "Работа с топосъемкой в автокаде",
-      "url": "https://kwork.ru/projects/2697274",
-      "description": "Нарезка листов в Автокаде на листы формата А0 для печати. Площадь чертежа около 800 Га площадной объект. Съемка в формате dwg* предоставляется, штам организации есть.",
-      "price": 2000,
-      "max_budget": 6000,
-      "buyer": "Alekhin_V_D_M",
-      "buyer_projects": 46,
-      "hire_rate": 43,
-      "offers": 0,
-      "time_left": "1 д. 21 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-16T00:00:31+00:00",
+  "count": 0,
+  "projects": []
 }
