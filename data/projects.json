@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T00:00:31+00:00",
+  "scraped_at": "2026-08-16T01:51:28+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 41,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 1886654
+      "first_project_id": 3236913
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3236913,
+      "title": "Авито",
+      "url": "https://kwork.ru/projects/3236913",
+      "description": "Добрый день! Я взрослый и порядочный человек! Свой авито потерял более 10 лет назад. Сейчас есть необходимость продать 3 своих интернет проекта! Сразу вопросы: Сколько лет вашему авито? Подтвержден ли он по документам - это важно! Есть ли отзывы? спасибо. За аренду плачу 1500 и 3 тр с продажи каждого проекта! Итого вы заработаете минимум 20.000 рублей!",
+      "price": 1500,
+      "max_budget": 4500,
+      "buyer": "Aurus2026",
+      "buyer_projects": 10,
+      "hire_rate": 33,
+      "offers": 0,
+      "time_left": "1 д. 19 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3236906,
       "title": "Сборщик писем email",
@@ -24,7 +40,7 @@
       "buyer_projects": 25,
       "hire_rate": 17,
       "offers": 4,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +55,8 @@
       "buyer": "Ckizomba56",
       "buyer_projects": 25,
       "hire_rate": 17,
-      "offers": 1,
-      "time_left": "1 д. 20 ч.",
+      "offers": 2,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -55,8 +71,8 @@
       "buyer": "Ckizomba56",
       "buyer_projects": 25,
       "hire_rate": 17,
-      "offers": 4,
-      "time_left": "1 д. 20 ч.",
+      "offers": 5,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -71,8 +87,8 @@
       "buyer": "Ckizomba56",
       "buyer_projects": 25,
       "hire_rate": 17,
-      "offers": 9,
-      "time_left": "1 д. 20 ч.",
+      "offers": 10,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -88,7 +104,7 @@
       "buyer_projects": 25,
       "hire_rate": 17,
       "offers": 1,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -104,7 +120,7 @@
       "buyer_projects": 25,
       "hire_rate": 17,
       "offers": 0,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -120,7 +136,7 @@
       "buyer_projects": 46,
       "hire_rate": 43,
       "offers": 0,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -136,7 +152,7 @@
       "buyer_projects": 140,
       "hire_rate": 50,
       "offers": 0,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -152,7 +168,7 @@
       "buyer_projects": 140,
       "hire_rate": 50,
       "offers": 1,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -167,8 +183,8 @@
       "buyer": "GTS2kk",
       "buyer_projects": 140,
       "hire_rate": 50,
-      "offers": 0,
-      "time_left": "1 д. 20 ч.",
+      "offers": 7,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -183,24 +199,8 @@
       "buyer": "GTS2kk",
       "buyer_projects": 140,
       "hire_rate": 50,
-      "offers": 7,
-      "time_left": "1 д. 20 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 1780745,
-      "title": "Дизайн изображений, оформление карточек товара",
-      "url": "https://kwork.ru/projects/1780745",
-      "description": "Дизайн карточек, изображения и подобного. Макеты. Интерфейс. Обязателен навык фотошопа+- на постоянку-свободный графикстабильный. Тематика - игры, гейминг.1. Задачи простые-даем изображение, нужно убрать фон  сделать оформление по стилюпо размерам итд. 1 картинка-5минут работы-5-10р~ в кворке N количество задач. Срок ставим удобный.\n2. Комплексная работа с карточками(дизаин+текст) контент менеджер. Карточка от 10р \nПодробнее с исполнителем.\nПросьба указывать для интересующего варианта который рассматриваете-отправим подробности для ознакомления.",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "GTS2kk",
-      "buyer_projects": 140,
-      "hire_rate": 50,
-      "offers": 2,
-      "time_left": "1 д. 20 ч.",
+      "offers": 10,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
