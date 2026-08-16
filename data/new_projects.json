@@ -1,5 +1,40 @@
 {
-  "scraped_at": "2026-08-16T11:08:53+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-16T11:30:44+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3236422,
+      "title": "IOS приложение для планирования питания семьи",
+      "url": "https://kwork.ru/projects/3236422",
+      "description": "Ищу iOS-разработчика Swift / SwiftUI для доработки существующего мобильного приложенияТЗ можете найти в прикрепленном файле",
+      "price": 30000,
+      "max_budget": 90000,
+      "buyer": "Deviliner",
+      "buyer_projects": 3,
+      "hire_rate": 0,
+      "offers": 4,
+      "time_left": "2 д. 23 ч.",
+      "files": [
+        "Техническое_задание.pdf"
+      ],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3237015,
+      "title": "Настройка CyberSEO",
+      "url": "https://kwork.ru/projects/3237015",
+      "description": "Настройка и поддержание CyberSEO на информационных ресурсах.Опишите стоимость за настройку и за поддержание",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "AuTBuG",
+      "buyer_projects": 32,
+      "hire_rate": 63,
+      "offers": 2,
+      "time_left": "1 д. 9 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 2
+    }
+  ]
 }
