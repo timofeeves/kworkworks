@@ -1,22 +1,20 @@
 {
-  "scraped_at": "2026-08-16T07:19:52+00:00",
+  "scraped_at": "2026-08-16T07:39:31+00:00",
   "count": 1,
   "projects": [
     {
-      "id": 3236948,
-      "title": "Сделать видео ИИ",
-      "url": "https://kwork.ru/projects/3236948",
-      "description": "Есть фото, нужно их оживить и потом склеить видео. Это фото владельцев щенков. 8 фото и добавить стартовую картинку с текстом и наложить музыку",
+      "id": 3236951,
+      "title": "Размещение подкаста на площадках",
+      "url": "https://kwork.ru/projects/3236951",
+      "description": "Здравсвуйте, я хочу записывать подкаст, я специалист по Индии, там проживаю иногда, хочу делиться знаниями, вы знаете как разместить подкаст на площадках ? как его веести и тд? могли бы помочь мне с работой? долгосрочно?",
       "price": 500,
-      "max_budget": null,
-      "buyer": "Volkovkosta",
-      "buyer_projects": 421,
-      "hire_rate": 70,
+      "max_budget": 1500,
+      "buyer": "zzubarevvv",
+      "buyer_projects": 84,
+      "hire_rate": 30,
       "offers": 0,
       "time_left": "1 д. 13 ч.",
-      "files": [
-        "fonovaya-muzyika-napolnennaya-tehnologichnyim-zvukovyim-oformleniem-i-nauchno-fantasticheskimi-elementami.mp3"
-      ],
+      "files": [],
       "external_links": [],
       "source_page": 1
     }
