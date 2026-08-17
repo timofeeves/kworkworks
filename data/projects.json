@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-08-17T16:58:13+00:00",
+  "scraped_at": "2026-08-17T17:29:45+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 50,
+  "reported_total_pages": 49,
   "scanned_pages": 1,
   "page_summaries": [
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3237695
+      "first_project_id": 3217109
     }
   ],
   "count": 12,
@@ -23,8 +23,8 @@
       "buyer": "pozarsitepro",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 1,
-      "time_left": "23 ч. 44 мин.",
+      "offers": 2,
+      "time_left": "23 ч. 12 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +39,8 @@
       "buyer": "neurodavinci",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 0,
-      "time_left": "23 ч. 44 мин.",
+      "offers": 1,
+      "time_left": "23 ч. 12 мин.",
       "files": [
         "obj_20_8.8.stl_8.stl",
         "IMG_0014.jpeg"
@@ -58,8 +58,8 @@
       "buyer": "naty7meltser",
       "buyer_projects": 4,
       "hire_rate": 0,
-      "offers": 6,
-      "time_left": "22 ч. 59 мин.",
+      "offers": 7,
+      "time_left": "22 ч. 27 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -74,8 +74,8 @@
       "buyer": "volskayaoksana",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 25,
-      "time_left": "22 ч. 59 мин.",
+      "offers": 26,
+      "time_left": "22 ч. 27 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -90,24 +90,8 @@
       "buyer": "w-keys",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 9,
+      "offers": 13,
       "time_left": "1 д. 22 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3237682,
-      "title": "Подписчики тик ток",
-      "url": "https://kwork.ru/projects/3237682",
-      "description": "Нужно 36 настоящих подписчиков, можно половину с аватарками/без, главное чтобы не были похожи на ботов, было не много подписок и были подписчики",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "BonoXS",
-      "buyer_projects": 1,
-      "hire_rate": null,
-      "offers": 5,
-      "time_left": "22 ч. 58 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -141,7 +125,7 @@
       "buyer": "anna_der",
       "buyer_projects": 8,
       "hire_rate": 29,
-      "offers": 17,
+      "offers": 19,
       "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
@@ -157,8 +141,8 @@
       "buyer": "balashevmaxim",
       "buyer_projects": 4,
       "hire_rate": 50,
-      "offers": 8,
-      "time_left": "22 ч. 58 мин.",
+      "offers": 10,
+      "time_left": "22 ч. 26 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -173,30 +157,14 @@
       "buyer": "Nostrome",
       "buyer_projects": 91,
       "hire_rate": 66,
-      "offers": 2,
-      "time_left": "1 д. 22 ч.",
+      "offers": 3,
+      "time_left": "1 д. 21 ч.",
       "files": [
         "ГЧ ТХ 24-339-И(1).dwg",
         "АР проект (2).dwg",
         "Антресоль 3 этажа  на отправку (Н).dwg",
         "20241102 v20_1 (3).dwg"
       ],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3237654,
-      "title": "Сделать сайт",
-      "url": "https://kwork.ru/projects/3237654",
-      "description": "Нужно создать что-то подобное Kwork, только на строительную тему: окна, балконы, натяжные потолки, стройка.... Пример скину в ЛСПока нужен начальный старт, без тарифов, с минимальной регистрацией пользователей, а потом уже посмотрим. Поэтому с дальнейшим ведением проекта.\nПросьба указать: на чем будет выполнена работа и какие возможны доп.расходы. Цена указана просто минимальная.",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "pavel1117",
-      "buyer_projects": 1,
-      "hire_rate": null,
-      "offers": 18,
-      "time_left": "22 ч. 9 мин.",
-      "files": [],
       "external_links": [],
       "source_page": 1
     },
@@ -210,9 +178,43 @@
       "buyer": "Xace01",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 4,
-      "time_left": "23 ч.",
+      "offers": 5,
+      "time_left": "22 ч. 28 мин.",
       "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3217109,
+      "title": "Подключение парсера к автопорталам",
+      "url": "https://kwork.ru/projects/3217109",
+      "description": "Нужно безопасное, коммерческое подключение робота-парсера к автопорталам-классифайдам. Парсер сделан. Подключенный в настоящее время ZenRows постоянно блокируется. Может быть Asocks или Bright Data, но только должно быть чёткое понимание выполнения задачи для парсера, который собирает текстовую и фото информацию по запросу клиента pwa приложения или Mini App ТГ.Прошу писать тех, кто имеет практический опыт работы, который можно проверить и положительные отзывы на бирже. Нужно качественное исполнение работы или чёткое понимание гарантии его работы в долгий срок. Предлагайте свои варианты и понимание такого сотрудничества. \nТематика на РФ и РБ. Можно Минск на первом этапе.\nСпасибо за понимание.",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "itsmylife-kwork",
+      "buyer_projects": 119,
+      "hire_rate": 30,
+      "offers": 1,
+      "time_left": "23 ч. 54 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 2989512,
+      "title": "Закуплю группу паблик Вконтакте от 30 000 участников",
+      "url": "https://kwork.ru/projects/2989512",
+      "description": "Закуплю твою группу паблик Вконтакте от 30 000 участников.Любой тематики с любым ГЕО, с ботами собачками.",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "Liudmila_M",
+      "buyer_projects": 14,
+      "hire_rate": 33,
+      "offers": 0,
+      "time_left": "23 ч. 48 мин.",
+      "files": [
+        "30.jpg"
+      ],
       "external_links": [],
       "source_page": 1
     }
