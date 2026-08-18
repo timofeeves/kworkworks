@@ -1,40 +1,5 @@
 {
-  "scraped_at": "2026-08-18T21:28:31+00:00",
-  "count": 2,
-  "projects": [
-    {
-      "id": 3238495,
-      "title": "Принт на одежду",
-      "url": "https://kwork.ru/projects/3238495",
-      "description": "Нужна идея принта для одежды для собак и ее отрисовка. Размер приблизительно 20*20см. ИИ-генерации не рассматриваем.",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "mikgail",
-      "buyer_projects": 32,
-      "hire_rate": 77,
-      "offers": 0,
-      "time_left": "23 ч. 48 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3238492,
-      "title": "Добавить на сайт по шаблону новые карточки товара",
-      "url": "https://kwork.ru/projects/3238492",
-      "description": "https://ultrakraska.ru/rezinovye-kraskiна сайте добавить по шаблону  8 новых  цветов в каталоге по аналогии с предыдущимии  и описание \nРезиновая краска Super Decor Rubber RAL 1015 Аттика \nРезиновая краска Super Decor Rubber RAL 5005 Морская\nРезиновая краска Super Decor Rubber RAL 6005 Мох  \nРезиновая краска Super Decor Rubber RAL 7004 Серая\nРезиновая краска Super Decor Rubber RAL 7024 Серый Грфит\nРезиновая краска Super Decor Rubber RAL 3005 Вино\nРезиновая краска Super Decor Rubber RAL 8004 Медная \nРезиновая краска Super Decor Rubber RAL 8017 Шоколадна",
-      "price": 2500,
-      "max_budget": 7500,
-      "buyer": "gloria84",
-      "buyer_projects": 4,
-      "hire_rate": 67,
-      "offers": 10,
-      "time_left": "23 ч. 41 мин.",
-      "files": [],
-      "external_links": [
-        "https://ultrakraska.ru/rezinovye-kraski"
-      ],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-18T21:34:34+00:00",
+  "count": 0,
+  "projects": []
 }
