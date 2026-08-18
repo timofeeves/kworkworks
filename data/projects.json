@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T20:58:31+00:00",
+  "scraped_at": "2026-08-18T21:28:31+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 40,
@@ -8,11 +8,45 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3206315
+      "first_project_id": 3229477
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3238495,
+      "title": "Принт на одежду",
+      "url": "https://kwork.ru/projects/3238495",
+      "description": "Нужна идея принта для одежды для собак и ее отрисовка. Размер приблизительно 20*20см. ИИ-генерации не рассматриваем.",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "mikgail",
+      "buyer_projects": 32,
+      "hire_rate": 77,
+      "offers": 0,
+      "time_left": "23 ч. 48 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3238492,
+      "title": "Добавить на сайт по шаблону новые карточки товара",
+      "url": "https://kwork.ru/projects/3238492",
+      "description": "https://ultrakraska.ru/rezinovye-kraskiна сайте добавить по шаблону  8 новых  цветов в каталоге по аналогии с предыдущимии  и описание \nРезиновая краска Super Decor Rubber RAL 1015 Аттика \nРезиновая краска Super Decor Rubber RAL 5005 Морская\nРезиновая краска Super Decor Rubber RAL 6005 Мох  \nРезиновая краска Super Decor Rubber RAL 7004 Серая\nРезиновая краска Super Decor Rubber RAL 7024 Серый Грфит\nРезиновая краска Super Decor Rubber RAL 3005 Вино\nРезиновая краска Super Decor Rubber RAL 8004 Медная \nРезиновая краска Super Decor Rubber RAL 8017 Шоколадна",
+      "price": 2500,
+      "max_budget": 7500,
+      "buyer": "gloria84",
+      "buyer_projects": 4,
+      "hire_rate": 67,
+      "offers": 10,
+      "time_left": "23 ч. 41 мин.",
+      "files": [],
+      "external_links": [
+        "https://ultrakraska.ru/rezinovye-kraski"
+      ],
+      "source_page": 1
+    },
     {
       "id": 3238468,
       "title": "Расшифровка аудио записи суда",
@@ -22,9 +56,9 @@
       "max_budget": 1500,
       "buyer": "dedm2785",
       "buyer_projects": 8,
-      "hire_rate": 67,
-      "offers": 2,
-      "time_left": "23 ч. 17 мин.",
+      "hire_rate": 71,
+      "offers": 3,
+      "time_left": "22 ч. 47 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -40,7 +74,7 @@
       "buyer_projects": 2,
       "hire_rate": null,
       "offers": 0,
-      "time_left": "22 ч. 54 мин.",
+      "time_left": "22 ч. 24 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -56,55 +90,7 @@
       "buyer_projects": 2,
       "hire_rate": null,
       "offers": 1,
-      "time_left": "22 ч. 46 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3238446,
-      "title": "Сделать несколько материалов для учителя информатики",
-      "url": "https://kwork.ru/projects/3238446",
-      "description": "Нужно сделать несколько материалов для учителя информатики на первый месяц учебного года. Формат материала и учебник лю́бой",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "kazakowa94bk",
-      "buyer_projects": 267,
-      "hire_rate": 73,
-      "offers": 9,
-      "time_left": "22 ч. 34 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3238444,
-      "title": "Льготы для детей",
-      "url": "https://kwork.ru/projects/3238444",
-      "description": "Нужно узнать какие льготы есть для детей с диагнозом Плосковольгусная деформация стоп и дисплазия соединительных тканей. Лечение , санатории, и если есть что-то ещё указать",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "kazakowa94bk",
-      "buyer_projects": 267,
-      "hire_rate": 73,
-      "offers": 6,
-      "time_left": "22 ч. 34 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3238442,
-      "title": "Узнать какие центры есть для взрослых с ДЦП",
-      "url": "https://kwork.ru/projects/3238442",
-      "description": "Нужно узнать какие центры есть для взрослых с ДЦП в Туле и Москве. Как можно попасть платно и бесплатно? Сколько раз в год человек с ДЦП может ездить на реабилитацию. Какие права по этому поводу есть у инвалидов с ДЦП? Слышала что в Туле есть адаптивная квартира, но попасть с района туда практически нереально. Можно сказать , что инвалид из деревни это не человек. Мне нужно узнать какие у меня есть права",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "kazakowa94bk",
-      "buyer_projects": 267,
-      "hire_rate": 73,
-      "offers": 7,
-      "time_left": "22 ч. 28 мин.",
+      "time_left": "22 ч. 16 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -120,7 +106,7 @@
       "buyer_projects": 11,
       "hire_rate": 44,
       "offers": 0,
-      "time_left": "23 ч. 26 мин.",
+      "time_left": "22 ч. 56 мин.",
       "files": [],
       "external_links": [
         "https://play.google.com/store/apps/details?id=lumi.ai",
@@ -139,8 +125,8 @@
       "buyer": "Konstantin_Vakhitov",
       "buyer_projects": 11,
       "hire_rate": 44,
-      "offers": 1,
-      "time_left": "23 ч. 26 мин.",
+      "offers": 2,
+      "time_left": "22 ч. 56 мин.",
       "files": [],
       "external_links": [
         "https://www.tiktok.com/@nonert93/video/7651932851163647252?_r=1&_t=ZS-97GRSVQ824L",
@@ -159,8 +145,27 @@
       "buyer_projects": 9,
       "hire_rate": 0,
       "offers": 0,
-      "time_left": "23 ч. 7 мин.",
+      "time_left": "22 ч. 37 мин.",
       "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3229477,
+      "title": "Карта для 2D игры",
+      "url": "https://kwork.ru/projects/3229477",
+      "description": "Нужно перерисовать карты которые прикреплены нижеРазмер всех файлов: 2159x1010 пикселей формат png\nФайлы с объектами (солнце, луна, звезды, облака, окна, туман) — на прозрачном фоне\nСтиль: графический комиксный\n1. Дневная карта\nСама карта (города, дороги, деревья) в ярких солнечных цветах\nЧего нет на карте: солнца, облаков, окон, звезд, луны, тумана\n2. Ночная карта\nГеометрия строго как на дневной карте (всё совпадает до пикселя)\nНебо тёмное, города затемнены\n3. Солнце\nФон прозрачный\nТолько солнце (жёлтое или оранжевое со свечением)\nБез фона, без неба — только сам объект\n4. Луна\nФон прозрачный\nТолько луна (жёлтая или белая со свечением)\nБез фона, без неба — только сам объект\n5. Звёзды\nФон прозрачный\nТолько белые или жёлтые точки (звёзды) в верхней части\nБез фона, без неба — только звёзды\n6. Облака\nФон прозрачный\nТолько белые облака в верхней части\nЛевый и правый край должны стыковаться (чтобы облака можно было двигать бесконечно без шва)\n7. Окна\nФон прозрачный\nТолько жёлтые светящиеся окна со свечением\nРасположены строго на местах домов с основных карт\n8. Туман\nФон прозрачный\nБелая или сизая дымка (полупрозрачная)",
+      "price": 10000,
+      "max_budget": 30000,
+      "buyer": "christian683",
+      "buyer_projects": 2,
+      "hire_rate": null,
+      "offers": 0,
+      "time_left": "1 д. 23 ч.",
+      "files": [
+        "Map_night.png",
+        "Map_day.png"
+      ],
       "external_links": [],
       "source_page": 1
     },
@@ -175,7 +180,7 @@
       "buyer_projects": 94,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "23 ч. 59 мин.",
+      "time_left": "23 ч. 29 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -207,7 +212,7 @@
       "buyer_projects": 14,
       "hire_rate": 33,
       "offers": 0,
-      "time_left": "22 ч. 45 мин.",
+      "time_left": "22 ч. 15 мин.",
       "files": [
         "10000.jpg"
       ],
