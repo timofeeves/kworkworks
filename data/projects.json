@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T19:44:56+00:00",
+  "scraped_at": "2026-08-18T20:01:56+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 40,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3238459
+      "first_project_id": 3238464
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3238464,
+      "title": "Разместить готовую статью о сервисе на VC, DTF и т.д",
+      "url": "https://kwork.ru/projects/3238464",
+      "description": "Здравствуйте! У меня есть готовая, полностью оформленная статья (с картинками и ссылками) про наш ИИ-сервис для автоматизации бизнеса Vobot (vobot.tenvex.ru).Ищу исполнителей со своими прокачанными аккаунтами или корпоративными PRO-подписками на крупных контент-платформах.\nЧто нужно сделать:\nПросто опубликовать мой готовый текст от лица вашего аккаунта (верстка не требуется, текст полностью собран).\nУсловия и оплата:\nБюджет: 1 000 рублей за ОДНУ площадку.\nЕсли у вас есть возможность опубликовать сразу на нескольких ресурсах (например, VC + DTF + Пикабу), я готов выкупить весь пакет и пропорционально увеличить бюджет (2000–3000+ руб.).\nВ отклике обязательно укажите:\nНа каких именно площадках вы можете опубликоваться (VC, DTF, Pikabu, Habr или другие)?\nКакой тип аккаунта вы будете использовать (Личный прокачанный, Корпоративный PRO)?Дайте ссылки на ваши профили на этих сайтах, чтобы я мог оценить карму/рейтинг.\nБудут ли ссылки в статье открыты для индексации?\nЖду ваши предложения!",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "arhipbirukov",
+      "buyer_projects": 2,
+      "hire_rate": null,
+      "offers": 0,
+      "time_left": "23 ч. 51 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3238459,
       "title": "Помогите купить Roblox Plus",
@@ -24,7 +40,7 @@
       "buyer_projects": 2,
       "hire_rate": null,
       "offers": 0,
-      "time_left": "23 ч. 59 мин.",
+      "time_left": "23 ч. 42 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +55,8 @@
       "buyer": "kazakowa94bk",
       "buyer_projects": 267,
       "hire_rate": 73,
-      "offers": 4,
-      "time_left": "23 ч. 48 мин.",
+      "offers": 5,
+      "time_left": "23 ч. 31 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -55,8 +71,8 @@
       "buyer": "kazakowa94bk",
       "buyer_projects": 267,
       "hire_rate": 73,
-      "offers": 3,
-      "time_left": "23 ч. 47 мин.",
+      "offers": 4,
+      "time_left": "23 ч. 30 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -71,8 +87,8 @@
       "buyer": "kazakowa94bk",
       "buyer_projects": 267,
       "hire_rate": 73,
-      "offers": 2,
-      "time_left": "23 ч. 42 мин.",
+      "offers": 4,
+      "time_left": "23 ч. 25 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -87,8 +103,8 @@
       "buyer": "kazakowa94bk",
       "buyer_projects": 267,
       "hire_rate": 73,
-      "offers": 0,
-      "time_left": "23 ч. 40 мин.",
+      "offers": 1,
+      "time_left": "23 ч. 23 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -103,8 +119,8 @@
       "buyer": "kazakowa94bk",
       "buyer_projects": 267,
       "hire_rate": 73,
-      "offers": 0,
-      "time_left": "23 ч. 38 мин.",
+      "offers": 3,
+      "time_left": "23 ч. 21 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -120,7 +136,7 @@
       "buyer_projects": 32,
       "hire_rate": 83,
       "offers": 0,
-      "time_left": "23 ч. 34 мин.",
+      "time_left": "23 ч. 17 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -136,7 +152,7 @@
       "buyer_projects": 12,
       "hire_rate": 0,
       "offers": 2,
-      "time_left": "23 ч. 20 мин.",
+      "time_left": "23 ч. 3 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -151,8 +167,8 @@
       "buyer": "DigitalMM",
       "buyer_projects": 112,
       "hire_rate": 67,
-      "offers": 4,
-      "time_left": "23 ч. 5 мин.",
+      "offers": 5,
+      "time_left": "22 ч. 48 мин.",
       "files": [
         "баннер в печать Аренда Уральская 23.png"
       ],
@@ -170,27 +186,9 @@
       "buyer_projects": 16,
       "hire_rate": 23,
       "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 2958705,
-      "title": "Нужна разработка простой браузерной игры",
-      "url": "https://kwork.ru/projects/2958705",
-      "description": "Здравствуйте нужно сделать полностью новую браузерную онлайн игру на подобии https://nebo.mobi ( вместе с дизайном ) предложите вашу цену и сроки",
-      "price": 80000,
-      "max_budget": 200000,
-      "buyer": "SpaceNavigator",
-      "buyer_projects": 2,
-      "hire_rate": null,
-      "offers": 10,
-      "time_left": "2 д. 22 ч.",
-      "files": [],
-      "external_links": [
-        "https://nebo.mobi/"
-      ],
       "source_page": 1
     },
     {
@@ -204,7 +202,7 @@
       "buyer_projects": 14,
       "hire_rate": 33,
       "offers": 0,
-      "time_left": "23 ч. 59 мин.",
+      "time_left": "23 ч. 42 мин.",
       "files": [
         "10000.jpg"
       ],
