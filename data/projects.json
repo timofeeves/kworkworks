@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T22:02:21+00:00",
+  "scraped_at": "2026-08-18T22:34:01+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 40,
@@ -8,11 +8,43 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3017316
+      "first_project_id": 3238513
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3238513,
+      "title": "Нужны реальные бэклинки (не insertion и т п)",
+      "url": "https://kwork.ru/projects/3238513",
+      "description": "Сайт абсолютно белой тематики, но только в личку. Так скажем, связан с вычислениями по звездам пишите что можете сделать и за сколько. English / Spanish языки",
+      "price": 5000,
+      "max_budget": 15000,
+      "buyer": "-maximdanni",
+      "buyer_projects": 116,
+      "hire_rate": 47,
+      "offers": 0,
+      "time_left": "1 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3238512,
+      "title": "Приложение фитнес Apple android",
+      "url": "https://kwork.ru/projects/3238512",
+      "description": "Приложение с трекером шагов, должно быть реализована механика количество шагов за баллы, что бы можно было настроить определенное количество баллов за определенное колличество пройденных шагов. К примеру за 100 пройденных шагов начисляется в кабинете 100 баллов. Цену предлагайте в отклике.",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "Tod1",
+      "buyer_projects": 29,
+      "hire_rate": 53,
+      "offers": 0,
+      "time_left": "23 ч. 42 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3238507,
       "title": "Монотонная работа копирования и вставки текста заявлени",
@@ -23,7 +55,7 @@
       "buyer": "ef5storex",
       "buyer_projects": 51,
       "hire_rate": 75,
-      "offers": 6,
+      "offers": 17,
       "time_left": "1 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -40,7 +72,7 @@
       "buyer_projects": 32,
       "hire_rate": 77,
       "offers": 2,
-      "time_left": "23 ч. 14 мин.",
+      "time_left": "22 ч. 43 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -56,46 +88,10 @@
       "buyer_projects": 4,
       "hire_rate": 67,
       "offers": 18,
-      "time_left": "23 ч. 7 мин.",
+      "time_left": "22 ч. 35 мин.",
       "files": [],
       "external_links": [
         "https://ultrakraska.ru/rezinovye-kraski"
-      ],
-      "source_page": 1
-    },
-    {
-      "id": 3238468,
-      "title": "Расшифровка аудио записи суда",
-      "url": "https://kwork.ru/projects/3238468",
-      "description": "Нужно проверить рассшифровку аудиозаписи суда длительность 2 часа 20 минутНеточности исправить желательно прослушать и исправить жду предложений. Результат нужен завтра",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "dedm2785",
-      "buyer_projects": 8,
-      "hire_rate": 71,
-      "offers": 3,
-      "time_left": "22 ч. 13 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3236769,
-      "title": "Подбор TikTok каналов",
-      "url": "https://kwork.ru/projects/3236769",
-      "description": "Ищу тикток-аккаунты для размещения рекламы моего приложения ([Lumi AI на Google Play](https://play.google.com/store/apps/details?id=lumi.ai)). Нужен продуманный подбор с анализом смежной аудитории, а не случайный список.Для понимания тематики и целевой аудитории посмотрите примеры видео о проекте:\n- https://www.tiktok.com/@nonert93/video/7651932851163647252\n- https://www.tiktok.com/@ale_ni_na/video/7647876580294937872\nНужно составить список из 10–20 каналов, ранжированных от лучшего к худшему по вашей оценке, в формате:\nСсылка на канал — краткое описание.\n- У автора или его менеджера должен быть легко находимый контакт (почта или Telegram) прямо на странице/в канале — без этого кандидат не подходит.\n- Писать и связываться с авторами не нужно, только проверить, что контакты доступны публично.\n- Средние охваты видео у автора — от 200к до 1 млн просмотров, больше — тоже хорошо.\n каналы не обязательно должны быть про ИИ (таких в TikTok мало) — подойдут смежные ниши. Важно, чтобы вы разобрались в теме проекта и сознательно подобрали релевантные варианты, а не первые попавшиеся.\nПосле того как пришлёте список, я отмечу авторов, которых уже видел сам, — чтобы в финальную подборку попали только уникальные, ещё не рассмотренные варианты.",
-      "price": 2000,
-      "max_budget": 6000,
-      "buyer": "Konstantin_Vakhitov",
-      "buyer_projects": 11,
-      "hire_rate": 44,
-      "offers": 2,
-      "time_left": "22 ч. 22 мин.",
-      "files": [],
-      "external_links": [
-        "https://play.google.com/store/apps/details?id=lumi.ai",
-        "https://www.tiktok.com/@nonert93/video/7651932851163647252",
-        "https://www.tiktok.com/@ale_ni_na/video/7647876580294937872"
       ],
       "source_page": 1
     },
@@ -110,28 +106,12 @@
       "buyer_projects": 11,
       "hire_rate": 44,
       "offers": 3,
-      "time_left": "22 ч. 22 мин.",
+      "time_left": "21 ч. 50 мин.",
       "files": [],
       "external_links": [
         "https://www.tiktok.com/@nonert93/video/7651932851163647252?_r=1&_t=ZS-97GRSVQ824L",
         "https://www.tiktok.com/@ale_ni_na/video/7647876580294937872?_r=1&_t=ZS-96xSX7u56kX"
       ],
-      "source_page": 1
-    },
-    {
-      "id": 3234386,
-      "title": "В поиске ваших кaнaлoв-yt",
-      "url": "https://kwork.ru/projects/3234386",
-      "description": "Приветствую всех. Напишите, если у вас или у ваших знакомых есть каналы и именно 1) 2015 Года 2) 2013 Года и также.... 3) 2014 Года в крайнем случае!",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "yakodyako",
-      "buyer_projects": 9,
-      "hire_rate": 0,
-      "offers": 0,
-      "time_left": "22 ч. 3 мин.",
-      "files": [],
-      "external_links": [],
       "source_page": 1
     },
     {
@@ -144,8 +124,8 @@
       "buyer": "christian683",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "offers": 2,
+      "time_left": "1 д. 22 ч.",
       "files": [
         "Map_night.png",
         "Map_day.png"
@@ -164,7 +144,7 @@
       "buyer_projects": 94,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "22 ч. 55 мин.",
+      "time_left": "22 ч. 24 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -195,7 +175,7 @@
       "buyer": "pd1250",
       "buyer_projects": 8,
       "hire_rate": 17,
-      "offers": 0,
+      "offers": 1,
       "time_left": "1 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -212,7 +192,23 @@
       "buyer_projects": 10,
       "hire_rate": 0,
       "offers": 0,
-      "time_left": "23 ч. 51 мин.",
+      "time_left": "23 ч. 20 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 2966080,
+      "title": "Нужны квал лиды",
+      "url": "https://kwork.ru/projects/2966080",
+      "description": "Требуются горячие квал лиды на тему продажа недвижимости зарубежем.Ищу только профи. Новичккам не отвечаю. Извините. Только с опытом и только с заказами на кворке. Вся работа строго через коврк официально.\nВ своём предложении прошу сразу указывать стоимость такого лида и способ привлечения. Сразу говорю что сайта нет есть соц сети. \nМНЕ НЕ НУЖНЫ НИ КАКИЕ услуги ! НЕ предлагайте НЕ тратьте ВРЕМЯ ! Я покупаю только готовые квалифицированные ЛИДЫ !",
+      "price": 200000,
+      "max_budget": null,
+      "buyer": "DXB-1",
+      "buyer_projects": 22,
+      "hire_rate": 58,
+      "offers": 0,
+      "time_left": "2 д. 23 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
