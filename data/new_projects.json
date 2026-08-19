@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-08-19T22:41:39+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-19T23:01:08+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3239152,
+      "title": "10 коротких видео",
+      "url": "https://kwork.ru/projects/3239152",
+      "description": "Надо сделать 10 коротких видео которые наберут от 100 тыс просмотров, ищу человека с опытом которые уже работал в соц.сетях и добивался результатов.В отклике скиньте примеры.",
+      "price": 5000,
+      "max_budget": 15000,
+      "buyer": "igores1990",
+      "buyer_projects": 95,
+      "hire_rate": 53,
+      "offers": 0,
+      "time_left": "1 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
