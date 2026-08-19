@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T23:48:59+00:00",
+  "scraped_at": "2026-08-19T00:02:36+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 40,
@@ -23,8 +23,8 @@
       "buyer": "Tod1",
       "buyer_projects": 30,
       "hire_rate": 53,
-      "offers": 1,
-      "time_left": "22 ч. 49 мин.",
+      "offers": 2,
+      "time_left": "22 ч. 35 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -56,7 +56,7 @@
       "buyer_projects": 30,
       "hire_rate": 53,
       "offers": 2,
-      "time_left": "22 ч. 27 мин.",
+      "time_left": "22 ч. 14 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -71,8 +71,8 @@
       "buyer": "ef5storex",
       "buyer_projects": 51,
       "hire_rate": 76,
-      "offers": 25,
-      "time_left": "1 д. 22 ч.",
+      "offers": 26,
+      "time_left": "1 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -88,7 +88,7 @@
       "buyer_projects": 32,
       "hire_rate": 77,
       "offers": 2,
-      "time_left": "21 ч. 28 мин.",
+      "time_left": "21 ч. 14 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -103,8 +103,8 @@
       "buyer": "gloria84",
       "buyer_projects": 4,
       "hire_rate": 67,
-      "offers": 21,
-      "time_left": "21 ч. 20 мин.",
+      "offers": 24,
+      "time_left": "21 ч. 6 мин.",
       "files": [],
       "external_links": [
         "https://ultrakraska.ru/rezinovye-kraski"
@@ -141,7 +141,7 @@
       "buyer_projects": 94,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "21 ч. 9 мин.",
+      "time_left": "20 ч. 55 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -157,7 +157,7 @@
       "buyer_projects": 94,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "2 д. 21 ч.",
+      "time_left": "2 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -173,7 +173,7 @@
       "buyer_projects": 8,
       "hire_rate": 17,
       "offers": 1,
-      "time_left": "1 д. 22 ч.",
+      "time_left": "1 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -189,7 +189,7 @@
       "buyer_projects": 10,
       "hire_rate": 0,
       "offers": 0,
-      "time_left": "22 ч. 5 мин.",
+      "time_left": "21 ч. 51 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
