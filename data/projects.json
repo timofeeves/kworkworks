@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T23:01:08+00:00",
+  "scraped_at": "2026-08-19T23:31:08+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 46,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3239152
+      "first_project_id": 3239158
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3239158,
+      "title": "Добавить загрузку видео на сайт",
+      "url": "https://kwork.ru/projects/3239158",
+      "description": "Есть сайт, доска обьявлений. нужно чтобы  пользователю , и администратору (админка) можно было добавлять в товар видео до 200мб., загружать с файла, телефона или телеграмма.  желательно чтобы обьем конвертировался, уменьшался. или подгружался при просмотре а не сразу.",
+      "price": 3000,
+      "max_budget": null,
+      "buyer": "nuzhno_sdelat",
+      "buyer_projects": 28,
+      "hire_rate": 62,
+      "offers": 2,
+      "time_left": "23 ч. 55 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3239152,
       "title": "10 коротких видео",
@@ -23,7 +39,7 @@
       "buyer": "igores1990",
       "buyer_projects": 95,
       "hire_rate": 53,
-      "offers": 0,
+      "offers": 2,
       "time_left": "1 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -40,7 +56,7 @@
       "buyer_projects": 4,
       "hire_rate": 0,
       "offers": 9,
-      "time_left": "21 ч. 36 мин.",
+      "time_left": "21 ч. 6 мин.",
       "files": [
         "IMG_20260819_235415.jpg",
         "IMG_20260820_003624.jpg"
@@ -74,7 +90,7 @@
       "buyer": "AlexanderV99",
       "buyer_projects": 98,
       "hire_rate": 73,
-      "offers": 6,
+      "offers": 7,
       "time_left": "1 д. 21 ч.",
       "files": [],
       "external_links": [],
@@ -91,7 +107,7 @@
       "buyer_projects": 6,
       "hire_rate": 100,
       "offers": 11,
-      "time_left": "21 ч. 23 мин.",
+      "time_left": "20 ч. 53 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -107,7 +123,7 @@
       "buyer_projects": 2,
       "hire_rate": null,
       "offers": 6,
-      "time_left": "20 ч. 53 мин.",
+      "time_left": "20 ч. 23 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -122,8 +138,8 @@
       "buyer": "freelance4",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 53,
-      "time_left": "20 ч. 53 мин.",
+      "offers": 57,
+      "time_left": "20 ч. 23 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -138,40 +154,8 @@
       "buyer": "mironovaml7ne",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 10,
+      "offers": 11,
       "time_left": "1 д. 20 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3239097,
-      "title": "Проблема с KVM и 3D-камерой в игре",
-      "url": "https://kwork.ru/projects/3239097",
-      "description": "Управляю двумя ПК через KVM-переключатель/синхронизатор. На рабочем столе мышь работает отлично, но при запуске 3D-игры камера срывается и улетает в небо/пол, так как KVM передаёт абсолютные координаты экрана вместо относительных движений мыши. Что требуется:\nПредложите рабочее решение под ключ, чтобы 3D-камера адекватно крутилась в игре:\nЭто может быть скрипт-конвертер на ведомый ПК.\nПрослойка на микроконтроллере (Arduino / Raspberry Pi Pico / STM32).\nИли любой другой ваш вариант.\nГлавное — чтобы игра воспринимала ввод как движение обычной физической мыши без задержек.\nНапишите ваши варианты реализации, приблизительные сроки и цену.",
-      "price": 5000,
-      "max_budget": 15000,
-      "buyer": "2000lost0504",
-      "buyer_projects": 10,
-      "hire_rate": 0,
-      "offers": 5,
-      "time_left": "1 д. 20 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3239096,
-      "title": "Немного помочь со стримом, до 3-х часов / YouTube",
-      "url": "https://kwork.ru/projects/3239096",
-      "description": "Всем привет! Нужен человек с компом, кто в теме стримов. Задача - приглядывать за чатом и немного помогать по ходу эфира, если что-то пойдет не так. Одному за всем следить стало трудно по времени. Если уже модерировали - отлично, если с нуля — без проблем всё покажу. Эфир идет до 3 часов.",
-      "price": 3000,
-      "max_budget": 9000,
-      "buyer": "erofeevar38xw",
-      "buyer_projects": 2,
-      "hire_rate": null,
-      "offers": 7,
-      "time_left": "20 ч. 52 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -203,7 +187,23 @@
       "buyer_projects": 95,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "23 ч. 53 мин.",
+      "time_left": "23 ч. 23 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3203223,
+      "title": "Визитка для лашмейкера",
+      "url": "https://kwork.ru/projects/3203223",
+      "description": "Здравствуйте. Нужны визитки по образцу. Материалы (фото работ скину) предоставлю. Нужны визитки как из видео. Размеры не знаю, нужно Ваше понимание, чтобы потом было проще их печатать. Может что то добавить по вашему опыту.",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "borik93",
+      "buyer_projects": 5,
+      "hire_rate": 20,
+      "offers": 0,
+      "time_left": "23 ч. 55 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
