@@ -1,5 +1,38 @@
 {
-  "scraped_at": "2026-08-20T05:51:32+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-20T06:20:36+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3239199,
+      "title": "Помочь поставить сайт в зип архиве на облачный сервер",
+      "url": "https://kwork.ru/projects/3239199",
+      "description": "Сайт в зипке динамический, есть облачный сервер рег ру и панель управления на рег ру, нужно помочь активировать сайт",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "elinadaryaom",
+      "buyer_projects": 36,
+      "hire_rate": 30,
+      "offers": 6,
+      "time_left": "23 ч. 51 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3239198,
+      "title": "Перевод аудио файла в текст",
+      "url": "https://kwork.ru/projects/3239198",
+      "description": "Нужно перевести аудио протокол в текст. Опрос свидетеля в суде . после согласования вышлю ссылку на скачивание .",
+      "price": 4000,
+      "max_budget": 12000,
+      "buyer": "Labonin86",
+      "buyer_projects": 1,
+      "hire_rate": null,
+      "offers": 9,
+      "time_left": "23 ч. 43 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
