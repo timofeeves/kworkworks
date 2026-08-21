@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-20T23:58:53+00:00",
+  "scraped_at": "2026-08-21T01:38:58+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 40,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3239733
+      "first_project_id": 3239736
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3239736,
+      "title": "Протестировать мобильное приложение",
+      "url": "https://kwork.ru/projects/3239736",
+      "description": "Требуется сделать регрессионное тестирование мобильного приложения iOS по созданию коллажей уже опубликованное в App Store и написать тест кейсы.",
+      "price": 3000,
+      "max_budget": 9000,
+      "buyer": "appmasters",
+      "buyer_projects": 13,
+      "hire_rate": 82,
+      "offers": 0,
+      "time_left": "2 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3239733,
       "title": "Разраб. бота MAX распределения заявок между замерщиками",
@@ -23,23 +39,7 @@
       "buyer": "luxcupe",
       "buyer_projects": 4,
       "hire_rate": 67,
-      "offers": 3,
-      "time_left": "2 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3239726,
-      "title": "Подать заявку в РКН (на то что сайт обрабатывает данные",
-      "url": "https://kwork.ru/projects/3239726",
-      "description": "Все на сайте сделано, просто надо подать заявку на 2 сайта. Все на сайте сделано, просто надо подать заявку на 2 сайта.",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "evtf",
-      "buyer_projects": 172,
-      "hire_rate": 43,
-      "offers": 0,
+      "offers": 17,
       "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [],
@@ -56,7 +56,7 @@
       "buyer_projects": 17,
       "hire_rate": 31,
       "offers": 9,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -72,7 +72,7 @@
       "buyer_projects": 63,
       "hire_rate": 60,
       "offers": 1,
-      "time_left": "20 ч. 54 мин.",
+      "time_left": "19 ч. 14 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -88,7 +88,7 @@
       "buyer_projects": 4,
       "hire_rate": 0,
       "offers": 10,
-      "time_left": "20 ч. 50 мин.",
+      "time_left": "19 ч. 10 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -103,8 +103,8 @@
       "buyer": "irayu2000",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 26,
-      "time_left": "20 ч. 25 мин.",
+      "offers": 30,
+      "time_left": "18 ч. 45 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -120,7 +120,7 @@
       "buyer_projects": 1,
       "hire_rate": null,
       "offers": 6,
-      "time_left": "20 ч. 50 мин.",
+      "time_left": "19 ч. 10 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -135,8 +135,8 @@
       "buyer": "freelancetro",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 8,
-      "time_left": "2 д. 23 ч.",
+      "offers": 16,
+      "time_left": "2 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -152,7 +152,23 @@
       "buyer_projects": 14,
       "hire_rate": 83,
       "offers": 3,
-      "time_left": "20 ч. 50 мин.",
+      "time_left": "19 ч. 10 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3216934,
+      "title": "Поиск клиентов",
+      "url": "https://kwork.ru/projects/3216934",
+      "description": "Нужно искать клиентов для заказа авто или мото из Японии, от вас нужен только клиент, дальнейшее сопровождение уже с нашей стороны, вам за закрытого клиента фиксированная оплата, также можете найти компанию которая может заказать оптом, с нее вы уже будете получать на пасиве за каждый их заказ, оплата за компанию обговаривается индивидуально, коммерческое предложение для компаний и прайс предоставлю по запросу",
+      "price": 10000,
+      "max_budget": 30000,
+      "buyer": "ngolov0372",
+      "buyer_projects": 9,
+      "hire_rate": 33,
+      "offers": 1,
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -167,28 +183,12 @@
       "buyer": "cimnazfarzalieva",
       "buyer_projects": 4,
       "hire_rate": 100,
-      "offers": 2,
-      "time_left": "2 д. 22 ч.",
+      "offers": 4,
+      "time_left": "2 д. 20 ч.",
       "files": [],
       "external_links": [
         "https://vk.ru/rages_zone"
       ],
-      "source_page": 1
-    },
-    {
-      "id": 3067386,
-      "title": "Ведение блога Wordpress",
-      "url": "https://kwork.ru/projects/3067386",
-      "description": "Игровая тематика, игры онлайнНавыки фотошопа\nЖелателен опыт работы в wordpress\n-Если опыта нет, разобраться,\n500р, В кворк входит работа с 1 разделом, 100-150 карточек. Для регулярного сотрудничества свободный график 4000-месяц~ вести можно когда удобно",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "GTS2kk",
-      "buyer_projects": 140,
-      "hire_rate": 50,
-      "offers": 1,
-      "time_left": "9 ч. 27 мин.",
-      "files": [],
-      "external_links": [],
       "source_page": 1
     },
     {
@@ -201,8 +201,8 @@
       "buyer": "find2",
       "buyer_projects": 77,
       "hire_rate": 40,
-      "offers": 1,
-      "time_left": "2 д. 23 ч.",
+      "offers": 2,
+      "time_left": "2 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
