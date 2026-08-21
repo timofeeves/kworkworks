@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-08-21T14:48:19+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3240101,
-      "title": "Отзывы Авито",
-      "url": "https://kwork.ru/projects/3240101",
-      "description": "Нужно 30 положительных отзывов на Авито. сроки выполнения не сильно важны. в ответах на сообщения в Авито, если нужно то буду участвовать конечно",
-      "price": 6000,
-      "max_budget": 18000,
-      "buyer": "695171",
-      "buyer_projects": 11,
-      "hire_rate": 83,
-      "offers": 2,
-      "time_left": "2 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-21T14:58:46+00:00",
+  "count": 0,
+  "projects": []
 }
