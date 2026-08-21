@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-08-21T03:12:41+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3239752,
-      "title": "Исправить работоспособность серверов hostkey",
-      "url": "https://kwork.ru/projects/3239752",
-      "description": "У меня проблема настроил сервера, все работает, но ютую и ток ток не грузит, панель управление стоит на базе 3 XUI",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "Dmitriy_Rahatov",
-      "buyer_projects": 7,
-      "hire_rate": 100,
-      "offers": 1,
-      "time_left": "2 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-21T03:37:46+00:00",
+  "count": 0,
+  "projects": []
 }
