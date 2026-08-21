@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T23:00:09+00:00",
+  "scraped_at": "2026-08-21T23:31:27+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 32,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 1953005
+      "first_project_id": 3240220
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3240220,
+      "title": "Сделать видео рекламу (БЕЗ ИИ) для неоБанка",
+      "url": "https://kwork.ru/projects/3240220",
+      "description": "Нужно сделать видео для запрещённой соц сети(TT) по рекламе кошелька Pero Pay.Сайт peropay . info (там ознакомление с информацией)\nБолее подробно расскажу после подтверждения.\n10-25 секунд.\nГолос если что дадим.",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "Alex_Web_DN",
+      "buyer_projects": 4,
+      "hire_rate": 50,
+      "offers": 0,
+      "time_left": "2 д. 21 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3240204,
       "title": "Правки на сайте Вордпресс",
@@ -73,7 +89,7 @@
       "buyer": "xandr76",
       "buyer_projects": 245,
       "hire_rate": 47,
-      "offers": 19,
+      "offers": 20,
       "time_left": "2 д. 20 ч.",
       "files": [],
       "external_links": [],
@@ -89,7 +105,7 @@
       "buyer": "katemr",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 6,
+      "offers": 7,
       "time_left": "2 д. 21 ч.",
       "files": [],
       "external_links": [],
@@ -105,7 +121,7 @@
       "buyer": "Best-Business",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 0,
+      "offers": 2,
       "time_left": "2 д. 21 ч.",
       "files": [],
       "external_links": [],
@@ -185,24 +201,8 @@
       "buyer": "andreidmitriev17647",
       "buyer_projects": 43,
       "hire_rate": 63,
-      "offers": 1,
+      "offers": 2,
       "time_left": "2 д. 20 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 1953005,
-      "title": "Нужно названия фирмы и логотип для транспортной фирмы",
-      "url": "https://kwork.ru/projects/1953005",
-      "description": "Нужно названия фирмы и логотип для транспортной компании,занимаемся  междунородными грузоперевозками и логистикой.",
-      "price": 5000,
-      "max_budget": 15000,
-      "buyer": "5fqsg9hj48",
-      "buyer_projects": 2,
-      "hire_rate": null,
-      "offers": 0,
-      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
