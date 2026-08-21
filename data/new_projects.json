@@ -1,24 +1,5 @@
 {
-  "scraped_at": "2026-08-21T21:30:47+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3240204,
-      "title": "Правки на сайте Вордпресс",
-      "url": "https://kwork.ru/projects/3240204",
-      "description": "Полное техзадание https://docs.google.com/document/d/10qtGSVKtFxDg0DNpT0uL_jZUrRa3Lmtbtz40FgLX_uU/edit?usp=sharingНеобходима работа с формами, чекбоксами,  исправить цвет кнопки, текстов, сделать где-то текст в 2 строки.\nПорядок работы!!\nДелаете себе в гите (Гитверс) ветку от прода (мэйна).\nДелаете свою работу в ней.\nЗапускаете чтобы показать (деплой)\nМы проверяем\nЕсли все хорошо, то пул реквест.\nМы устанавливаем на прод, ещё раз проверяем.\nОтправляем оплату\nЗадачу закрываем.",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "chernov1000",
-      "buyer_projects": 152,
-      "hire_rate": 67,
-      "offers": 0,
-      "time_left": "2 д. 23 ч.",
-      "files": [],
-      "external_links": [
-        "https://docs.google.com/document/d/10qtGSVKtFxDg0DNpT0uL_jZUrRa3Lmtbtz40FgLX_uU/edit?usp=sharing"
-      ],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-21T21:35:00+00:00",
+  "count": 0,
+  "projects": []
 }
