@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-08-22T08:48:27+00:00",
+  "scraped_at": "2026-08-22T09:13:01+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 29,
+  "reported_total_pages": 28,
   "scanned_pages": 1,
   "page_summaries": [
     {
@@ -23,8 +23,8 @@
       "buyer": "fintechmaison",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 14,
-      "time_left": "2 д. 12 ч.",
+      "offers": 15,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +39,8 @@
       "buyer": "igor_abdulin",
       "buyer_projects": 92,
       "hire_rate": 80,
-      "offers": 24,
-      "time_left": "2 д. 12 ч.",
+      "offers": 29,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -56,7 +56,7 @@
       "buyer_projects": 20,
       "hire_rate": 50,
       "offers": 5,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -72,7 +72,7 @@
       "buyer_projects": 577,
       "hire_rate": 37,
       "offers": 2,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [
         "image.png"
       ],
@@ -89,8 +89,8 @@
       "buyer": "newsolutions",
       "buyer_projects": 379,
       "hire_rate": 23,
-      "offers": 11,
-      "time_left": "2 д. 12 ч.",
+      "offers": 13,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -105,8 +105,8 @@
       "buyer": "kolek0969",
       "buyer_projects": 23,
       "hire_rate": 17,
-      "offers": 1,
-      "time_left": "2 д. 12 ч.",
+      "offers": 2,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -122,7 +122,7 @@
       "buyer_projects": 6,
       "hire_rate": 50,
       "offers": 5,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -153,8 +153,8 @@
       "buyer": "Vladimir_1234567",
       "buyer_projects": 42,
       "hire_rate": 43,
-      "offers": 0,
-      "time_left": "2 д. 12 ч.",
+      "offers": 2,
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -170,7 +170,7 @@
       "buyer_projects": 16,
       "hire_rate": 23,
       "offers": 0,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -186,7 +186,7 @@
       "buyer_projects": 379,
       "hire_rate": 23,
       "offers": 18,
-      "time_left": "2 д. 12 ч.",
+      "time_left": "2 д. 11 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -201,7 +201,7 @@
       "buyer": "peter0",
       "buyer_projects": 57,
       "hire_rate": 47,
-      "offers": 4,
+      "offers": 11,
       "time_left": "2 д. 23 ч.",
       "files": [],
       "external_links": [],
