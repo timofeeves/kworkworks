@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-08-22T20:58:04+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-22T21:25:08+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3240576,
+      "title": "Подписчики в ВКонтакте",
+      "url": "https://kwork.ru/projects/3240576",
+      "description": "Основная цель: набрать 5500 живых, релевантных подписчиков в группе ВКонтакте за установленный срок.",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "Aleksandr_Kotegov",
+      "buyer_projects": 18,
+      "hire_rate": 80,
+      "offers": 0,
+      "time_left": "1 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
