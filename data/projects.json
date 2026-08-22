@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-08-22T17:48:20+00:00",
+  "scraped_at": "2026-08-22T18:01:20+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 35,
+  "reported_total_pages": 34,
   "scanned_pages": 1,
   "page_summaries": [
     {
@@ -23,8 +23,8 @@
       "buyer": "lutakova",
       "buyer_projects": 40,
       "hire_rate": 7,
-      "offers": 0,
-      "time_left": "2 д. 3 ч.",
+      "offers": 1,
+      "time_left": "2 д. 2 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -40,7 +40,7 @@
       "buyer_projects": 12,
       "hire_rate": 100,
       "offers": 17,
-      "time_left": "2 д. 3 ч.",
+      "time_left": "2 д. 2 ч.",
       "files": [
         "image.png"
       ],
@@ -58,7 +58,7 @@
       "buyer_projects": 1,
       "hire_rate": null,
       "offers": 5,
-      "time_left": "2 д. 3 ч.",
+      "time_left": "2 д. 2 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -73,7 +73,7 @@
       "buyer": "AnfisaKi",
       "buyer_projects": 6,
       "hire_rate": 0,
-      "offers": 28,
+      "offers": 31,
       "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [],
@@ -89,8 +89,8 @@
       "buyer": "kostanayles1",
       "buyer_projects": 10,
       "hire_rate": 57,
-      "offers": 23,
-      "time_left": "2 д. 3 ч.",
+      "offers": 24,
+      "time_left": "2 д. 2 ч.",
       "files": [
         "ТЗ_Алатау_Лес_AI_сайт.pdf"
       ],
@@ -107,8 +107,8 @@
       "buyer": "akmcorp",
       "buyer_projects": 58,
       "hire_rate": 70,
-      "offers": 0,
-      "time_left": "2 д. 3 ч.",
+      "offers": 7,
+      "time_left": "2 д. 2 ч.",
       "files": [],
       "external_links": [
         "https://planfix.ru/ourpartners/"
@@ -126,7 +126,7 @@
       "buyer_projects": 60,
       "hire_rate": 53,
       "offers": 3,
-      "time_left": "2 д. 3 ч.",
+      "time_left": "2 д. 2 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -159,8 +159,8 @@
       "buyer": "y88528",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 19,
-      "time_left": "2 д. 3 ч.",
+      "offers": 25,
+      "time_left": "2 д. 2 ч.",
       "files": [
         "IMG_7106.jpeg",
         "photo_2024-08-25_15-36-53.jpg",
@@ -198,7 +198,7 @@
       "buyer_projects": 14,
       "hire_rate": 36,
       "offers": 0,
-      "time_left": "2 д. 3 ч.",
+      "time_left": "2 д. 2 ч.",
       "files": [
         "15.jpg"
       ],
@@ -215,8 +215,8 @@
       "buyer": "Liudmila_M",
       "buyer_projects": 14,
       "hire_rate": 36,
-      "offers": 0,
-      "time_left": "2 д. 3 ч.",
+      "offers": 1,
+      "time_left": "2 д. 2 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1

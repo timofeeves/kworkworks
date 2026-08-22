@@ -1,40 +1,5 @@
 {
-  "scraped_at": "2026-08-22T17:48:20+00:00",
-  "count": 2,
-  "projects": [
-    {
-      "id": 3240535,
-      "title": "Юрист, специализирующийся на спорах с энергосбытом",
-      "url": "https://kwork.ru/projects/3240535",
-      "description": "Как, и по какой формуле рассчитывается безучетное потребление электроэнергии для потребителя - физическое лицо. Можно по-простому, на примере. Последствия (если не согласны, были нарушения, на экспертизе не присутствовали), подсудность.",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "lutakova",
-      "buyer_projects": 40,
-      "hire_rate": 7,
-      "offers": 0,
-      "time_left": "2 д. 3 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3240392,
-      "title": "Составить таблицу интеграторов",
-      "url": "https://kwork.ru/projects/3240392",
-      "description": "Требуется составить таблицу интеграторов со страницыhttps://planfix.ru/ourpartners/\nНужна Google таблица",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "akmcorp",
-      "buyer_projects": 58,
-      "hire_rate": 70,
-      "offers": 0,
-      "time_left": "2 д. 3 ч.",
-      "files": [],
-      "external_links": [
-        "https://planfix.ru/ourpartners/"
-      ],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-22T18:01:20+00:00",
+  "count": 0,
+  "projects": []
 }
