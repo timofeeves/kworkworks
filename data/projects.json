@@ -1,8 +1,8 @@
 {
-  "scraped_at": "2026-08-22T04:54:07+00:00",
+  "scraped_at": "2026-08-22T05:31:24+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 32,
+  "reported_total_pages": 31,
   "scanned_pages": 1,
   "page_summaries": [
     {
@@ -23,8 +23,8 @@
       "buyer": "gurbashvadim",
       "buyer_projects": 10,
       "hire_rate": 40,
-      "offers": 0,
-      "time_left": "2 д. 16 ч.",
+      "offers": 1,
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +39,8 @@
       "buyer": "iosifpahomov",
       "buyer_projects": 23,
       "hire_rate": 81,
-      "offers": 0,
-      "time_left": "2 д. 16 ч.",
+      "offers": 3,
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [
         "https://kinomir.online/"
@@ -57,8 +57,8 @@
       "buyer": "midas34",
       "buyer_projects": 67,
       "hire_rate": 80,
-      "offers": 5,
-      "time_left": "2 д. 16 ч.",
+      "offers": 7,
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -73,8 +73,8 @@
       "buyer": "mgn_ivan",
       "buyer_projects": 53,
       "hire_rate": 68,
-      "offers": 0,
-      "time_left": "2 д. 16 ч.",
+      "offers": 3,
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -90,7 +90,7 @@
       "buyer_projects": 31,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "2 д. 16 ч.",
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -106,7 +106,7 @@
       "buyer_projects": 1004,
       "hire_rate": 43,
       "offers": 0,
-      "time_left": "2 д. 16 ч.",
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [
         "https://net27.ru/nanostation-m2.html"
@@ -124,7 +124,7 @@
       "buyer_projects": 1004,
       "hire_rate": 43,
       "offers": 0,
-      "time_left": "2 д. 16 ч.",
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -140,7 +140,7 @@
       "buyer_projects": 31,
       "hire_rate": 53,
       "offers": 3,
-      "time_left": "2 д. 16 ч.",
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -156,7 +156,7 @@
       "buyer_projects": 31,
       "hire_rate": 53,
       "offers": 1,
-      "time_left": "2 д. 16 ч.",
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -172,7 +172,7 @@
       "buyer_projects": 31,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "2 д. 16 ч.",
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -188,7 +188,7 @@
       "buyer_projects": 31,
       "hire_rate": 53,
       "offers": 1,
-      "time_left": "2 д. 16 ч.",
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [
         "https://www.litres.ru/book/nikolae-kyrpale/rus-svyata-72768673/chitat-onlayn/"
@@ -206,7 +206,7 @@
       "buyer_projects": 31,
       "hire_rate": 53,
       "offers": 0,
-      "time_left": "2 д. 16 ч.",
+      "time_left": "2 д. 15 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
