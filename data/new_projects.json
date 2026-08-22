@@ -1,5 +1,58 @@
 {
-  "scraped_at": "2026-08-22T09:13:01+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-22T09:36:51+00:00",
+  "count": 3,
+  "projects": [
+    {
+      "id": 3240343,
+      "title": "Подготовить развертку фасадов в масштабе 1:100",
+      "url": "https://kwork.ru/projects/3240343",
+      "description": "Есть разработанные чертежи АР для здания по капитальному ремонту. Мне нужно их отобразить в корректном масштабе с указанием высотных отметок (высота/этажность, отметка цоколя), условные обозначения видов отделки, единая тонкая линия, с указанием цветов отделки. DWG есть",
+      "price": 5000,
+      "max_budget": 15000,
+      "buyer": "Nostrome",
+      "buyer_projects": 93,
+      "hire_rate": 60,
+      "offers": 0,
+      "time_left": "2 д. 11 ч.",
+      "files": [
+        "0372200033526000005-261 АР.pdf"
+      ],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3240338,
+      "title": "Ответы на отзывы в Гис. и Яндекс и Авито",
+      "url": "https://kwork.ru/projects/3240338",
+      "description": "Нужно написать логичные и аргументированные ответы на отзывы. Получается на  3-х площадках. Текст предварительно согласовываем",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "GCNO-02",
+      "buyer_projects": 3,
+      "hire_rate": 100,
+      "offers": 4,
+      "time_left": "2 д. 11 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3240336,
+      "title": "Сделать ситуационный план для объекта в масштабе 1:2000",
+      "url": "https://kwork.ru/projects/3240336",
+      "description": "Необходимо подготовить ситуационный план в масштабе М 1:2000 с ориентацией по сторонам света для согласования проекта благоустройства.Ссылка на объект https://yandex.ru/maps/-/CTwYvUpH",
+      "price": 2000,
+      "max_budget": 6000,
+      "buyer": "Nostrome",
+      "buyer_projects": 93,
+      "hire_rate": 60,
+      "offers": 1,
+      "time_left": "2 д. 11 ч.",
+      "files": [],
+      "external_links": [
+        "https://yandex.ru/maps/-/CTwYvUpH"
+      ],
+      "source_page": 1
+    }
+  ]
 }
