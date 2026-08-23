@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T20:00:56+00:00",
+  "scraped_at": "2026-08-23T20:33:17+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 45,
@@ -23,8 +23,8 @@
       "buyer": "astrouskip",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 2,
-      "time_left": "1 д. 23 ч.",
+      "offers": 4,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,7 +39,7 @@
       "buyer": "Asyasyay",
       "buyer_projects": 40,
       "hire_rate": 47,
-      "offers": 12,
+      "offers": 15,
       "time_left": "1 д.",
       "files": [],
       "external_links": [],
@@ -55,7 +55,7 @@
       "buyer": "neuronap",
       "buyer_projects": 7,
       "hire_rate": 0,
-      "offers": 17,
+      "offers": 19,
       "time_left": "1 д.",
       "files": [
         "image.png"
@@ -73,7 +73,7 @@
       "buyer": "newsolutions",
       "buyer_projects": 380,
       "hire_rate": 23,
-      "offers": 3,
+      "offers": 4,
       "time_left": "1 д.",
       "files": [
         "ТЗ НА ПРОМПТ.ZIP"
@@ -126,7 +126,7 @@
       "buyer": "artem152011",
       "buyer_projects": 12,
       "hire_rate": 0,
-      "offers": 3,
+      "offers": 4,
       "time_left": "1 д.",
       "files": [],
       "external_links": [],
@@ -142,8 +142,8 @@
       "buyer": "geel0",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 15,
-      "time_left": "1 д. 22 ч.",
+      "offers": 16,
+      "time_left": "1 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -179,7 +179,7 @@
       "buyer": "evzobnina",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 16,
+      "offers": 19,
       "time_left": "1 д.",
       "files": [],
       "external_links": [],
@@ -221,8 +221,8 @@
       "buyer": "EasySMM",
       "buyer_projects": 45,
       "hire_rate": 52,
-      "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "offers": 1,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
