@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T14:52:06+00:00",
+  "scraped_at": "2026-08-23T15:09:03+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 42,
@@ -8,11 +8,29 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3240805
+      "first_project_id": 3240808
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3240832,
+      "title": "Реклама yandex direct",
+      "url": "https://kwork.ru/projects/3240832",
+      "description": "Требуется создание рекламной компании Желательно мк на озк\nСайт https://moyarb.ru/\nО нас:\nКомпания по банкротству граждан \nОсновная задача создать и запустить рекламную кампанию,  чтобы в дальнейшем не требовалось постоянное участие и оптимизация,  мк вроде как подходит под такой формат\nТак же настройки именно на целевой аудиторию и чистка минус фразы\nКреативы,  текста есть\nРабота только через упр аккаунт или представителя ( права на ваш аккаунт выдаём)\nОтзывы и кейсы приветствуются)",
+      "price": 5000,
+      "max_budget": 15000,
+      "buyer": "Smirnof",
+      "buyer_projects": 47,
+      "hire_rate": 33,
+      "offers": 1,
+      "time_left": "1 д. 23 ч.",
+      "files": [],
+      "external_links": [
+        "https://moyarb.ru/"
+      ],
+      "source_page": 1
+    },
     {
       "id": 3240823,
       "title": "Дизайн соцсети в стиле сайта",
@@ -24,7 +42,7 @@
       "buyer_projects": 51,
       "hire_rate": 47,
       "offers": 0,
-      "time_left": "1 д. 6 ч.",
+      "time_left": "1 д. 5 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +57,24 @@
       "buyer": "masterkard04",
       "buyer_projects": 64,
       "hire_rate": 67,
-      "offers": 14,
-      "time_left": "1 д. 6 ч.",
+      "offers": 16,
+      "time_left": "1 д. 5 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3240808,
+      "title": "Заполнять карточки товаров по шаблону",
+      "url": "https://kwork.ru/projects/3240808",
+      "description": "Здравствуйте! Я предоставлю вам данные для заполнения - вам нужно заполнить информацию на сайте. Опыт не нужен, просто скопировать и вставить. Работа требует времени. Нужно заполнить 300 карточек товаров. Условия заказа обговариваем.",
+      "price": 4000,
+      "max_budget": 12000,
+      "buyer": "pronel",
+      "buyer_projects": 1,
+      "hire_rate": null,
+      "offers": 0,
+      "time_left": "1 д. 5 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -55,8 +89,8 @@
       "buyer": "proexc",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 0,
-      "time_left": "1 д. 6 ч.",
+      "offers": 2,
+      "time_left": "1 д. 5 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -71,8 +105,8 @@
       "buyer": "sikitya",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 6,
-      "time_left": "1 д. 23 ч.",
+      "offers": 10,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -88,39 +122,7 @@
       "buyer_projects": 1,
       "hire_rate": null,
       "offers": 3,
-      "time_left": "1 д. 6 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3240775,
-      "title": "Перевод текста",
-      "url": "https://kwork.ru/projects/3240775",
-      "description": "Что сделать;- Перевести весь текст с изображения.\n- Сохранить смысл и основную идею.\n- Не изменять названия, имена и названия брендов без необходимости.\n- Проверить готовый перевод на ошибки.\nОформление:\nРазместить переведённый текст обратно на изображении.\nПри этом нужно сохранить первоначальный внешний вид:\n- расположение текста;\n- шрифты и размеры;\n- цвета;\n- отступы;\n- общую композицию изображения.",
-      "price": 4000,
-      "max_budget": 12000,
-      "buyer": "marinakis3",
-      "buyer_projects": 1,
-      "hire_rate": null,
-      "offers": 14,
-      "time_left": "1 д. 6 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3240770,
-      "title": "Необходимо проверить финансовые документы",
-      "url": "https://kwork.ru/projects/3240770",
-      "description": "Проверить все поступления и расходы за месяц.Сверить данные по банковским операциям с внутренними документами.\nПроверить правильность оформления счетов и платежных документов.\nНайти возможные ошибки или несоответствия.\nРазнести операции по соответствующим категориям.\nПодсчитать общую сумму доходов и расходов.\nОпределить итоговый финансовый результат за месяц.\nПодготовить список документов, которых не хватает.\nРезультат:\nПодготовить Excel-файл с:\nдоходами;\nрасходами;\nкатегориями операций;\nсуммами;\nкомментариями по спорным операциям;\nитоговым результатом за месяц.",
-      "price": 10000,
-      "max_budget": 30000,
-      "buyer": "dedmazai5",
-      "buyer_projects": 1,
-      "hire_rate": null,
-      "offers": 5,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 5 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -135,8 +137,8 @@
       "buyer": "profik7",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 6,
-      "time_left": "1 д. 6 ч.",
+      "offers": 11,
+      "time_left": "1 д. 5 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -152,7 +154,7 @@
       "buyer_projects": 1,
       "hire_rate": null,
       "offers": 0,
-      "time_left": "1 д. 6 ч.",
+      "time_left": "1 д. 5 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -167,8 +169,8 @@
       "buyer": "Vilen_mp",
       "buyer_projects": 3,
       "hire_rate": 0,
-      "offers": 7,
-      "time_left": "1 д. 22 ч.",
+      "offers": 8,
+      "time_left": "1 д. 21 ч.",
       "files": [
         "dress_maxi_detail_hooks_20260726.png",
         "photo_2026-08-03 19.15.24.jpeg",
@@ -189,7 +191,7 @@
       "buyer_projects": 17,
       "hire_rate": 20,
       "offers": 0,
-      "time_left": "1 д. 6 ч.",
+      "time_left": "1 д. 5 ч.",
       "files": [
         "Screenshot_20260302_113845_YouTube.jpg"
       ],
@@ -206,8 +208,8 @@
       "buyer": "Stirt5",
       "buyer_projects": 17,
       "hire_rate": 20,
-      "offers": 0,
-      "time_left": "1 д. 6 ч.",
+      "offers": 1,
+      "time_left": "1 д. 5 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
