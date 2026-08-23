@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T19:47:39+00:00",
+  "scraped_at": "2026-08-23T20:00:56+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 45,
@@ -23,7 +23,7 @@
       "buyer": "astrouskip",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 1,
+      "offers": 2,
       "time_left": "1 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -39,8 +39,8 @@
       "buyer": "Asyasyay",
       "buyer_projects": 40,
       "hire_rate": 47,
-      "offers": 11,
-      "time_left": "1 д. 1 ч.",
+      "offers": 12,
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -55,8 +55,8 @@
       "buyer": "neuronap",
       "buyer_projects": 7,
       "hire_rate": 0,
-      "offers": 16,
-      "time_left": "1 д. 1 ч.",
+      "offers": 17,
+      "time_left": "1 д.",
       "files": [
         "image.png"
       ],
@@ -73,8 +73,8 @@
       "buyer": "newsolutions",
       "buyer_projects": 380,
       "hire_rate": 23,
-      "offers": 2,
-      "time_left": "1 д. 1 ч.",
+      "offers": 3,
+      "time_left": "1 д.",
       "files": [
         "ТЗ НА ПРОМПТ.ZIP"
       ],
@@ -111,7 +111,7 @@
       "buyer_projects": 11,
       "hire_rate": 100,
       "offers": 1,
-      "time_left": "1 д. 1 ч.",
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -127,7 +127,7 @@
       "buyer_projects": 12,
       "hire_rate": 0,
       "offers": 3,
-      "time_left": "1 д. 1 ч.",
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -142,7 +142,7 @@
       "buyer": "geel0",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 14,
+      "offers": 15,
       "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
@@ -159,7 +159,7 @@
       "buyer_projects": 15,
       "hire_rate": 85,
       "offers": 2,
-      "time_left": "1 д. 1 ч.",
+      "time_left": "1 д.",
       "files": [
         "9bf7da92b3b94e8daeb15b219d6040f5.jpeg",
         "i (8).jpeg",
@@ -179,8 +179,8 @@
       "buyer": "evzobnina",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 15,
-      "time_left": "1 д. 1 ч.",
+      "offers": 16,
+      "time_left": "1 д.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -196,7 +196,7 @@
       "buyer_projects": 85,
       "hire_rate": 83,
       "offers": 0,
-      "time_left": "1 д. 1 ч.",
+      "time_left": "1 д.",
       "files": [],
       "external_links": [
         "https://qudata.ai/",
