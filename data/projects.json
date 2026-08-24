@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T19:58:11+00:00",
+  "scraped_at": "2026-08-24T20:34:18+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 47,
@@ -23,8 +23,8 @@
       "buyer": "animagrafika",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 1,
-      "time_left": "23 ч. 51 мин.",
+      "offers": 3,
+      "time_left": "23 ч. 15 мин.",
       "files": [
         "SPEED.mp4"
       ],
@@ -41,7 +41,7 @@
       "buyer": "vshivtseva_1drcs",
       "buyer_projects": 4,
       "hire_rate": 0,
-      "offers": 0,
+      "offers": 1,
       "time_left": "1 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -57,8 +57,8 @@
       "buyer": "val_ter",
       "buyer_projects": 36,
       "hire_rate": 72,
-      "offers": 2,
-      "time_left": "23 ч. 39 мин.",
+      "offers": 4,
+      "time_left": "23 ч. 3 мин.",
       "files": [
         "Screenshot 2026-08-24 at 3.36.56 PM.png"
       ],
@@ -75,8 +75,8 @@
       "buyer": "gerasimova5natalia0",
       "buyer_projects": 11,
       "hire_rate": 22,
-      "offers": 3,
-      "time_left": "1 д. 23 ч.",
+      "offers": 9,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -92,7 +92,7 @@
       "buyer_projects": 1,
       "hire_rate": null,
       "offers": 0,
-      "time_left": "23 ч. 29 мин.",
+      "time_left": "22 ч. 53 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -107,8 +107,8 @@
       "buyer": "ProducerSmm",
       "buyer_projects": 102,
       "hire_rate": 27,
-      "offers": 1,
-      "time_left": "23 ч. 28 мин.",
+      "offers": 2,
+      "time_left": "22 ч. 52 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -124,7 +124,7 @@
       "buyer_projects": 10,
       "hire_rate": 14,
       "offers": 1,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -140,7 +140,7 @@
       "buyer_projects": 36,
       "hire_rate": 29,
       "offers": 10,
-      "time_left": "23 ч. 14 мин.",
+      "time_left": "22 ч. 38 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -155,8 +155,8 @@
       "buyer": "ZENBEK",
       "buyer_projects": 13,
       "hire_rate": 0,
-      "offers": 13,
-      "time_left": "23 ч. 1 мин.",
+      "offers": 15,
+      "time_left": "22 ч. 25 мин.",
       "files": [
         "FINAL3_RESIZED_ORIG_RAW_resize-pdf_The Damn Wiki (1) (1) - Copy (1) (7).pdf"
       ],
@@ -173,7 +173,7 @@
       "buyer": "vshivtseva_1drcs",
       "buyer_projects": 4,
       "hire_rate": 0,
-      "offers": 4,
+      "offers": 6,
       "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
@@ -189,8 +189,8 @@
       "buyer": "kworkdom",
       "buyer_projects": 5,
       "hire_rate": 100,
-      "offers": 3,
-      "time_left": "23 ч. 21 мин.",
+      "offers": 6,
+      "time_left": "22 ч. 45 мин.",
       "files": [
         "IMG_5422.jpeg",
         "IMG_5423.jpeg",
@@ -216,7 +216,7 @@
       "buyer_projects": 9,
       "hire_rate": 0,
       "offers": 0,
-      "time_left": "23 ч. 5 мин.",
+      "time_left": "22 ч. 29 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
