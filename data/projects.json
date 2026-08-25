@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T05:00:14+00:00",
+  "scraped_at": "2026-08-25T05:38:30+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 31,
@@ -8,11 +8,47 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3241667
+      "first_project_id": 3241677
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3241677,
+      "title": "Универсальный шаблон Door Hanger в Canva",
+      "url": "https://kwork.ru/projects/3241677",
+      "description": "Нужно сделать простой универсальный шаблон Door Hanger в Canva.Размер листа: US Letter 8.5 × 11”.\nНа листе должно быть 2 одинаковых макета по 4.25 × 11”.\nМне нужно, чтобы я потом просто:\n1. Загружал готовую картинку.\n2. Вставлял её в шаблон.\n3. Получал два одинаковых макета на листе.\n4. Скачивал PDF и печатал.\nТакже нужно обозначить место под вырубку отверстия для дверной ручки. Отверстие я делаю сам отдельным аппаратом.\nНужен максимально простой и удобный шаблон, без сложного дизайна. Главное — точные размеры и чтобы потом всё делалось за пару минут.",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "genrikh777",
+      "buyer_projects": 129,
+      "hire_rate": 37,
+      "offers": 0,
+      "time_left": "23 ч. 48 мин.",
+      "files": [
+        "ChatGPT Image Aug 24, 2026, 10_21_49 PM.png"
+      ],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3241674,
+      "title": "Запустить интернет магазин",
+      "url": "https://kwork.ru/projects/3241674",
+      "description": "Добрый день. Есть собранный  в sites.google сайт-магазин, необходимо присвоить домен и разместить его в интернете.",
+      "price": 3000,
+      "max_budget": 9000,
+      "buyer": "ocsana2002",
+      "buyer_projects": 1,
+      "hire_rate": null,
+      "offers": 6,
+      "time_left": "23 ч. 30 мин.",
+      "files": [
+        "https.docx"
+      ],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3241673,
       "title": "Завести на ВБ 5000 карточек товара (одна категория)",
@@ -23,7 +59,7 @@
       "buyer": "TrueSeller33",
       "buyer_projects": 6,
       "hire_rate": 0,
-      "offers": 1,
+      "offers": 6,
       "time_left": "1 д. 23 ч.",
       "files": [],
       "external_links": [],
@@ -39,8 +75,8 @@
       "buyer": "gogin24422",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 0,
-      "time_left": "23 ч. 52 мин.",
+      "offers": 8,
+      "time_left": "23 ч. 14 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -56,7 +92,7 @@
       "buyer_projects": 3,
       "hire_rate": 0,
       "offers": 0,
-      "time_left": "23 ч. 33 мин.",
+      "time_left": "22 ч. 55 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -72,7 +108,7 @@
       "buyer_projects": 1,
       "hire_rate": null,
       "offers": 1,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -87,8 +123,8 @@
       "buyer": "sn600",
       "buyer_projects": 7,
       "hire_rate": 60,
-      "offers": 2,
-      "time_left": "23 ч. 49 мин.",
+      "offers": 4,
+      "time_left": "23 ч. 11 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -124,7 +160,7 @@
       "buyer_projects": 52,
       "hire_rate": 29,
       "offers": 0,
-      "time_left": "23 ч. 31 мин.",
+      "time_left": "22 ч. 52 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -139,8 +175,8 @@
       "buyer": "nativemarket",
       "buyer_projects": 10,
       "hire_rate": 75,
-      "offers": 5,
-      "time_left": "1 д. 18 ч.",
+      "offers": 6,
+      "time_left": "1 д. 17 ч.",
       "files": [
         "тз для псиллиум 200гр макет для дой пака.docx",
         "псиллиум 200гр дой пак 135х225х40+40 дно.pdf"
@@ -158,8 +194,8 @@
       "buyer": "nativemarket",
       "buyer_projects": 10,
       "hire_rate": 75,
-      "offers": 2,
-      "time_left": "18 ч. 27 мин.",
+      "offers": 4,
+      "time_left": "17 ч. 49 мин.",
       "files": [
         "тз для гороховый белок 500гр(2).docx",
         "Гороховый белок гр дой пак 170х270х40+40 дно-4.pdf"
@@ -168,53 +204,18 @@
       "source_page": 1
     },
     {
-      "id": 3241644,
-      "title": "Интернет магазин автозапчастей на PHP",
-      "url": "https://kwork.ru/projects/3241644",
-      "description": "Доброго времени сутокНужен простенький шаблон с самописной CMS/CRM системой для интернет магазина автозапчастей + зелёное SEO. По сути ничего сложного: главная страница, страница каталога, товара и отправка заявки в CRM встроенную в админку\nБолее подробно в лс",
-      "price": 50000,
-      "max_budget": 150000,
-      "buyer": "vladimirkk77",
-      "buyer_projects": 14,
-      "hire_rate": 0,
-      "offers": 24,
-      "time_left": "2 д. 23 ч.",
+      "id": 3238897,
+      "title": "Скупаем готовые базы групп в максе",
+      "url": "https://kwork.ru/projects/3238897",
+      "description": "Готовы покупать базы групп в максе в больших обьемах Оплата только через биржу, нужно моментальное выполнение, пишите когда уже собрали и готовы продать\n10000 групп= 3000р",
+      "price": 3000,
+      "max_budget": 9000,
+      "buyer": "formuroci",
+      "buyer_projects": 3,
+      "hire_rate": 100,
+      "offers": 0,
+      "time_left": "23 ч. 30 мин.",
       "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3241641,
-      "title": "Написать новые слова куплетов песни American Boy",
-      "url": "https://kwork.ru/projects/3241641",
-      "description": "Нужно написать новые куплеты для песни гр.Комбинация American Boy, которые по смыслу будут полностью противоположны оригиналу.Посыл песни такой:\nЯ столько лет мечтала уехать с тобой, чтобы однажды понять, что мне и здесь хорошо.\n    Я больше не жду, чтобы кто-то меня спас.\n    Я нашла свою русскую мечту девушки, строю жизнь, из которой не хочется уезжать.\n    В финале переворачивается главный рефрен: не «забери меня», а «останься со мной».\n    Мама наконец перестала спрашивать: «Ну когда уже замуж?»\nФразы для припева:\nAmerican boy, останусь с собой\nAmerican boy, goodbye, мой ковбой\nAmerican boy, я не поеду с тобой\nAmerican boy, не зови за собой\nAmerican boy, я довольна собой\nAmerican boy, у меня всё с собой\nAmerican boy, ты уже не герой\nМожно добавить про то, что пока я ждала, что ты обратишь на меня внимание и позовёшь к себе, я привела в порядок себя, начала хорошо зарабатывать и наладила личную жизнь. Теперь мне не упёрлись твои айфоны, ютубы, мерседесы, свифт и тд. У меня есть нормальные надёжные парни из Беларуси и талибана, ну и про современные реалии импортозамещения. Только без турбо-патриотизма и чуть с иронией и юмором.",
-      "price": 5000,
-      "max_budget": 15000,
-      "buyer": "cpoku",
-      "buyer_projects": 41,
-      "hire_rate": 67,
-      "offers": 3,
-      "time_left": "1 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3241238,
-      "title": "Обновить макет",
-      "url": "https://kwork.ru/projects/3241238",
-      "description": "1. Внести мелкие правки (выделены красным цветом)2. Изменить адреса в QR\n3. Добавить рекламный блок (текст отдельно)\n4. Визуально объединить на 2 стр внизу текст и часть таблицы выше - например пунктиром\nИсходник .AI и метки во вложении",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "lmvz",
-      "buyer_projects": 57,
-      "hire_rate": 90,
-      "offers": 3,
-      "time_left": "23 ч. 35 мин.",
-      "files": [
-        "Испр 1_2 лист.png",
-        "Испр 2_2 лист.png"
-      ],
       "external_links": [],
       "source_page": 1
     }
