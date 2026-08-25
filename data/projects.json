@@ -1,18 +1,52 @@
 {
-  "scraped_at": "2026-08-25T21:44:35+00:00",
+  "scraped_at": "2026-08-25T22:09:22+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 37,
+  "reported_total_pages": 38,
   "scanned_pages": 1,
   "page_summaries": [
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 2958705
+      "first_project_id": 3242355
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3242355,
+      "title": "Заполнить контентом страницы сайта на wordpress",
+      "url": "https://kwork.ru/projects/3242355",
+      "description": "Нужно вдумчиво и аккуратно заполнить контентом (фото, текст, видео) страницы сайта на вордпресс,например эту https://idealux.su/vreznye/\nКонтент предоставлю, оплата желательно постранично",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "Nosfiratu",
+      "buyer_projects": 20,
+      "hire_rate": 45,
+      "offers": 3,
+      "time_left": "23 ч. 51 мин.",
+      "files": [],
+      "external_links": [
+        "https://idealux.su/vreznye/"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": 3242353,
+      "title": "Сценарий для игры-новеллы",
+      "url": "https://kwork.ru/projects/3242353",
+      "description": "Требуется сценарий для игры-новеллы, примерно на 20 минут игры. Игра пока что линейная - выбора реплик и развилок нет (но предвидится). Пока что весь текст написано нейронкой - хочется его сделать живым, легкочитаемым и подсократить",
+      "price": 10000,
+      "max_budget": 30000,
+      "buyer": "igogoIev",
+      "buyer_projects": 26,
+      "hire_rate": 92,
+      "offers": 1,
+      "time_left": "1 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3242329,
       "title": "Ищу дизайнера - превью для YouTube",
@@ -24,7 +58,7 @@
       "buyer_projects": 16,
       "hire_rate": 50,
       "offers": 8,
-      "time_left": "22 ч. 38 мин.",
+      "time_left": "22 ч. 13 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -40,7 +74,7 @@
       "buyer_projects": 813,
       "hire_rate": 73,
       "offers": 5,
-      "time_left": "22 ч. 34 мин.",
+      "time_left": "22 ч. 9 мин.",
       "files": [],
       "external_links": [
         "https://disk.yandex.ru/i/SH_J7rQjZi3zZg"
@@ -58,23 +92,7 @@
       "buyer_projects": 44,
       "hire_rate": 40,
       "offers": 3,
-      "time_left": "22 ч. 26 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3242315,
-      "title": "Обработка картинок",
-      "url": "https://kwork.ru/projects/3242315",
-      "description": "Есть картинки проектов домов Необходимо обработать их через Искусственный интеллект \nИзменив их качество но оставив сам смысл картинки. \nОколо 300 картинок.",
-      "price": 2000,
-      "max_budget": 6000,
-      "buyer": "asdmoscow",
-      "buyer_projects": 32,
-      "hire_rate": 37,
-      "offers": 13,
-      "time_left": "22 ч. 8 мин.",
+      "time_left": "22 ч. 1 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -89,8 +107,8 @@
       "buyer": "Anton_veriF",
       "buyer_projects": 6,
       "hire_rate": 33,
-      "offers": 18,
-      "time_left": "21 ч. 32 мин.",
+      "offers": 19,
+      "time_left": "21 ч. 7 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -106,58 +124,23 @@
       "buyer_projects": 3,
       "hire_rate": 0,
       "offers": 2,
-      "time_left": "2 д. 22 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3242293,
-      "title": "Разработка настольной игры",
-      "url": "https://kwork.ru/projects/3242293",
-      "description": "Задание сразу станет понятным поиграв хотя бы один раз в игру Monolife! Хотелось бы увидеть хотя бы что то похожее, только в другой стилистике.",
-      "price": 200000,
-      "max_budget": null,
-      "buyer": "tashsport",
-      "buyer_projects": 3,
-      "hire_rate": 0,
-      "offers": 1,
       "time_left": "2 д. 21 ч.",
-      "files": [
-        "монополия.docx",
-        "Спортивная монополия.docx"
-      ],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3241657,
-      "title": "Требуется сделать рутинные задачи",
-      "url": "https://kwork.ru/projects/3241657",
-      "description": "- Настроить карты площадок- Быстро на связи, пока настраиваем\n- Написать тексты под действующие площадки\n- Настроить графические элементы 5 картинок",
-      "price": 18000,
-      "max_budget": 54000,
-      "buyer": "dijes",
-      "buyer_projects": 52,
-      "hire_rate": 29,
-      "offers": 5,
-      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
     },
     {
-      "id": 3233222,
-      "title": "Переписка с клиентами - Без звонков",
-      "url": "https://kwork.ru/projects/3233222",
-      "description": "Ваша задача искать потенциальных клиентов.Я дам подробную инструкцию как и где искать.\nПришлю текст, что писать и как, придумывать ничего не нужно.\nСуть работы:\n1. Вводите в поиске слова (их я предоставлю)\n2. Находите потенциальных клиентов\n3. Пишите им по готовому тексту\n4. Клиент соглашается на дальнейшее общение с менеджером\n5. Ваша задача выполнена\nЧем больше находите клиентов, тем больше зарабатываете. Сложностей никаких нет, главное писать по 30-40 сообщений в день.\nМожно работать в любое время.\nМожно работать с телефона.",
+      "id": 3230732,
+      "title": "Найти клиента",
+      "url": "https://kwork.ru/projects/3230732",
+      "description": "Необходимо оказать услугу по поиску потенциальных клиентов на услуги графического дизайна.Интересуют реальные заказчики, которым требуется:\nразработка логотипов;\nфирменный стиль;\nбаннеры;\nполиграфия;\nоформление соцсетей;\nвеб-дизайн.\nТребуется:\nнайти заинтересованных клиентов;\nпередать контакты или организовать первое общение;\nработа оплачивается за оказанную услугу.\nЕсли сотрудничество окажется успешным, возможны повторные аналогичные проекты.",
       "price": 1500,
-      "max_budget": null,
-      "buyer": "Vladimir_1234567",
-      "buyer_projects": 44,
-      "hire_rate": 40,
-      "offers": 2,
-      "time_left": "10 ч. 40 мин.",
+      "max_budget": 4500,
+      "buyer": "guland1969",
+      "buyer_projects": 37,
+      "hire_rate": 89,
+      "offers": 0,
+      "time_left": "23 ч. 41 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -173,7 +156,7 @@
       "buyer_projects": 146,
       "hire_rate": 33,
       "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -189,7 +172,23 @@
       "buyer_projects": 146,
       "hire_rate": 33,
       "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "time_left": "2 д. 22 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3126407,
+      "title": "Найти клиента на разработку сайта",
+      "url": "https://kwork.ru/projects/3126407",
+      "description": "Я занимаюсь созданием сайтов (лендинги, сайты для бизнеса, интернет-магазины). Нужно найти людей или компании, которым сейчас нужен сайт или редизайн сайта.Что требуется от вас: найти 1 клиента, которому нужна эта услуга. по прайсу вышлю в личку\nИщу исполнителя для поиска клиента(лида) на разработку сайта.",
+      "price": 3000,
+      "max_budget": 9000,
+      "buyer": "guland1969",
+      "buyer_projects": 37,
+      "hire_rate": 89,
+      "offers": 0,
+      "time_left": "23 ч. 41 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -204,8 +203,8 @@
       "buyer": "SpaceNavigator",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 0,
-      "time_left": "2 д. 23 ч.",
+      "offers": 1,
+      "time_left": "2 д. 22 ч.",
       "files": [],
       "external_links": [
         "https://nebo.mobi/"

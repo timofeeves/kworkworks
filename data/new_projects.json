@@ -1,5 +1,40 @@
 {
-  "scraped_at": "2026-08-25T21:44:35+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-08-25T22:09:22+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3242355,
+      "title": "Заполнить контентом страницы сайта на wordpress",
+      "url": "https://kwork.ru/projects/3242355",
+      "description": "Нужно вдумчиво и аккуратно заполнить контентом (фото, текст, видео) страницы сайта на вордпресс,например эту https://idealux.su/vreznye/\nКонтент предоставлю, оплата желательно постранично",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "Nosfiratu",
+      "buyer_projects": 20,
+      "hire_rate": 45,
+      "offers": 3,
+      "time_left": "23 ч. 51 мин.",
+      "files": [],
+      "external_links": [
+        "https://idealux.su/vreznye/"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": 3242353,
+      "title": "Сценарий для игры-новеллы",
+      "url": "https://kwork.ru/projects/3242353",
+      "description": "Требуется сценарий для игры-новеллы, примерно на 20 минут игры. Игра пока что линейная - выбора реплик и развилок нет (но предвидится). Пока что весь текст написано нейронкой - хочется его сделать живым, легкочитаемым и подсократить",
+      "price": 10000,
+      "max_budget": 30000,
+      "buyer": "igogoIev",
+      "buyer_projects": 26,
+      "hire_rate": 92,
+      "offers": 1,
+      "time_left": "1 д. 23 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
