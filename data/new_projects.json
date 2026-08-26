@@ -1,24 +1,5 @@
 {
-  "scraped_at": "2026-08-26T01:35:55+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3242393,
-      "title": "Донастроить Tilda(не у всех открывается сайт)",
-      "url": "https://kwork.ru/projects/3242393",
-      "description": "Сделать диагностику - клиенты (30%) жалуются что сайт либо не всегда либо вообще не открывается.Сайт на тильда. https://astradepets.ru/\nДалее пофиксить баги",
-      "price": 7000,
-      "max_budget": 21000,
-      "buyer": "denis9",
-      "buyer_projects": 8,
-      "hire_rate": 100,
-      "offers": 10,
-      "time_left": "1 д. 22 ч.",
-      "files": [],
-      "external_links": [
-        "https://astradepets.ru/"
-      ],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-08-26T01:54:12+00:00",
+  "count": 0,
+  "projects": []
 }
