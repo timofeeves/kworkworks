@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T23:58:00+00:00",
+  "scraped_at": "2026-08-26T01:35:55+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 38,
@@ -8,11 +8,29 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3242390
+      "first_project_id": 3242393
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3242393,
+      "title": "Донастроить Tilda(не у всех открывается сайт)",
+      "url": "https://kwork.ru/projects/3242393",
+      "description": "Сделать диагностику - клиенты (30%) жалуются что сайт либо не всегда либо вообще не открывается.Сайт на тильда. https://astradepets.ru/\nДалее пофиксить баги",
+      "price": 7000,
+      "max_budget": 21000,
+      "buyer": "denis9",
+      "buyer_projects": 8,
+      "hire_rate": 100,
+      "offers": 10,
+      "time_left": "1 д. 22 ч.",
+      "files": [],
+      "external_links": [
+        "https://astradepets.ru/"
+      ],
+      "source_page": 1
+    },
     {
       "id": 3242390,
       "title": "Реальные покупатели в интернет магазин",
@@ -23,8 +41,8 @@
       "buyer": "Burzhuy",
       "buyer_projects": 349,
       "hire_rate": 33,
-      "offers": 0,
-      "time_left": "23 ч. 50 мин.",
+      "offers": 1,
+      "time_left": "22 ч. 12 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -40,7 +58,7 @@
       "buyer_projects": 349,
       "hire_rate": 33,
       "offers": 0,
-      "time_left": "23 ч. 48 мин.",
+      "time_left": "22 ч. 10 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -56,7 +74,7 @@
       "buyer_projects": 8,
       "hire_rate": 50,
       "offers": 1,
-      "time_left": "23 ч. 24 мин.",
+      "time_left": "21 ч. 46 мин.",
       "files": [],
       "external_links": [
         "https://hermes-agent.nousresearch.com/install.sh"
@@ -73,8 +91,8 @@
       "buyer": "brandandface",
       "buyer_projects": 567,
       "hire_rate": 90,
-      "offers": 0,
-      "time_left": "23 ч. 5 мин.",
+      "offers": 1,
+      "time_left": "21 ч. 27 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -89,8 +107,8 @@
       "buyer": "Forest2020",
       "buyer_projects": 5,
       "hire_rate": 33,
-      "offers": 1,
-      "time_left": "22 ч. 43 мин.",
+      "offers": 4,
+      "time_left": "21 ч. 5 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -105,8 +123,8 @@
       "buyer": "Nosfiratu",
       "buyer_projects": 21,
       "hire_rate": 45,
-      "offers": 1,
-      "time_left": "2 д. 22 ч.",
+      "offers": 6,
+      "time_left": "2 д. 20 ч.",
       "files": [],
       "external_links": [
         "https://triya-tm.ru/"
@@ -123,8 +141,8 @@
       "buyer": "Nosfiratu",
       "buyer_projects": 21,
       "hire_rate": 45,
-      "offers": 6,
-      "time_left": "22 ч. 3 мин.",
+      "offers": 7,
+      "time_left": "20 ч. 25 мин.",
       "files": [],
       "external_links": [
         "https://idealux.su/vreznye/"
@@ -141,8 +159,8 @@
       "buyer": "igogoIev",
       "buyer_projects": 26,
       "hire_rate": 92,
-      "offers": 16,
-      "time_left": "1 д. 22 ч.",
+      "offers": 23,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -158,7 +176,7 @@
       "buyer_projects": 37,
       "hire_rate": 89,
       "offers": 0,
-      "time_left": "21 ч. 53 мин.",
+      "time_left": "20 ч. 15 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -174,7 +192,7 @@
       "buyer_projects": 37,
       "hire_rate": 89,
       "offers": 0,
-      "time_left": "21 ч. 53 мин.",
+      "time_left": "20 ч. 15 мин.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -190,28 +208,10 @@
       "buyer_projects": 4,
       "hire_rate": 100,
       "offers": 0,
-      "time_left": "22 ч. 25 мин.",
+      "time_left": "20 ч. 47 мин.",
       "files": [],
       "external_links": [
         "https://vk.ru/rages_zone"
-      ],
-      "source_page": 1
-    },
-    {
-      "id": 2958705,
-      "title": "Нужна разработка простой браузерной игры",
-      "url": "https://kwork.ru/projects/2958705",
-      "description": "Здравствуйте нужно сделать полностью новую браузерную онлайн игру на подобии https://nebo.mobi ( вместе с дизайном ) предложите вашу цену и сроки",
-      "price": 80000,
-      "max_budget": 200000,
-      "buyer": "SpaceNavigator",
-      "buyer_projects": 2,
-      "hire_rate": null,
-      "offers": 3,
-      "time_left": "2 д. 21 ч.",
-      "files": [],
-      "external_links": [
-        "https://nebo.mobi/"
       ],
       "source_page": 1
     }
