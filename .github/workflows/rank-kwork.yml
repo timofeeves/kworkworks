@@ -20,15 +20,17 @@ jobs:
           python-version: "3.12"
       - name: Rank projects
         run: python rank_projects.py
-      - name: Commit ranking
+      - name: Build market summary
+        run: python market_summary.py
+      - name: Commit ranking and market summary
         shell: bash
         run: |
           git config user.name "kworkworks-bot"
           git config user.email "kworkworks-bot@users.noreply.github.com"
-          git add data/ranking.json
+          git add data/ranking.json data/market_summary.json
           if git diff --cached --quiet; then
             echo "No ranking changes"
             exit 0
           fi
-          git commit -m "Update Kwork ranking"
+          git commit -m "Update Kwork ranking and market summary"
           git push
