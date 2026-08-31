@@ -7,7 +7,8 @@ from pathlib import Path
 SRC = Path("data/projects.json")
 OUT = Path("data/market_summary.json")
 
-# Market slices that are realistically adjacent to the owner's current skills.
+# Market slices adjacent to the owner's current skills. Categories may overlap.
+# `title_count` is the stricter demand signal; `count` also looks inside descriptions.
 CATEGORIES = {
     "AutoCAD/DWG/чертежи": [
         r"autocad", r"nano\s*cad", r"nanocad", r"\bdwg\b", r"\bdxf\b",
@@ -19,16 +20,28 @@ CATEGORIES = {
     ],
     "Инженерные сети ОВ/ВК/ЭОМ": [
         r"\bов\b", r"овик", r"вентиляц", r"отоплен", r"теплоснаб",
-        r"\bвк\b", r"водоснаб", r"канализац", r"\bэом\b", r"электроснаб",
-        r"электрик\w* проект", r"инженерн\w* сет",
+        r"раздел\w*\s+вк\b", r"\bвк\s*(?:[,/+&]|проект|стади)", r"водоснаб", r"канализац",
+        r"\bэом\b", r"электроснаб", r"электрик\w* проект", r"инженерн\w* сет",
     ],
-    "Сметы/ВОР/объёмы": [
-        r"смет", r"\bвор\b", r"\bлср\b", r"ведомост\w* объ[её]м", r"объ[её]м\w* работ",
-        r"подсч[её]т\w* объ[её]м", r"расценк", r"гранд[- ]?смет",
+    "Сметы/ВОР": [
+        r"смет", r"\bвор\b", r"\bлср\b", r"ведомост\w* объ[её]м", r"гранд[- ]?смет",
+        r"сметн\w* расч[её]т", r"сметн\w* документац", r"расценк\w*",
+    ],
+    "Подсчёт площадей/объёмов": [
+        r"посчит\w*\s+(?:площад|объ[её]м|длин|колич)",
+        r"подсч[её]т\w*\s+(?:площад|объ[её]м|длин|колич)",
+        r"рассчит\w*\s+(?:площад|объ[её]м)",
+        r"замер\w*\s+площад", r"площад\w*\s+по\s+черт", r"объ[её]м\w*\s+по\s+черт",
+    ],
+    "Сверка сметы и ВОР": [
+        r"свер\w*.*(?:смет|вор|лср)", r"(?:смет|вор|лср).*свер",
+        r"сравн\w*.*(?:смет|вор|лср)", r"расхожд\w*.*(?:смет|вор|лср)",
+        r"провер\w*.*(?:смет|вор|лср)",
     ],
     "Экспертиза/правки проекта": [
         r"экспертиз", r"замечан\w* эксперт", r"ответ\w* на замечан",
-        r"корректиров\w* проект", r"внести правк\w*.*проект", r"аудит\w* проект",
+        r"корректиров\w* проект", r"внести правк\w*.*проект", r"правк\w*.*раздел",
+        r"аудит\w* проект",
     ],
     "ПЗУ/генплан/СПОЗУ": [
         r"\bпзу\b", r"спозу", r"генплан", r"генеральн\w* план", r"посадк\w* здан",
@@ -38,21 +51,25 @@ CATEGORIES = {
         r"\bпос\b", r"\bппр\b", r"организац\w* строительств", r"проект производств\w* работ",
         r"стройгенплан",
     ],
-    "Excel/таблицы/расчёты": [
+    "Excel/таблицы/макросы": [
         r"\bexcel\b", r"xlsx", r"google sheets", r"гугл\w* таблиц", r"электронн\w* таблиц",
-        r"формул\w* excel", r"сводн\w* таблиц", r"макрос\w* excel",
+        r"формул\w* excel", r"сводн\w* таблиц", r"макрос\w* excel", r"\bvba\b",
     ],
     "Python/скрипты/автоматизация": [
         r"\bpython\b", r"python[- ]?скрипт", r"автоматизац\w*", r"скрипт\w*",
         r"парсер", r"парсинг", r"обработк\w* файлов", r"генерац\w* документ",
         r"автоматическ\w* формирован",
     ],
-    "Коммерческие предложения/Word/PDF": [
-        r"коммерческ\w* предложен", r"\bткп\b", r"шаблон\w* кп\b", r"\bword\b", r"\bdocx\b",
-        r"шаблон\w* документ", r"оформ\w* документ", r"формирован\w* pdf", r"заполн\w* pdf",
+    "Коммерческие предложения/ТКП": [
+        r"коммерческ\w* предложен", r"\bткп\b", r"шаблон\w*\s+кп\b",
+        r"оформ\w*\s+кп\b", r"состав\w*\s+кп\b",
     ],
-    "Техническая документация/ТЗ": [
-        r"техническ\w* задан", r"\bтз\b", r"техническ\w* документац", r"паспорт\w* оборуд",
+    "Word/PDF/шаблоны документов": [
+        r"\bword\b", r"\bdocx\b", r"шаблон\w* документ", r"оформ\w* документ",
+        r"формирован\w* pdf", r"заполн\w* pdf", r"генерац\w* документ",
+    ],
+    "Техническая документация": [
+        r"техническ\w* задан", r"техническ\w* документац", r"паспорт\w* оборуд",
         r"техническ\w* описан", r"инструкц\w*", r"регламент\w*", r"спецификац\w*",
     ],
     "Вектор/макеты/Inkscape": [
@@ -81,6 +98,10 @@ STOPWORDS = {
 
 def text_of(p):
     return f"{p.get('title', '')} {p.get('description', '')}".lower()
+
+
+def title_of(p):
+    return (p.get("title") or "").lower()
 
 
 def matches(text, pats):
@@ -117,6 +138,7 @@ def main():
     summary = {}
     for name, pats in CATEGORIES.items():
         rows = [p for p in projects if matches(text_of(p), pats)]
+        title_rows = [p for p in projects if matches(title_of(p), pats)]
         rows_sorted = sorted(
             rows,
             key=lambda p: (
@@ -127,7 +149,19 @@ def main():
             ),
             reverse=True,
         )
+        title_sorted = sorted(
+            title_rows,
+            key=lambda p: (
+                (p.get("offers") is not None and p.get("offers") <= 3),
+                budget(p),
+                p.get("hire_rate") or 0,
+                -(p.get("source_page") or 99),
+            ),
+            reverse=True,
+        )
         summary[name] = {
+            "title_count": len(title_rows),
+            "title_share_pct": round(len(title_rows) * 100 / total, 1) if total else 0,
             "count": len(rows),
             "share_pct": round(len(rows) * 100 / total, 1) if total else 0,
             "median_budget": med([budget(p) for p in rows if budget(p)]),
@@ -137,6 +171,7 @@ def main():
             "offers_le_3": sum(1 for p in rows if isinstance(p.get("offers"), int) and p.get("offers") <= 3),
             "budget_ge_10000": sum(1 for p in rows if budget(p) >= 10000),
             "budget_ge_30000": sum(1 for p in rows if budget(p) >= 30000),
+            "title_examples": [make_example(p) for p in title_sorted[:5]],
             "examples": [make_example(p) for p in rows_sorted[:5]],
         }
 
