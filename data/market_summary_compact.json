@@ -1,0 +1,412 @@
+{
+  "scraped_at": "2026-08-31T11:26:32+00:00",
+  "requested_pages": 44,
+  "reported_total_pages": 44,
+  "scanned_pages": 44,
+  "total_projects": 524,
+  "overall": {
+    "median_budget": 6000.0,
+    "median_price": 2500.0,
+    "median_offers": 7.0,
+    "zero_offers": 61,
+    "offers_le_3": 177
+  },
+  "categories": {
+    "AutoCAD/DWG/чертежи": {
+      "title_count": 4,
+      "title_share_pct": 0.8,
+      "count": 10,
+      "share_pct": 1.9,
+      "median_budget": 27750.0,
+      "median_price": 11500.0,
+      "median_offers": 2.0,
+      "zero_offers": 2,
+      "offers_le_3": 7,
+      "budget_ge_10000": 6,
+      "budget_ge_30000": 5
+    },
+    "Проектная документация/ПД/РД": {
+      "title_count": 3,
+      "title_share_pct": 0.6,
+      "count": 10,
+      "share_pct": 1.9,
+      "median_budget": 33500.0,
+      "median_price": 20000.0,
+      "median_offers": 1.5,
+      "zero_offers": 4,
+      "offers_le_3": 6,
+      "budget_ge_10000": 10,
+      "budget_ge_30000": 5
+    },
+    "Инженерные сети ОВ/ВК/ЭОМ": {
+      "title_count": 7,
+      "title_share_pct": 1.3,
+      "count": 18,
+      "share_pct": 3.4,
+      "median_budget": 22000.0,
+      "median_price": 10000.0,
+      "median_offers": 1.5,
+      "zero_offers": 6,
+      "offers_le_3": 13,
+      "budget_ge_10000": 14,
+      "budget_ge_30000": 8
+    },
+    "Сметы/ВОР": {
+      "title_count": 0,
+      "title_share_pct": 0.0,
+      "count": 5,
+      "share_pct": 1.0,
+      "median_budget": 30000,
+      "median_price": 10000,
+      "median_offers": 10,
+      "zero_offers": 0,
+      "offers_le_3": 0,
+      "budget_ge_10000": 3,
+      "budget_ge_30000": 3
+    },
+    "Подсчёт площадей/объёмов": {
+      "title_count": 0,
+      "title_share_pct": 0.0,
+      "count": 0,
+      "share_pct": 0.0,
+      "median_budget": null,
+      "median_price": null,
+      "median_offers": null,
+      "zero_offers": 0,
+      "offers_le_3": 0,
+      "budget_ge_10000": 0,
+      "budget_ge_30000": 0
+    },
+    "Сверка сметы и ВОР": {
+      "title_count": 0,
+      "title_share_pct": 0.0,
+      "count": 3,
+      "share_pct": 0.6,
+      "median_budget": 10000,
+      "median_price": 10000,
+      "median_offers": 0,
+      "zero_offers": 3,
+      "offers_le_3": 3,
+      "budget_ge_10000": 2,
+      "budget_ge_30000": 0
+    },
+    "Экспертиза/правки проекта": {
+      "title_count": 2,
+      "title_share_pct": 0.4,
+      "count": 12,
+      "share_pct": 2.3,
+      "median_budget": 9000.0,
+      "median_price": 9000.0,
+      "median_offers": 0.0,
+      "zero_offers": 7,
+      "offers_le_3": 10,
+      "budget_ge_10000": 6,
+      "budget_ge_30000": 2
+    },
+    "ПЗУ/генплан/СПОЗУ": {
+      "title_count": 1,
+      "title_share_pct": 0.2,
+      "count": 1,
+      "share_pct": 0.2,
+      "median_budget": 3000,
+      "median_price": 1000,
+      "median_offers": 1,
+      "zero_offers": 0,
+      "offers_le_3": 1,
+      "budget_ge_10000": 0,
+      "budget_ge_30000": 0
+    },
+    "ПОС/ППР": {
+      "title_count": 0,
+      "title_share_pct": 0.0,
+      "count": 0,
+      "share_pct": 0.0,
+      "median_budget": null,
+      "median_price": null,
+      "median_offers": null,
+      "zero_offers": 0,
+      "offers_le_3": 0,
+      "budget_ge_10000": 0,
+      "budget_ge_30000": 0
+    },
+    "Excel/таблицы/макросы": {
+      "title_count": 0,
+      "title_share_pct": 0.0,
+      "count": 7,
+      "share_pct": 1.3,
+      "median_budget": 3000,
+      "median_price": 1000,
+      "median_offers": 17,
+      "zero_offers": 0,
+      "offers_le_3": 1,
+      "budget_ge_10000": 2,
+      "budget_ge_30000": 2
+    },
+    "Python/скрипты/автоматизация": {
+      "title_count": 13,
+      "title_share_pct": 2.5,
+      "count": 39,
+      "share_pct": 7.4,
+      "median_budget": 7500,
+      "median_price": 3000,
+      "median_offers": 4,
+      "zero_offers": 5,
+      "offers_le_3": 17,
+      "budget_ge_10000": 14,
+      "budget_ge_30000": 7
+    },
+    "Коммерческие предложения/ТКП": {
+      "title_count": 1,
+      "title_share_pct": 0.2,
+      "count": 3,
+      "share_pct": 0.6,
+      "median_budget": 4500,
+      "median_price": 1500,
+      "median_offers": 2,
+      "zero_offers": 1,
+      "offers_le_3": 2,
+      "budget_ge_10000": 1,
+      "budget_ge_30000": 1
+    },
+    "Word/PDF/шаблоны документов": {
+      "title_count": 0,
+      "title_share_pct": 0.0,
+      "count": 3,
+      "share_pct": 0.6,
+      "median_budget": 5000,
+      "median_price": 4000,
+      "median_offers": 16,
+      "zero_offers": 0,
+      "offers_le_3": 0,
+      "budget_ge_10000": 1,
+      "budget_ge_30000": 0
+    },
+    "Техническая документация": {
+      "title_count": 1,
+      "title_share_pct": 0.2,
+      "count": 22,
+      "share_pct": 4.2,
+      "median_budget": 15000.0,
+      "median_price": 5000.0,
+      "median_offers": 6.0,
+      "zero_offers": 1,
+      "offers_le_3": 9,
+      "budget_ge_10000": 14,
+      "budget_ge_30000": 7
+    },
+    "Вектор/макеты/Inkscape": {
+      "title_count": 2,
+      "title_share_pct": 0.4,
+      "count": 6,
+      "share_pct": 1.1,
+      "median_budget": 9750.0,
+      "median_price": 4000.0,
+      "median_offers": 19.5,
+      "zero_offers": 0,
+      "offers_le_3": 0,
+      "budget_ge_10000": 3,
+      "budget_ge_30000": 1
+    },
+    "Презентации/PowerPoint": {
+      "title_count": 0,
+      "title_share_pct": 0.0,
+      "count": 15,
+      "share_pct": 2.9,
+      "median_budget": 9000,
+      "median_price": 5000,
+      "median_offers": 4,
+      "zero_offers": 4,
+      "offers_le_3": 7,
+      "budget_ge_10000": 7,
+      "budget_ge_30000": 6
+    },
+    "3D/BIM/Revit": {
+      "title_count": 5,
+      "title_share_pct": 1.0,
+      "count": 5,
+      "share_pct": 1.0,
+      "median_budget": 4500,
+      "median_price": 1500,
+      "median_offers": 12,
+      "zero_offers": 1,
+      "offers_le_3": 1,
+      "budget_ge_10000": 0,
+      "budget_ge_30000": 0
+    },
+    "CRM/1C/API интеграции": {
+      "title_count": 13,
+      "title_share_pct": 2.5,
+      "count": 24,
+      "share_pct": 4.6,
+      "median_budget": 18000.0,
+      "median_price": 6000.0,
+      "median_offers": 11.0,
+      "zero_offers": 0,
+      "offers_le_3": 5,
+      "budget_ge_10000": 13,
+      "budget_ge_30000": 11
+    }
+  },
+  "top_title_words": [
+    {
+      "word": "сайта",
+      "count": 31
+    },
+    {
+      "word": "видео",
+      "count": 29
+    },
+    {
+      "word": "создание",
+      "count": 28
+    },
+    {
+      "word": "клиентов",
+      "count": 26
+    },
+    {
+      "word": "поиск",
+      "count": 21
+    },
+    {
+      "word": "настройка",
+      "count": 20
+    },
+    {
+      "word": "монтаж",
+      "count": 19
+    },
+    {
+      "word": "дизайн",
+      "count": 17
+    },
+    {
+      "word": "сайт",
+      "count": 13
+    },
+    {
+      "word": "разработка",
+      "count": 12
+    },
+    {
+      "word": "привлечение",
+      "count": 12
+    },
+    {
+      "word": "продвижение",
+      "count": 11
+    },
+    {
+      "word": "проекта",
+      "count": 10
+    },
+    {
+      "word": "карточек",
+      "count": 9
+    },
+    {
+      "word": "wordpress",
+      "count": 9
+    },
+    {
+      "word": "рассылка",
+      "count": 9
+    },
+    {
+      "word": "вконтакте",
+      "count": 8
+    },
+    {
+      "word": "коротких",
+      "count": 8
+    },
+    {
+      "word": "доработка",
+      "count": 7
+    },
+    {
+      "word": "яндекс",
+      "count": 7
+    },
+    {
+      "word": "собрать",
+      "count": 7
+    },
+    {
+      "word": "товара",
+      "count": 7
+    },
+    {
+      "word": "фото",
+      "count": 6
+    },
+    {
+      "word": "ролика",
+      "count": 6
+    },
+    {
+      "word": "раздел",
+      "count": 6
+    },
+    {
+      "word": "ведение",
+      "count": 6
+    },
+    {
+      "word": "правки",
+      "count": 6
+    },
+    {
+      "word": "приложения",
+      "count": 6
+    },
+    {
+      "word": "верстка",
+      "count": 6
+    },
+    {
+      "word": "через",
+      "count": 6
+    },
+    {
+      "word": "группу",
+      "count": 6
+    },
+    {
+      "word": "консультация",
+      "count": 6
+    },
+    {
+      "word": "товаров",
+      "count": 6
+    },
+    {
+      "word": "помощь",
+      "count": 5
+    },
+    {
+      "word": "оформление",
+      "count": 5
+    },
+    {
+      "word": "приложение",
+      "count": 5
+    },
+    {
+      "word": "интеграция",
+      "count": 5
+    },
+    {
+      "word": "маркетплейс",
+      "count": 5
+    },
+    {
+      "word": "стадии",
+      "count": 5
+    },
+    {
+      "word": "рекламы",
+      "count": 5
+    }
+  ]
+}
