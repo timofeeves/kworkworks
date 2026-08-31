@@ -1,2 +1,2 @@
-42
-full-scan-20260831
+44
+full-scan-20260831-all
