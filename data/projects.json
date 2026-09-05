@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-05T21:12:09+00:00",
+  "scraped_at": "2026-09-05T22:54:41+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 43,
@@ -8,11 +8,27 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3244957
+      "first_project_id": 3246286
     }
   ],
   "count": 12,
   "projects": [
+    {
+      "id": 3248627,
+      "title": "Разработка мобильного приложения",
+      "url": "https://kwork.ru/projects/3248627",
+      "description": "Разработка мобильного приложения. Нужен Fullstack разработчик для создания кроссплатформенного МПОбязательно:\n— опыт разработки на Flutter с релизными кейсами\n— самостоятельная реализация бэкенда\n— понимание архитектуры\n— умение довести проект до публикации в сторах\nТолько с опытом! В отклике присылайте ссылки на портфолио/готовые приложения в магазинах и кратко — ваш стек. Без портфолио и кейсов не рассматриваем",
+      "price": 70000,
+      "max_budget": null,
+      "buyer": "studiofavorit",
+      "buyer_projects": 2,
+      "hire_rate": null,
+      "offers": 5,
+      "time_left": "2 д. 22 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
     {
       "id": 3248616,
       "title": "Выложить много объявлений",
@@ -24,7 +40,7 @@
       "buyer_projects": 80,
       "hire_rate": 47,
       "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -38,9 +54,9 @@
       "max_budget": null,
       "buyer": "dolgovdenis35",
       "buyer_projects": 7,
-      "hire_rate": 50,
-      "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "hire_rate": 60,
+      "offers": 5,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -54,9 +70,9 @@
       "max_budget": null,
       "buyer": "ef5storex",
       "buyer_projects": 52,
-      "hire_rate": 84,
-      "offers": 5,
-      "time_left": "1 д. 23 ч.",
+      "hire_rate": 85,
+      "offers": 12,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -72,7 +88,7 @@
       "buyer_projects": 80,
       "hire_rate": 47,
       "offers": 1,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -87,8 +103,8 @@
       "buyer": "rtsarev",
       "buyer_projects": 143,
       "hire_rate": 57,
-      "offers": 5,
-      "time_left": "1 д. 23 ч.",
+      "offers": 7,
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [
         "https://clck.ru/3VevVT"
@@ -106,23 +122,7 @@
       "buyer_projects": 1,
       "hire_rate": null,
       "offers": 1,
-      "time_left": "1 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3248599,
-      "title": "Оформление паблика ВК",
-      "url": "https://kwork.ru/projects/3248599",
-      "description": "Необходим лооготип для паблика ВКонтакте по продаже автомобилей, Название - SP Auto, минимализм стиль",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "Dragonb",
-      "buyer_projects": 1,
-      "hire_rate": null,
-      "offers": 11,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -138,11 +138,27 @@
       "buyer_projects": 4,
       "hire_rate": 50,
       "offers": 13,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [
         "342ac0c8-7067-48d1-807f-e523329d5367.png",
         "4fed5ccc-62f1-4100-be5f-7a53b053e9e1.png"
       ],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3246286,
+      "title": "Типографическая верстка для макетов дизайн студии",
+      "url": "https://kwork.ru/projects/3246286",
+      "description": "Нужен junior-midle дизайнер для конструктора в приложении Figma для создания копирайтинга и лексики уровня C2. От вас требуется: \n– Соблюсти разрешение 2688x1350\n– Строгое внедрение шрифта Space Grotesk, inter, Marcellus \n– Формат перетекаемый с 21:9 до 4:5 (1:1 не поддерживается\n– Количества интервала не более 50 пикселей \n– Боковые ограничения не более 100 пикселей\n– Количества текста на 1000 пикселей не более двух предложений\nДанные корпоративные и утверждённые иллюстрации срочно нужны дизайн-студии. \nДадим 15 макетов, из которые уже существует фон для линейки. \nКаждые 5 макетов из параллельных линеек. \nНужно написать текст, вставить логотип компании, написать Юридическую основу и производственный регламент",
+      "price": 11000,
+      "max_budget": 33000,
+      "buyer": "KROMUT",
+      "buyer_projects": 2,
+      "hire_rate": null,
+      "offers": 2,
+      "time_left": "1 д. 22 ч.",
+      "files": [],
       "external_links": [],
       "source_page": 1
     },
@@ -157,7 +173,7 @@
       "buyer_projects": 1149,
       "hire_rate": 77,
       "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [
         "Метро Крыма Яхты11.png",
         "Метро Крыма Яхты33.png",
@@ -178,7 +194,7 @@
       "buyer_projects": 14,
       "hire_rate": 75,
       "offers": 5,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [
         "AI_architecture_M5_Max_128GB_1.pdf"
       ],
@@ -196,23 +212,7 @@
       "buyer_projects": 9,
       "hire_rate": 0,
       "offers": 0,
-      "time_left": "1 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3182241,
-      "title": "Карточка wordpress работа с полями",
-      "url": "https://kwork.ru/projects/3182241",
-      "description": "Карточка wordpress работа с полями описание фотошоп 100шт 1 карточка 4 минуты, базовый навык фотошоп, для регулярной работы, работа по шаблону, можно своим ИИ",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "andreidmitriev17647",
-      "buyer_projects": 46,
-      "hire_rate": 57,
-      "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 22 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
