@@ -1,21 +1,41 @@
 {
-  "scraped_at": "2026-09-06T04:28:13+00:00",
-  "count": 1,
+  "scraped_at": "2026-09-06T05:09:44+00:00",
+  "count": 2,
   "projects": [
     {
-      "id": 3248639,
-      "title": "Прочекать сотовые на наличие в Т",
-      "url": "https://kwork.ru/projects/3248639",
-      "description": "Про чекать 20 000 сотовых тел на наличие в ТФайл скачан с официального сайта, в нем много данных о юр лице. в т ч несколько тел на одно юр лицо. Нужны никнеймы в Т\nПредлагайте свою цену",
-      "price": 1000,
-      "max_budget": 3000,
-      "buyer": "Elena1427",
-      "buyer_projects": 25,
-      "hire_rate": 93,
+      "id": 3248647,
+      "title": "Разработка ZDIOS — AI-системы управления бизнесом",
+      "url": "https://kwork.ru/projects/3248647",
+      "description": "Ищу сильного AI/Full-stack разработчика или команду для создания ZDIOS — собственной AI Operating System для комплексного управления бизнесом.Нужен НЕ обычный чат-бот и НЕ оболочка ChatGPT. Цель — создать многоагентную AI-систему, которая станет единым интеллектуальным центром компании.\nГлавный AI Director должен видеть состояние бизнеса, клиентов, обращения, заказы, продажи, задачи, показатели и аналитику; выявлять проблемы, предлагать решения, распределять работу между специализированными AI-агентами и самостоятельно выполнять разрешённые действия.\nПланируются AI-агенты: Director, Operator, Sales, Order Manager, Analyst, Controller, Marketing, Content, Finance и др.\nНеобходимы: собственная web-панель, Business Memory, база знаний/RAG, CRM, БД, API/tool calling, автоматизация, система прав и подтверждений, audit/tracing и безопасность.\nВ дальнейшем — единый центр для Telegram, MAX, VK, WhatsApp, сайта и телефонии.\nБюджет до 100 000 ₽ указан условно для публикации задания и не является фиксированной стоимостью всего проекта. Прошу самостоятельно оценить стоимость после изучения полного ТЗ. Рассматриваю поэтапную разработку и долгосрочное сотрудничество. Приоритет: опыт, качество архитектуры и адекватное соотношение цены и результата.",
+      "price": 100000,
+      "max_budget": 200000,
+      "buyer": "zonadostavki",
+      "buyer_projects": 3,
+      "hire_rate": 100,
       "offers": 5,
-      "time_left": "1 д. 16 ч.",
+      "time_left": "2 д. 23 ч.",
       "files": [],
       "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3248645,
+      "title": "Внести изменения в ролик",
+      "url": "https://kwork.ru/projects/3248645",
+      "description": "Есть ролик исходник в премьер про, нужно внести измененияПравки в документе. Исходник в приложении.\nНужно сделать оперативно и качественно. Проектов по созданию роликов будет много\nперевод слов https://docs.google.com/document/d/1geLrdyQ5cBY6IzUVR3ZwwfenObwmNazIG3axMuiXmXo/edit?tab=t.0\nправки - https://docs.google.com/document/d/1geLrdyQ5cBY6IzUVR3ZwwfenObwmNazIG3axMuiXmXo/edit?tab=t.0",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "Arsine",
+      "buyer_projects": 29,
+      "hire_rate": 88,
+      "offers": 0,
+      "time_left": "1 д. 15 ч.",
+      "files": [
+        "PR Project Version 2.prproj"
+      ],
+      "external_links": [
+        "https://docs.google.com/document/d/1geLrdyQ5cBY6IzUVR3ZwwfenObwmNazIG3axMuiXmXo/edit?tab=t.0"
+      ],
       "source_page": 1
     }
   ]
