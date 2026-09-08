@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-09-07T23:27:30+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3249646,
-      "title": "Выгрузить карточки с маркетплейс",
-      "url": "https://kwork.ru/projects/3249646",
-      "description": "Выгрузить карточки с маркетплейс, сохранить изображения описания информация карточек для выгрузки или api",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "andreidmitriev17647",
-      "buyer_projects": 48,
-      "hire_rate": 57,
-      "offers": 1,
-      "time_left": "23 ч. 24 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-09-08T00:21:36+00:00",
+  "count": 0,
+  "projects": []
 }
