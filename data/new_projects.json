@@ -1,5 +1,38 @@
 {
-  "scraped_at": "2026-09-13T05:23:39+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-09-13T06:01:29+00:00",
+  "count": 2,
+  "projects": [
+    {
+      "id": 3206857,
+      "title": "Отправить 50 писем",
+      "url": "https://kwork.ru/projects/3206857",
+      "description": "Чудесного дня Отправить информацию о проекте через формы обратной связи\nРазмещать информацию на различных площадках\nФиксировать выполненную работу",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "wiiw",
+      "buyer_projects": 567,
+      "hire_rate": 70,
+      "offers": 0,
+      "time_left": "1 д. 14 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 3
+    },
+    {
+      "id": 3206877,
+      "title": "Размещать информацию о проекте",
+      "url": "https://kwork.ru/projects/3206877",
+      "description": "На иностранных интернет-площадкахПубликовать новости\nРазмещать статьи\nПомогать увеличивать международную узнаваемость проекта",
+      "price": 750,
+      "max_budget": null,
+      "buyer": "wiiw",
+      "buyer_projects": 567,
+      "hire_rate": 70,
+      "offers": 0,
+      "time_left": "1 д. 14 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 4
+    }
+  ]
 }
