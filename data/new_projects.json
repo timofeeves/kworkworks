@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-09-13T23:39:46+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-09-14T01:00:02+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3252615,
+      "title": "Поднять ИКС для сайта (строительство)",
+      "url": "https://kwork.ru/projects/3252615",
+      "description": "Нужно хорошо поднять ИКС для сайта, у нас пока 10. Что вообще можете предложить? не такое прям затратное, буду рад!",
+      "price": 1000,
+      "max_budget": 3000,
+      "buyer": "Alexander_KF",
+      "buyer_projects": 65,
+      "hire_rate": 44,
+      "offers": 2,
+      "time_left": "23 ч. 14 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
