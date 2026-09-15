@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-09-15T00:51:39+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3253297,
-      "title": "Aliexpress регистрация merchant",
-      "url": "https://kwork.ru/projects/3253297",
-      "description": "Регистрация Aliexpress продавца, настройка кабинета логистика из китаяесли есть свой wb ozon ип . Если торговали на ali или свой кабинет преимущество +%",
-      "price": 1000,
-      "max_budget": null,
-      "buyer": "andreidmitriev17647",
-      "buyer_projects": 49,
-      "hire_rate": 53,
-      "offers": 0,
-      "time_left": "23 ч. 42 мин.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-09-15T01:24:25+00:00",
+  "count": 0,
+  "projects": []
 }
