@@ -1,38 +1,5 @@
 {
-  "scraped_at": "2026-09-16T00:04:17+00:00",
-  "count": 2,
-  "projects": [
-    {
-      "id": 3253936,
-      "title": "Монтаж TikTok",
-      "url": "https://kwork.ru/projects/3253936",
-      "description": "Необходимо динамично смонтировать игровые видео (TikTok)Прайс - 1,000₽ / 1 минута готового материала\nКаждый ролик длится ~20 секунд\nИз исходников у вас будут: Оригинальное видео игры и озвучка\nТакже пришлю вам видео, которое детально покажет, как монтировать в нужном стиле\nЦена в кворке за 30 видео по 20 секунд",
-      "price": 10000,
-      "max_budget": null,
-      "buyer": "FedorNesmeyan",
-      "buyer_projects": 4,
-      "hire_rate": 67,
-      "offers": 2,
-      "time_left": "1 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3253926,
-      "title": "Вычитка текста книги на Английском",
-      "url": "https://kwork.ru/projects/3253926",
-      "description": "Нужно профессиональная Вычитка текста книги на Английскомколичество знаков без пробелов: 69260\nпо срокам не срочно.",
-      "price": 7000,
-      "max_budget": 21000,
-      "buyer": "VIVInvestGroup",
-      "buyer_projects": 11,
-      "hire_rate": 57,
-      "offers": 1,
-      "time_left": "1 д. 22 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-09-16T01:21:38+00:00",
+  "count": 0,
+  "projects": []
 }
