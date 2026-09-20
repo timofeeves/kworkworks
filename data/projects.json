@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-09-19T23:15:34+00:00",
+  "scraped_at": "2026-09-20T01:01:15+00:00",
   "source": "https://kwork.ru/projects?c=all",
-  "requested_pages": 1,
+  "requested_pages": 5,
   "reported_total_pages": 39,
   "scanned_pages": 1,
   "page_summaries": [
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3239152
+      "first_project_id": 3244662
     }
   ],
   "count": 12,
@@ -23,8 +23,8 @@
       "buyer": "1Ilshat",
       "buyer_projects": 9,
       "hire_rate": 20,
-      "offers": 20,
-      "time_left": "1 д. 21 ч.",
+      "offers": 22,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,24 +39,8 @@
       "buyer": "mafiavero_assistant",
       "buyer_projects": 16,
       "hire_rate": 57,
-      "offers": 3,
-      "time_left": "1 д. 21 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3255994,
-      "title": "Проверить 3 приложения на iPhone: удобство и ошибки",
-      "url": "https://kwork.ru/projects/3255994",
-      "description": "Нужен взгляд обычного пользователя на три наших iPhone-приложения перед выпуском. Оплата 500 ₽ за проверку ВСЕХ ТРЁХ, не за каждое. Нужны свой iPhone с iOS 26 или новее и TestFlight.1. Счётчик очков для настольной игры: создать партию, ввести и исправить счёт, отменить/повторить ход, перезапустить, продолжить и завершить, открыть историю.\n2. Таймер с последовательными этапами: задать короткие интервалы и перерыв, запуск/пауза/продолжение, смена этапа, фон и блокировка телефона, естественное завершение и история.\n3. Журнал пасеки: создать пасеку и ульи, записать осмотр с фото, исправить запись, поиск, экспорт и восстановление копии на тестовых данных.\nВ каждом: оценить понятность и удобство UI/UX, русский/английский, светлую/тёмную тему, крупный текст, поворот, открытую клавиатуру, сохранность данных после перезапуска и основной сценарий без интернета. VoiceOver не требуется.\nРезультат: краткий отчёт по каждому приложению; ошибки — шаги, ожидание/факт, скриншот или видео. Указать модель iPhone, iOS и сборки. Даже если ошибок нет, перечислить проверенное и впечатления.\nПервый отчёт — за 2 дня после оформления заказа и получения доступа. Включён один точечный ретест найденных ошибок после обновления; его срок согласуем. Готовые части присылайте сразу.\nЭто тестирование ПО, без покупок и платежей в приложениях. Публиковать отзывы не нужно. В отклике: модель, iOS, языки, когда готовы начать и согласны ли на 500 ₽ за все три.",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "brandandface",
-      "buyer_projects": 574,
-      "hire_rate": 97,
-      "offers": 3,
-      "time_left": "1 д. 21 ч.",
+      "offers": 5,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -72,7 +56,7 @@
       "buyer_projects": 3,
       "hire_rate": 0,
       "offers": 4,
-      "time_left": "2 д. 21 ч.",
+      "time_left": "2 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -88,7 +72,7 @@
       "buyer_projects": 51,
       "hire_rate": 32,
       "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -103,8 +87,24 @@
       "buyer": "Salvador1w1332",
       "buyer_projects": 148,
       "hire_rate": 47,
-      "offers": 20,
-      "time_left": "1 д. 21 ч.",
+      "offers": 24,
+      "time_left": "1 д. 19 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3244662,
+      "title": "Решение вопросов по работе маркетплейс",
+      "url": "https://kwork.ru/projects/3244662",
+      "description": "От вас требуется опыт или практика в подобных вопросах,Решение спорных вопросов маркетплейс, советы по опыту, наставление от опытного специалиста\nОбщие вопросы, до 10 вопросов по товарам маркировке авторским правам, претензиям и работе кабинета",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "andreidmitriev17647",
+      "buyer_projects": 49,
+      "hire_rate": 53,
+      "offers": 1,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -120,7 +120,7 @@
       "buyer_projects": 96,
       "hire_rate": 57,
       "offers": 0,
-      "time_left": "1 д. 23 ч.",
+      "time_left": "1 д. 21 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -135,8 +135,8 @@
       "buyer": "andreidmitriev17647",
       "buyer_projects": 49,
       "hire_rate": 53,
-      "offers": 6,
-      "time_left": "1 д. 21 ч.",
+      "offers": 7,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -152,7 +152,7 @@
       "buyer_projects": 49,
       "hire_rate": 53,
       "offers": 6,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -168,7 +168,7 @@
       "buyer_projects": 49,
       "hire_rate": 53,
       "offers": 2,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -184,7 +184,7 @@
       "buyer_projects": 49,
       "hire_rate": 53,
       "offers": 1,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -199,8 +199,8 @@
       "buyer": "andreidmitriev17647",
       "buyer_projects": 49,
       "hire_rate": 53,
-      "offers": 2,
-      "time_left": "1 д. 21 ч.",
+      "offers": 3,
+      "time_left": "1 д. 19 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
