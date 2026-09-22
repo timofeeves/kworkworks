@@ -1,5 +1,24 @@
 {
-  "scraped_at": "2026-09-22T22:01:11+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-09-22T23:01:36+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3257184,
+      "title": "Клип для VK",
+      "url": "https://kwork.ru/projects/3257184",
+      "description": "Нужен клип для VK с подбором музыки, разрешённой для коммерческого использования.В прикрепленном файле - ТЗ.",
+      "price": 1500,
+      "max_budget": 4500,
+      "buyer": "Senat2004",
+      "buyer_projects": 7,
+      "hire_rate": 100,
+      "offers": 1,
+      "time_left": "23 ч. 20 мин.",
+      "files": [
+        "ТЗ.rtf"
+      ],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
