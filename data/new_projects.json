@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-09-26T00:54:02+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3259329,
-      "title": "Создание low poly паучка с анимациями",
-      "url": "https://kwork.ru/projects/3259329",
-      "description": "Нужна милая стилизованная low-poly модель паучка для игры, с ригом и базовыми анимациями (idle, walk, jump и т. д.). Есть прямой референс для самой модели и анимациями, так что трудностей и недопониманий возникнуть не должно. Подробности в лс после портфолио.",
-      "price": 6000,
-      "max_budget": 18000,
-      "buyer": "pirate_sasha",
-      "buyer_projects": 11,
-      "hire_rate": 50,
-      "offers": 0,
-      "time_left": "2 д. 20 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-09-26T01:28:41+00:00",
+  "count": 0,
+  "projects": []
 }
