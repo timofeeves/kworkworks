@@ -1,5 +1,70 @@
 {
-  "scraped_at": "2026-09-26T01:28:41+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-09-26T05:58:20+00:00",
+  "count": 4,
+  "projects": [
+    {
+      "id": 3259365,
+      "title": "Нужно помочь разработать блог на сайте Модкс Рево",
+      "url": "https://kwork.ru/projects/3259365",
+      "description": "Нужно помочь разработать блог на сайте Модкс РевоШаблон и исходный код предоставлю\nНужно реализовать шаблон главной страницы блога и вывода в нее статей\nТам не сложно, я бы сам по мануалам и видео инструкции с ютьюба реализовал, просто не хватает времени",
+      "price": 4000,
+      "max_budget": 12000,
+      "buyer": "ya-f-86",
+      "buyer_projects": 43,
+      "hire_rate": 40,
+      "offers": 13,
+      "time_left": "2 д. 15 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3259357,
+      "title": "Ebay amazon etsy seller",
+      "url": "https://kwork.ru/projects/3259357",
+      "description": "Ebay amazon etsy seller консультации по площадкамЕсли продавали - преимущественно, требуется донастройка в поставках\nДругие задачи исполнителю",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "Ckizomba56",
+      "buyer_projects": 35,
+      "hire_rate": 14,
+      "offers": 1,
+      "time_left": "2 д. 15 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3259338,
+      "title": "Aliexpress seller",
+      "url": "https://kwork.ru/projects/3259338",
+      "description": "Aliexpress sellerнастройка логистика\nесли есть свой кабинет, коннект или опыт торговлю преимущественно + 500, не отмечаться контент менеджерам,",
+      "price": 1000,
+      "max_budget": null,
+      "buyer": "Ckizomba56",
+      "buyer_projects": 35,
+      "hire_rate": 14,
+      "offers": 0,
+      "time_left": "2 д. 15 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3257650,
+      "title": "Генерация вертикальных видео",
+      "url": "https://kwork.ru/projects/3257650",
+      "description": "Необходимо в нейронке генерировать вертикальные видео с обзорами локаций (природа, базы отдыха, заповедники и т.д.) по заготовленным фото (принцип раскадровки). Местами дорисовывать недостающий контент без смазывания листьев деревьев, очертания рек и т.д.",
+      "price": 50000,
+      "max_budget": 150000,
+      "buyer": "eva-agency",
+      "buyer_projects": 1,
+      "hire_rate": null,
+      "offers": 6,
+      "time_left": "2 д. 22 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
