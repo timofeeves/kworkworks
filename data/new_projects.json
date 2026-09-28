@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-09-27T23:18:44+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-09-28T00:36:46+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3260074,
+      "title": "WEBp - Jpeg Png массовое изменение изображений парсинг",
+      "url": "https://kwork.ru/projects/3260074",
+      "description": "Есть изображения формат webp - нужно переделать в JpegPNG изменить пропорциисделать подложку-фон, массово более 1000шт",
+      "price": 500,
+      "max_budget": null,
+      "buyer": "Ckizomba56",
+      "buyer_projects": 36,
+      "hire_rate": 14,
+      "offers": 3,
+      "time_left": "23 ч. 49 мин.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
