@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-10-03T21:08:52+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3262963,
-      "title": "Создать ИИ ролик",
-      "url": "https://kwork.ru/projects/3262963",
-      "description": "Добрый день нужно создать ИИ ролик на тему база данных за 60 секунд. У кого есть опыт генерации таких видео",
-      "price": 500,
-      "max_budget": null,
-      "buyer": "tronns",
-      "buyer_projects": 44,
-      "hire_rate": 38,
-      "offers": 3,
-      "time_left": "1 д. 23 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    }
-  ]
+  "scraped_at": "2026-10-03T22:09:00+00:00",
+  "count": 0,
+  "projects": []
 }
