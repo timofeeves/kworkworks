@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-10-04T00:35:19+00:00",
+  "scraped_at": "2026-10-04T06:20:20+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
-  "reported_total_pages": 33,
+  "reported_total_pages": 32,
   "scanned_pages": 1,
   "page_summaries": [
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3226970
+      "first_project_id": 3231422
     }
   ],
   "count": 12,
@@ -23,8 +23,8 @@
       "buyer": "tronns",
       "buyer_projects": 44,
       "hire_rate": 38,
-      "offers": 3,
-      "time_left": "1 д. 20 ч.",
+      "offers": 7,
+      "time_left": "1 д. 14 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -39,8 +39,8 @@
       "buyer": "kravchenkovvladisl",
       "buyer_projects": 11,
       "hire_rate": 20,
-      "offers": 2,
-      "time_left": "1 д. 20 ч.",
+      "offers": 4,
+      "time_left": "1 д. 14 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -55,43 +55,11 @@
       "buyer": "goldstandartuae",
       "buyer_projects": 12,
       "hire_rate": 13,
-      "offers": 21,
-      "time_left": "1 д. 20 ч.",
+      "offers": 27,
+      "time_left": "1 д. 14 ч.",
       "files": [
         "Screenshot_1.png"
       ],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3262942,
-      "title": "Продвижение интернет магазина",
-      "url": "https://kwork.ru/projects/3262942",
-      "description": "Требуется комплексное продвижение интернет магазина.Регион Москва и МО \nСайт zakazkupe.ru\nКорпусная мебель\nЖдём предложений.",
-      "price": 20000,
-      "max_budget": 60000,
-      "buyer": "Alex801",
-      "buyer_projects": 34,
-      "hire_rate": 63,
-      "offers": 16,
-      "time_left": "1 д. 20 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3262941,
-      "title": "Сделать дизайн шапки для группы ВК",
-      "url": "https://kwork.ru/projects/3262941",
-      "description": "Необходимо разработать адаптивный дизайн шапок для  ВК . Тематика  профессиональное консультирование. Дизайн должен быть современным, визуально привлекательным и обязательно учитывать законы мобильной версии: текст и ключевые элементы должны оставаться читабельными и понятными на смартфонах. Пришлите, пожалуйста, ваши примеры работ. однотипные версии нейросетей не надо (использовать можно но не совсем уж банально)  - просто со вкусом читабельно со смыслом \nВся инфо есть",
-      "price": 500,
-      "max_budget": 1500,
-      "buyer": "hotel43",
-      "buyer_projects": 73,
-      "hire_rate": 53,
-      "offers": 22,
-      "time_left": "1 д. 20 ч.",
-      "files": [],
       "external_links": [],
       "source_page": 1
     },
@@ -105,8 +73,24 @@
       "buyer": "avtoservispanova",
       "buyer_projects": 2,
       "hire_rate": null,
-      "offers": 2,
-      "time_left": "1 д. 20 ч.",
+      "offers": 3,
+      "time_left": "1 д. 14 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3262723,
+      "title": "Доделать Программу сделанную на BAS срочно",
+      "url": "https://kwork.ru/projects/3262723",
+      "description": "Нужен специалист по BAS! Человек нужен с опытом! Все кто брались не помогли и даже не знают как интерфейс сделать! Нужно доделать и проверить программу  чтобы все работало! Подробности напишу в ЛС! Нужно сегодня! С меня супер отзыв будет и постоянные заказы по новым разработкам! Исходник вышлю!Прежде чем писать посмотрите и скажите что работает а что нет! Спасибо. после доработки сделать красивый интерфейс. Спасибо",
+      "price": 2000,
+      "max_budget": 6000,
+      "buyer": "Aurus2026",
+      "buyer_projects": 49,
+      "hire_rate": 47,
+      "offers": 9,
+      "time_left": "1 д. 14 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -121,8 +105,8 @@
       "buyer": "Radimich",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 21,
-      "time_left": "1 д. 15 ч.",
+      "offers": 23,
+      "time_left": "1 д. 9 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -138,7 +122,7 @@
       "buyer_projects": 345,
       "hire_rate": 60,
       "offers": 0,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 14 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -154,7 +138,7 @@
       "buyer_projects": 345,
       "hire_rate": 60,
       "offers": 0,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 14 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -169,8 +153,24 @@
       "buyer": "find2",
       "buyer_projects": 80,
       "hire_rate": 57,
+      "offers": 1,
+      "time_left": "1 д. 14 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3231422,
+      "title": "Создать 3д модель для мрт кабинета",
+      "url": "https://kwork.ru/projects/3231422",
+      "description": "Для сайта нужно создать 3д модель человека. Когда кликаешь на определенную область где болит, долго появится окно которое предлагает вариант исследования и рядом кнопка записаться (или снизу). Грубо говоря помощь для точной записи на исследования.",
+      "price": 500,
+      "max_budget": 1500,
+      "buyer": "Otto12",
+      "buyer_projects": 104,
+      "hire_rate": 67,
       "offers": 0,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 14 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -185,8 +185,8 @@
       "buyer": "karamel7",
       "buyer_projects": 154,
       "hire_rate": 53,
-      "offers": 6,
-      "time_left": "1 д. 22 ч.",
+      "offers": 20,
+      "time_left": "1 д. 17 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -202,7 +202,7 @@
       "buyer_projects": 80,
       "hire_rate": 57,
       "offers": 0,
-      "time_left": "1 д. 20 ч.",
+      "time_left": "1 д. 14 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
