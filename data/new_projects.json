@@ -1,22 +1,5 @@
 {
-  "scraped_at": "2026-10-18T20:34:13+00:00",
-  "count": 1,
-  "projects": [
-    {
-      "id": 3267828,
-      "title": "Подготовить карточки товаров для новых вещей Вб",
-      "url": "https://kwork.ru/projects/3267828",
-      "description": "Подготовить карточки товаров для новых вещей Вайлдебриз и озон выполнить требутеся по техническому заданию в сроки",
-      "price": 7500,
-      "max_budget": 22500,
-      "buyer": "fomina-2ifyr",
-      "buyer_projects": 2,
-      "hire_rate": null,
-      "offers": 46,
-      "time_left": "1 д. 21 ч.",
-      "files": [],
-      "external_links": [],
-      "source_page": 2
-    }
-  ]
+  "scraped_at": "2026-10-18T21:23:51+00:00",
+  "count": 0,
+  "projects": []
 }
