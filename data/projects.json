@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17T23:01:39+00:00",
+  "scraped_at": "2026-10-18T00:52:06+00:00",
   "source": "https://kwork.ru/projects?c=all",
   "requested_pages": 1,
   "reported_total_pages": 33,
@@ -8,7 +8,7 @@
     {
       "page": 1,
       "projects": 12,
-      "first_project_id": 3267699
+      "first_project_id": 3267133
     }
   ],
   "count": 12,
@@ -23,8 +23,8 @@
       "buyer": "Valeriy999",
       "buyer_projects": 12,
       "hire_rate": 100,
-      "offers": 7,
-      "time_left": "1 д. 21 ч.",
+      "offers": 8,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -40,7 +40,7 @@
       "buyer_projects": 9,
       "hire_rate": 60,
       "offers": 1,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -56,7 +56,7 @@
       "buyer_projects": 67,
       "hire_rate": 87,
       "offers": 0,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -71,8 +71,8 @@
       "buyer": "sergeiberezin621",
       "buyer_projects": 4,
       "hire_rate": 0,
-      "offers": 16,
-      "time_left": "1 д. 21 ч.",
+      "offers": 19,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -87,8 +87,8 @@
       "buyer": "sergeiberezin621",
       "buyer_projects": 4,
       "hire_rate": 0,
-      "offers": 11,
-      "time_left": "1 д. 21 ч.",
+      "offers": 13,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -103,10 +103,30 @@
       "buyer": "noizyboy",
       "buyer_projects": 1,
       "hire_rate": null,
-      "offers": 10,
-      "time_left": "1 д. 21 ч.",
+      "offers": 13,
+      "time_left": "1 д. 20 ч.",
       "files": [
         "Снимок экрана 2026-10-17 222001.png"
+      ],
+      "external_links": [],
+      "source_page": 1
+    },
+    {
+      "id": 3267133,
+      "title": "Найти 250 роликов",
+      "url": "https://kwork.ru/projects/3267133",
+      "description": "ТЗ — обработка 250 роликовОплата: 2000 ₽ за 250 готовых роликов.\nВыберу 5 исполнителей.\nДень 1 — найти 250 роликов и подготовить товары\n1. Найти 250 подходящих роликов с товарами в соцсети.\n2. Скопировать ссылки и отправить их в Telegram-бот, чтобы скачать видео.\n3. Из каждого ролика сделать хороший скриншот товара.\n4. Загрузить скриншот в ChatGPT или Gemini и сделать товар на чистом белом фоне.\n5. Все 250 фотографий на белом фоне сразу отправить нам.\n6. Скачанные видео сохранить у себя.\nДень 2 — обрезать видео\nОбрезать все 250 роликов до момента, когда автор начинает показывать или использовать сайт.\nГотовые обрезанные ролики отправить нам.\nМы берём ваши фотографии товаров и делаем инфографику. На это требуется примерно 1–2 дня.\nДень 3 — запись процесса на сайте\nПосле получения готовой инфографики:\n1. Включить запись экрана на телефоне или компьютере.\n2. Зайти на наш сайт.\n3. Загрузить товар.\n4. Запустить генерацию.\n5. Подождать примерно 5 секунд.\n6. Показать готовую инфографику.\n7. Остановить запись.\nПосле этого соединить:\nОбрезанный ролик → запись процесса создания инфографики на нашем сайте.\nГотовое видео отправить нам.\nСубтитры, озвучка и дополнительный монтаж не нужны — этим занимается наша команда.\nКак искать ролики\nЯ отправлю несколько ссылок с примерами подходящих видео. Посмотрите каждое несколько раз — после этого алгоритм начнёт чаще показывать похожие ролики в рекомендациях.\nТакже в закрепе будет видео с примером, какие именно ролики нужно искать.",
+      "price": 2000,
+      "max_budget": null,
+      "buyer": "usellbilain",
+      "buyer_projects": 19,
+      "hire_rate": 43,
+      "offers": 1,
+      "time_left": "1 д. 20 ч.",
+      "files": [
+        "IMG_20261014_235409_298.png",
+        "VID_20261014_235343_850.mp4",
+        "VID_20261014_235359_748.mp4"
       ],
       "external_links": [],
       "source_page": 1
@@ -121,8 +141,8 @@
       "buyer": "kravchenkovvladisl",
       "buyer_projects": 12,
       "hire_rate": 25,
-      "offers": 9,
-      "time_left": "1 д. 21 ч.",
+      "offers": 10,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -137,8 +157,8 @@
       "buyer": "Rezo_",
       "buyer_projects": 5,
       "hire_rate": 20,
-      "offers": 1,
-      "time_left": "1 д. 21 ч.",
+      "offers": 2,
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -154,7 +174,7 @@
       "buyer_projects": 218,
       "hire_rate": 67,
       "offers": 1,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [],
       "external_links": [],
       "source_page": 1
@@ -169,30 +189,9 @@
       "buyer": "Mikhail_T",
       "buyer_projects": 126,
       "hire_rate": 73,
-      "offers": 0,
-      "time_left": "1 д. 21 ч.",
+      "offers": 1,
+      "time_left": "1 д. 20 ч.",
       "files": [],
-      "external_links": [],
-      "source_page": 1
-    },
-    {
-      "id": 3254592,
-      "title": "Замена старых фото товара на новые с AI генерацией",
-      "url": "https://kwork.ru/projects/3254592",
-      "description": "Необходимо произвести замену старых карточек товара на новые, с генерацией. Работа включает в себя как работу на сайте, то есть загрузить картинку для карточки и старую удалить, так и непосредственно сама генерация. Необходим исполнитель, у кого есть платная подписка на ChatGPT, так как генераций по картинкам будет много.Всего 529 штук.\nПодробное тз во вложении.",
-      "price": 8000,
-      "max_budget": null,
-      "buyer": "vipproject",
-      "buyer_projects": 218,
-      "hire_rate": 67,
-      "offers": 5,
-      "time_left": "1 д. 21 ч.",
-      "files": [
-        "промт для улицы.docx",
-        "Промт исходник.docx",
-        "ТЗ по замене картинок.docx",
-        "Новая папка.rar"
-      ],
       "external_links": [],
       "source_page": 1
     },
@@ -207,7 +206,7 @@
       "buyer_projects": 390,
       "hire_rate": 80,
       "offers": 1,
-      "time_left": "1 д. 21 ч.",
+      "time_left": "1 д. 20 ч.",
       "files": [
         "IMG_4812.jpeg",
         "Интерьерное решение жилого дома.pdf"
