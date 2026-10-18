@@ -1,5 +1,22 @@
 {
-  "scraped_at": "2026-10-18T00:55:33+00:00",
-  "count": 0,
-  "projects": []
+  "scraped_at": "2026-10-18T05:13:34+00:00",
+  "count": 1,
+  "projects": [
+    {
+      "id": 3267708,
+      "title": "Сео продвижение под ключ на 30 дней",
+      "url": "https://kwork.ru/projects/3267708",
+      "description": "Первичная SEO-оптимизация «под ключ». Сайт ранее не оптимизировался.Необходимо самими внедрить все правки на сайт\nmusic-creator.ru\nПредложения без конкретного плана работ не рассматриваются.",
+      "price": 65000,
+      "max_budget": 195000,
+      "buyer": "DoctorSEO-2019",
+      "buyer_projects": 9,
+      "hire_rate": 67,
+      "offers": 7,
+      "time_left": "2 д. 22 ч.",
+      "files": [],
+      "external_links": [],
+      "source_page": 1
+    }
+  ]
 }
